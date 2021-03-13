@@ -865,5 +865,8 @@
   "slrgde/glftpd": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated by the author"
+  },
+  "ghcr.io/linuxserver/hedgedoc": {
+    "RemoveFromCA": true
   }
 } 
