@@ -558,9 +558,6 @@
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.system.autofan.plg": {
     "CAComment": "Note that this plugin will not detect all (or any) temperatures or fan speeds on all combinations of hardware.  This is outside of the author's control"
   },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.s3.sleep.plg": {
-    "ModeratorComment": "Numerous issues with 6.9 and this plugin have been reported.  Start with this <a href='https://forums.unraid.net/topic/34889-dynamix-v6-plugins/page/120/?tab=comments#comment-955230'>here</a>"
-  },
   "aptalca/home-automation-bridge": {
     "Deprecated": true,
     "ModeratorComment": "Because author a member of linuxserver, recommended to use the version from linuxserver instead"
