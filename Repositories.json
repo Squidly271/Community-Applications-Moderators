@@ -756,7 +756,10 @@
   {
     "url": "https://github.com/A75G/docker-templates",
     "name": "A75G's Repository",
-    "profile": "https://forums.unraid.net/profile/92683-a75g/"
+    "profile": "https://forums.unraid.net/profile/92683-a75g/",
+    "duplicated": {
+      "vabene1111/recipes:latest": true
+    }
   },
   {
     "url": "https://github.com/dalekseevs/Unraid-Docker-Templates",
