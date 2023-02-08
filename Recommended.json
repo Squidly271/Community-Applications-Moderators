@@ -1,0 +1,236 @@
+{
+  "https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/plugins/fix.common.problems.plg": {
+    "Date": "12/1/2018",
+    "Reason": {
+      "en_US": "Helps find errors or configuration mistakes with your server"
+    },
+    "Who": "Andrew"
+  },
+  "https://raw.githubusercontent.com/Squidly271/unlimited-width/master/unlimited-width.plg": {
+    "Date": "1/1/2019",
+    "Reason": {
+      "en_US": "If you habitually use a browser full size on an ultra-wide / 4K monitor nothing beats this"
+    },
+    "Who": "Andrew"
+  },
+  "lscr.io/linuxserver/heimdall": {
+    "Date": "2/1/2019",
+    "Reason": {
+      "en_US": "A great customizable landing page for all your websites, docker containers etc"
+    },
+    "Who": "Andrew"
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.ssd.trim.plg": {
+    "Date": "3/1/2019",
+    "Reason": {
+      "en_US": "Enables and runs trim on your XFS formatted SSDs (Not required for BTRFS)"
+    },
+    "Who": "Andrew"
+  },
+  "tquinnelly/clamav-alpine": {
+    "Date": "7/1/2019",
+    "Reason": {
+      "en_US": "A nice virus checker for all the files on your server"
+    },
+    "Who": "Andrew"
+  },
+  "josh5/unmanic": {
+    "Date": "10/1/2019",
+    "Reason": {
+      "en_US": "Easily re-encode your media to h.265 to save space on your array with minimal quality loss"
+    },
+    "Who": "Andrew"
+  },
+  "lscr.io/linuxserver/foldingathome": {
+    "Date": "4/1/2020",
+    "Reason": {
+      "en_US": "Help join the fight against COVID-19"
+    }
+  },
+  "grafana/grafana": {
+    "Date": "9/1/2020",
+    "Reason": {
+      "en_US": "An integral part of the <a href='https://forums.unraid.net/topic/96895-ultimate-unraid-dashboard-uud/' target='_blank'>Ultimate Unraid Dashboard</a> project"
+    }
+  },
+  "bizmodeller/mymediaforalexa": {
+    "Date": "10/1/2020",
+    "Reason": {
+      "en_US": "Nothing beats being able to play your own music collection on your Alexa device"
+    },
+    "Who": "Andrew"
+  },
+  "https://raw.githubusercontent.com/ich777/unraid-nvidia-driver/master/nvidia-driver.plg": {
+    "Date": "11/1/2020",
+    "Reason": {
+      "en_US": "Allows your docker containers to take advantage of a non-passed through nVidia GPU for transcoding, computation etc"
+    }
+  },
+  "https://unraid-dl.sfo2.cdn.digitaloceanspaces.com/unraid-api/dynamix.unraid.net.plg": {
+    "Date": "1/1/2021",
+    "Reason": {
+      "en_US": "Securely access your server remotely and more!"
+    }
+  },
+  "jlesage/cloudberry-backup": {
+    "Date": "2/1/2021",
+    "Reason": {
+      "en_US": "Easily backup your files to cloud based storage.  <a href='https://www.youtube.com/watch?v=OHP8OKMMm4E' target='_blank'>Walk Through Video</a>"
+    }
+  },
+  "netdata/netdata": {
+    "Date": "3/1/2021",
+    "Reason": {
+      "en_US": "A great system wide dashboard with no setup required"
+    },
+    "Who": "Andrew"
+  },
+  "https://raw.githubusercontent.com/itimpi/parity.check.tuning/master/parity.check.tuning.plg": {
+    "Date": "4/1/2021",
+    "Reason": {
+      "en_US": "Allows you pause and resume parity checks of your array to only run when the server is idle"
+    },
+    "Who": "Andrew"
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.password.validator.plg": {
+    "Date": "5/1/2021",
+    "Reason": {
+      "en_US": "Helps keep your server secure by displaying the strength of the passwords you've chosen"
+    },
+    "Who": "Andrew"
+  },
+  "mtlynch/mediagoblin:latest": {
+    "Date": "6/1/2021",
+    "Reason": {
+      "en_US": "The #1 trending app with over 370k downloads is mediagoblin: the decentralized, roll your own, media publishing platform",
+      "de_DE": "Die Nummer 1 unter den Trend-Apps mit über 370.000 Downloads ist mediagoblin: Die dezentrale, eigene Medien-Publishing-Plattform"
+    }
+  },
+  "erikvl87/languagetool": {
+    "Date": "7/1/2021",
+    "Reason": {
+      "en_US":"With over 214k downloads this month, languagetool can make use of large n-gram data sets to detect errors with words that are often confused in over 20 languages!",
+      "de_DE": "Mit über 214.000 Downloads in diesem Monat, languagetool kann große n-gram Datensätze nutzen, um Fehler mit Wörtern zu erkennen, die in über 20 Sprachen oft verwechselt werden!"
+    }
+  },
+  "ich777/enpass": {
+    "Date": "8/1/2021",
+    "Reason": {
+      "en_US": "With over 10k downloads this month, Enpass is August's CA Monthly Spotlight.",
+      "de_DE": "Mit über 10.000 Downloads in diesem Monat ist Enpass das CA Monthly Spotlight im August. "
+    }
+  },
+  "boinc/client": {
+    "Date": "9/1/2021",
+    "Reason": {
+      "en_US": "With an eye-popping 45% monthly downloads growth, Boinc is September's most popular container."
+    },
+    "Who": "Spencer"
+  },
+  "olprog/unraid-docker-webui": {
+    "Date": "10/1/2021",
+    "Reason": {
+      "en_US": "Creates a nice landing page for all of your docker containers with no work involved"
+    },
+    "Who": "Andrew"
+  },
+  "deasmi/unraid-tailscale:latest": {
+    "Date": "11/1/2021",
+    "Reason": {
+      "en_US": "With over 335K downloads to date, Tailscale is this month's CA Spotlight container"
+    }
+  },
+  "fison67/lg-connector:0.0.3": {
+    "Date": "12/1/2021",
+    "Reason": {
+      "en_US": "Sends Alerts/Notifications from my Wifi enabled LG Washer and Dryer to my phone and other home automation components"
+    },
+    "Who": "zeta_cartel_CFO"
+  },
+  "spaceinvaderone/log4j-scan:latest": {
+    "Date": "1/1/2022",
+    "Reason": {
+      "en_US": "A fully automated, accurate, and extensive scanner for finding vulnerable log4j hosts"
+    },
+    "Who": "SpencerJ"
+  },
+  "lnxd/github-backup": {
+    "Date": "2/1/2022",
+    "Reason": {
+      "en_US": "Easily and automatically backup your GitHub account to your Unraid server"
+    }
+  },
+  "https://github.com/dlandon/unassigned.devices/raw/master/unassigned.devices.preclear.plg": {
+    "Date": "3/1/2022",
+    "Reason": {
+      "en_US": "Preclear your disks for confidence in their reliability, use as a hot spare etc"
+    }
+  },
+  "modem7/docker-rickroll": {
+    "Date": "4/1/2022",
+    "Reason": {
+      "en_US": "Host your own Rickrolls for April Fools Day"
+    }
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.manager.plg": {
+    "Date": "5/1/2022",
+    "Reason": {
+      "en_US": "By popular demand, a file manager to manage all of your files on your server."
+    }
+  },
+  "jbartlett777/diskspeed": {
+    "Date": "6/1/2022",
+    "Reason": {
+      "en_US": "Easily benchmark your drives, find bottlenecks etc"
+    },
+    "Who": "Andrew"
+  },
+  "ghcr.io/haveagitgat/tdarr": {
+    "Date": "7/1/2022",
+    "Reason": {
+      "en_US": "Save TB of disk space by converting your media library to x265.  Also watch the <a href='https://www.youtube.com/watch?v=U6UMjTlwrxs' target='_blank'>video</a>"
+    }
+  },
+  "teslamate/teslamate:latest": {
+    "Date": "8/2/2022",
+    "Reason": {
+      "en_US": "TeslaMate is a powerful, self-hosted data logger for your Tesla.  Also checkout the companion app TeslaMate-Grafana"
+    }
+   },
+  "ghostfolio/ghostfolio": {
+    "Date": "9/1/2022",
+    "Reason": {
+      "en_US": "Ghostfolio is an open source wealth management software that empowers busy people to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions."
+    }
+    },
+  "modem7/wordle": {
+    "Date": "10/1/2022",
+    "Reason": {
+      "en_US": "This is a clone project of the popular word guessing game we all know and love: Wordle. Made using React, Typescript, and Tailwind."
+    }
+     },
+  "https://raw.githubusercontent.com/dlandon/tips.and.tweaks/master/tips.and.tweaks.plg": {
+    "Date": "11/1/2022",
+    "Reason": {
+      "en_US": "The Tips and Tweaks plugin allows you to adjust some NIC parameters, disk caching, CPU usage and other tweaks."
+    }
+     },
+  "saspus/duplicacy-web": {
+    "Date": "12/1/2022",
+    "Reason": {
+      "en_US": "Cloud backups done right! Duplicacy backs up your files to many cloud storages with client-side encryption and the highest level of deduplication."
+    }
+  },
+  "josh5/unmanic:latest": {
+    "Date": "1/1/2023",
+    "Reason": {
+      "en_US": "Unmanic is a simple tool for optimizing your file library with a highly customizable plugin system. Remove the complexity of automatically converting your file library and simply point Unmanic at your library and let it manage it for you."
+    }
+  },
+  "requarks/wiki": {
+    "Date": "2/1/2023",
+    "Reason": {
+      "en_US": "Wikijs A modern, lightweight and powerful wiki app built on NodeJS."
+    }
+  }
+}
