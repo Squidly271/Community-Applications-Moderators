@@ -6,11 +6,6 @@
     "profile": "https://forums.unraid.net/profile/26365-smdion/"
   },
   {
-    "url": "https://github.com/DaBeast893/Unraid-CA-XMLs",
-    "profile": "https://forums.unraid.net/profile/169643-carlfb/",
-    "name": "CarlFB's Repository"
-  },  
-  {
     "name": "smdion's beta Repository",
     "url": "https://github.com/smdion/docker-containers/tree/beta-templates",
     "forum": "http://forums.unraid.net/index.php?topic=34009.0",
@@ -2142,5 +2137,10 @@
     "url": "https://github.com/imagegenius/templates",
     "profile": "https://forums.unraid.net/profile/103573-vcxpz/",
     "name": "vcxpz's Repository"
-  }
+  },
+  {
+    "url": "https://github.com/DaBeast893/Unraid-CA-XMLs",
+    "profile": "https://forums.unraid.net/profile/169643-carlfb/",
+    "name": "CarlFB's Repository"
+  },  
 ]
