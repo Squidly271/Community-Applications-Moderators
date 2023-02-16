@@ -1443,5 +1443,21 @@
   "leadwolf/porn-vault:0.25.0-alpine": {
     "Blacklist": true,
     "ModeratorComment": "No longer exists on dockerHub"
+  },
+  "jitsi/jicofo:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Latest tag no longer exists on dockerHub"
+  },
+  "jitsi/jvb:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Latest tag no longer exists on dockerHub"
+  },
+  "jitsi/prosody:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Latest tag no longer exists on dockerHub"
+  },
+  "jitsi/web:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Latest tag no longer exists on dockerHub"
   }
 } 
