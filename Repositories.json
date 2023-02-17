@@ -2147,5 +2147,10 @@
     "url": "https://github.com/FreakErn/unraid-templates",
     "profile": "https://forums.unraid.net/profile/129382-freakern/",
     "name": "FreakErn's Repository"
+  },
+  {
+    "url": "https://github.com/wupasscat/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/103746-wupasscat/",
+    "name": "wupasscat;s Repository"
   }
 ]
