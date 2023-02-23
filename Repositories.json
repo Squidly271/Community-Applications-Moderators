@@ -2157,5 +2157,20 @@
     "url": "https://github.com/mplogas/unraid-containers",
     "profile": "https://forums.unraid.net/profile/145679-mplogas/",
     "name": "mplogas' Repository"
+  },
+  {
+    "url": "https://github.com/warieon/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/240351-warieon/",
+    "name": "warieon's Repository"
+  },
+  {
+    "url": "https://github.com/PepaonDrugs/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/157546-maxi_fpv/",
+    "name": "Maxi_Fpv's Repository"
+  },
+  {
+    "url": "https://github.com/Nackophilz/unraid_templates",
+    "profile": "https://forums.unraid.net/profile/161066-nackophilz/",
+    "name": "Nackophilz's Repository"
   }
 ]
