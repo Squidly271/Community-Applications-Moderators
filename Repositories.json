@@ -1661,7 +1661,10 @@
   {
     "url": "https://github.com/xavier-hernandez/unraid-templates",
     "profile": "https://forums.unraid.net/profile/158924-xavierh/",
-    "name": "xavierh's Repository"
+    "name": "xavierh's Repository",
+    "duplicated": {
+      "jlongster/actual-server:latest": true
+    }
   },
   {
     "url": "https://github.com/imthenachoman/unraid-templates",
