@@ -2129,7 +2129,10 @@
   {
     "url": "https://github.com/sebtech33/unRAID-Templates",
     "profile": "https://forums.unraid.net/profile/98806-sebtech33/",
-    "name": "SebTech33's Repository"
+    "name": "SebTech33's Repository",
+    "duplicated": {
+      "crazymax/rtorrent-rutorrent": true
+    }
   },
   {
     "url": "https://github.com/Belstrekkie/unraid-templates",
@@ -2139,7 +2142,10 @@
   {
     "url": "https://github.com/imagegenius/templates",
     "profile": "https://forums.unraid.net/profile/103573-vcxpz/",
-    "name": "vcxpz's Repository"
+    "name": "vcxpz's Repository",
+    "duplicated": {
+      "ghcr.io/imagegenius/immich": true
+    }
   },
   {
     "url": "https://github.com/DaBeast893/Unraid-CA-XMLs",
