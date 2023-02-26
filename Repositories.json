@@ -479,7 +479,10 @@
   {
     "url": "https://github.com/CorneliousJD/Docker-Templates",
     "name": "CorneliousJD's Repository",
-    "profile": "https://lime-technology.com/profile/78194-corneliousjd/"
+    "profile": "https://lime-technology.com/profile/78194-corneliousjd/",
+    "duplicated": {
+      "ghcr.io/imagegenius/immich:latest": true
+    }
   },
   {
     "url": "https://github.com/mlebjerg/docker-templates",
@@ -2142,10 +2145,7 @@
   {
     "url": "https://github.com/imagegenius/templates",
     "profile": "https://forums.unraid.net/profile/103573-vcxpz/",
-    "name": "vcxpz's Repository",
-    "duplicated": {
-      "ghcr.io/imagegenius/immich": true
-    }
+    "name": "vcxpz's Repository"
   },
   {
     "url": "https://github.com/DaBeast893/Unraid-CA-XMLs",
