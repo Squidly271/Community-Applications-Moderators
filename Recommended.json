@@ -233,7 +233,7 @@
       "en_US": "Wikijs A modern, lightweight and powerful wiki app built on NodeJS."
     }
   },
-  "SpaceinvaderOne/RetroNASinabox": {
+  "spaceinvaderone/retronas_inabox:latest": {
     "Date": "3/1/2023",
     "Reason": {
       "en_US": "Set up a RetroNAS VM in minutes!"
