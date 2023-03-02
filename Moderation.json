@@ -1461,12 +1461,10 @@
     "ModeratorComment": "Latest tag no longer exists on dockerHub"
   },
   "https://raw.githubusercontent.com/dmacias72/IPMI-unRAID/master/plugin/ipmi.plg": {
-    "Deprecated": true,
     "MaxVer": "6.11.5",
     "ModeratorComment": "Advised to switch to the version from SimonF which is also compatible with Unraid 6.12+"
   },
   "https://raw.githubusercontent.com/dmacias72/NUT-unRAID/master/plugin/nut.plg": {
-    "Deprecated": true,
     "MaxVer": "6.11.5",
     "ModeratorComment": "Advised to switch to the version from SimonF which is also compatible with Unraid 6.12+"
   }
