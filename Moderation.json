@@ -1467,6 +1467,8 @@
   "https://raw.githubusercontent.com/dmacias72/NUT-unRAID/master/plugin/nut.plg": {
     "MaxVer": "6.11.5",
     "ModeratorComment": "Advised to switch to the version from SimonF which is also compatible with Unraid 6.12+"
-  }
-  
+  },
+  "spaceinvaderone/macinabox": {
+    "CAComment": "To comply with Apple's EULA, this application should only be used for security research"
+  }  
 } 
