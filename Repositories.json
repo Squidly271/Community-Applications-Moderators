@@ -2206,5 +2206,10 @@
     "url": "https://github.com/mattheworres/docker-templates",
     "profile": "https://forums.unraid.net/profile/115370-matthew-orres/",
     "name": "Matthew Orres' Repository"
+  },
+  {
+    "url": "https://github.com/DatPat/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/169502-jsrk/",
+    "name": "jsrk's Repository"
   }
 ]
