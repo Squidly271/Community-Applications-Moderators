@@ -2211,5 +2211,10 @@
     "url": "https://github.com/DatPat/unraid-templates",
     "profile": "https://forums.unraid.net/profile/169502-jsrk/",
     "name": "jsrk's Repository"
+  },
+  {
+    "url": "https://github.com/terratrax/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/230036-terratrax/",
+    "name": "terratrax's Repository"
   }
 ]
