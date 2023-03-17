@@ -1470,5 +1470,8 @@
   },
   "spaceinvaderone/macinabox": {
     "CAComment": "To comply with Apple's EULA, this application should only be used for security research"
-  }  
+  },
+  "https://raw.githubusercontent.com/GiorgioAresu/ZFS-companion-unraid/main/ZFS-companion.plg": {
+    "MaxVer": "6.11.5"
+  }
 } 
