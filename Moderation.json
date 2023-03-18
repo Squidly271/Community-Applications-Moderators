@@ -1473,5 +1473,9 @@
   },
   "https://raw.githubusercontent.com/GiorgioAresu/ZFS-companion-unraid/main/ZFS-companion.plg": {
     "MaxVer": "6.11.5"
+  },
+  "candiddev/homechart": {
+    "Blacklist": true,
+    "ModeratorComment": "Tag no longer exists on dockerHub"
   }
 } 
