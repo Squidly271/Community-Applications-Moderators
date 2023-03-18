@@ -1477,5 +1477,11 @@
   "candiddev/homechart": {
     "Blacklist": true,
     "ModeratorComment": "Tag no longer exists on dockerHub"
+  },
+  "https://raw.githubusercontent.com/dorgan/Unraid-plexstreams/master/plexstreams.plg": {
+    "MaxVer": "6.11.9"
+  },
+  "https://raw.githubusercontent.com/Cyanlabs/corsairpsu-unraid/master/corsairpsu.plg": {
+    "MaxVer": "6.11.9"
   }
 } 
