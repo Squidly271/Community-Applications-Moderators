@@ -1481,9 +1481,6 @@
   "https://raw.githubusercontent.com/Cyanlabs/corsairpsu-unraid/master/corsairpsu.plg": {
     "MaxVer": "6.11.9"
   },
-  "https://raw.githubusercontent.com/olehj/disklocation/master/disklocation-master.plg": {
-    "MaxVer": "6.11.9"
-  },
   "https://raw.githubusercontent.com/b3rs3rk/gpustat-unraid/master/gpustat.plg": {
     "MaxVer": "6.11.9"
   }
