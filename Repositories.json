@@ -2256,5 +2256,15 @@
     "url": "https://github.com/ImUnlequit/unraidtemplate",
     "profile": "https://forums.unraid.net/profile/167979-imunlequit/",
     "name": "ImunLequit's Repository"
+  },
+  {
+    "url": "https://github.com/giganode/unraid-plugins",
+    "profile": "https://forums.unraid.net/profile/105464-giganode/",
+    "name": "giganode's Repository"
+  },
+  {
+    "url": "https://github.com/zhtengw/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/245393-zhtengw/",
+    "name": "zhtengw's Repository"
   }
 ]
