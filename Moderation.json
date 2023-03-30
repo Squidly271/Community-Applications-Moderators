@@ -1483,5 +1483,9 @@
   },
   "https://raw.githubusercontent.com/b3rs3rk/gpustat-unraid/master/gpustat.plg": {
     "MaxVer": "6.11.9"
+  },
+  "shaarli/shaarli:master": {
+    "Blacklist": true,
+    "ModeratorComment": "Tag no longer exists on dockerHub"
   }
 } 
