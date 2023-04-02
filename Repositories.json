@@ -2266,5 +2266,10 @@
     "url": "https://github.com/laromicas/unraid-templates",
     "profile": "https://forums.unraid.net/profile/172751-laromicas/",
     "name": "laromicas' Repository"
+  },
+  {
+    "url": "https://github.com/seriousm4x/unraid-community-apps",
+    "profile": "https://forums.unraid.net/profile/246841-seriousm4x/",
+    "name": "seriousm4x's Repository"
   }
 ]
