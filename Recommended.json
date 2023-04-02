@@ -238,5 +238,11 @@
     "Reason": {
       "en_US": "Set up a RetroNAS VM in minutes!"
     }
+  },
+  "kizaing/kavita": {
+    "Date": "4/1/2023",
+    "Reason": {
+      "en_US": "Kavita is a rocket-fueled self-hosted digital library that supports a vast array of file formats for your books, comics, and graphic novels."
+    }
   }
 }
