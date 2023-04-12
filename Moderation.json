@@ -1487,5 +1487,17 @@
   "shaarli/shaarli:master": {
     "Blacklist": true,
     "ModeratorComment": "Tag no longer exists on dockerHub"
+  },
+  "https://raw.githubusercontent.com/dlandon/unassigned.devices/master/unassigned.devices.plg": {
+    "LTOfficial": true
+  },
+  "https://raw.githubusercontent.com/dlandon/unassigned.devices/master/unassigned.devices-plus.plg": {
+    "LTOfficial": true
+  },
+  "https://raw.githubusercontent.com/dlandon/unassigned.devices/master/unassigned.devices.preclear.plg": {
+    "LTOfficial": true
+  },
+  "https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/plugins/fix.common.problems.plg": {
+    "LTOfficial": true
   }
 } 
