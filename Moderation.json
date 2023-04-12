@@ -1501,7 +1501,6 @@
     "LTOfficial": true
   },
   "https://unraid-dl.sfo2.cdn.digitaloceanspaces.com/unraid-api/dynamix.unraid.net.plg": {
-    "LTOfficial": true,
-    "MaxVer": "6.13.0"
+    "LTOfficial": true
   }
 } 
