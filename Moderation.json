@@ -1499,5 +1499,8 @@
   },
   "https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/plugins/fix.common.problems.plg": {
     "LTOfficial": true
+  },
+  "https://unraid-dl.sfo2.cdn.digitaloceanspaces.com/unraid-api/dynamix.unraid.net.plg": {
+    "LTOfficial": true
   }
 } 
