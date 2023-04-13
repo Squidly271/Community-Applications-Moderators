@@ -2143,11 +2143,6 @@
     "name": "imagegenius' Repository"
   },
   {
-    "url": "https://github.com/DaBeast893/Unraid-CA-XMLs",
-    "profile": "https://forums.unraid.net/profile/169643-carlfb/",
-    "name": "CarlFB's Repository"
-  },
-  {
     "url": "https://github.com/FreakErn/unraid-templates",
     "profile": "https://forums.unraid.net/profile/129382-freakern/",
     "name": "FreakErn's Repository"
@@ -2281,5 +2276,10 @@
     "url": "https://github.com/untraceablez/uvdesk-unraid",
     "profile": "https://forums.unraid.net/profile/111430-untraceablez/",
     "name": "untraceablez' Repository"
+  },
+  {
+    "url": "https://github.com/JACOBSMILE/Unraid_XMLS",
+    "profile": "https://forums.unraid.net/profile/141756-jacobsmile/",
+    "name": "JACOBSMILE's Repository"
   }
 ]
