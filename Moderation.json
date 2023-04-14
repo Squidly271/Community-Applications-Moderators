@@ -1412,7 +1412,8 @@
     "ModeratorComment": "Deprecated by the author.  Suggested to use another PiHole container"
   },
   "remie/youtransfer": {
-    "CAComment": "This project appears to have been abandoned"
+    "CAComment": "This project appears to have been abandoned",
+    "Deprecated": true
   },
   "https://raw.githubusercontent.com/Squidly271/ca.backup2/master/plugins/ca.backup2.plg": {
     "Deprecated": true,
@@ -1502,5 +1503,13 @@
   },
   "https://unraid-dl.sfo2.cdn.digitaloceanspaces.com/unraid-api/dynamix.unraid.net.plg": {
     "LTOfficial": true
+  },
+  "captinsano/tonido": {
+    "Deprecated": true
+  },
+  "fanningert/docker-virtmanager": {
+    "Deprecated" true,
+    "ModeratorComment": "Abandoned"
   }
+  
 } 
