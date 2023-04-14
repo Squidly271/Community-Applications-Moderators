@@ -1508,8 +1508,11 @@
     "Deprecated": true
   },
   "fanningert/docker-virtmanager": {
-    "Deprecated" true,
+    "Deprecated": true,
     "ModeratorComment": "Abandoned"
+  },
+  "ich777/jdupes-gui": {
+    "Deprecated": true
   }
   
 } 
