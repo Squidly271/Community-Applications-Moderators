@@ -1513,6 +1513,8 @@
   },
   "ich777/jdupes-gui": {
     "Deprecated": true
+  },
+  "minio/minio": {
+    "CAComment": "Unfortunately due to changes in Minio, the unRAID file system is no longer supported. The only way to get Minio to work on unRAID now is by mapping a single disk directly or setting up a V-Disk."
   }
-  
 } 
