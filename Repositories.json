@@ -2271,5 +2271,10 @@
     "url": "https://github.com/JACOBSMILE/Unraid_XMLS",
     "profile": "https://forums.unraid.net/profile/141756-jacobsmile/",
     "name": "JACOBSMILE's Repository"
+  },
+  {
+    "url": "https://github.com/RolandVessalius/FastAPI-DLS-unRAID",
+    "profile": "https://forums.unraid.net/profile/102554-roland-vessalius/",
+    "name": "Roland Vessalius' Repository"
   }
 ]
