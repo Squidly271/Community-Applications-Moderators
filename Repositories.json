@@ -1396,7 +1396,10 @@
   {
     "url": "https://github.com/pairofcrocs/unraid-templates",
     "profile": "https://forums.unraid.net/profile/98010-crocs/",
-    "name": "Croc's Repository"
+    "name": "Croc's Repository",
+    "duplicated": {
+      "atdr.meo.ws/archiveteam/warrior-dockerfile:latest": true
+    }
   },
   {
     "url": "https://github.com/PlexRipper/PlexRipper-Unraid-CA-Templates",
