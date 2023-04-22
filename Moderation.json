@@ -741,13 +741,9 @@
     "Deprecated": true,
     "ModeratorComment": "Mover Tuning has been forked and the replacement has more features.  See <a href=https://forums.unraid.net/topic/70783-plugin-mover-tuning/page/6/?tab=comments#comment-832127 target=_blank>here</a> for more details and instructions"
   },
-  "boinc/client": {
-    "Support": "https://forums.unraid.net/topic/89740-help-take-the-fight-to-covid-19-with-boinc-and-foldinghome/"
-  },
   "aptalca/docker-rdp-boinc": {
     "Deprecated": true,
-    "ModeratorComment": "Deprecated in favour of the Boinc container from LinuxServer.io.  And, THANK-YOU for helping the cause",
-    "Support": "https://forums.unraid.net/topic/89740-help-take-the-fight-to-covid-19-with-boinc-and-foldinghome/"
+    "ModeratorComment": "Deprecated in favour of the Boinc container from LinuxServer.io.  And, THANK-YOU for helping the cause"
   },
   "d34dc3n73r/netdata-glibc": {
     "Requires": "nVidia Unraid plugin and an nVidia GPU"
