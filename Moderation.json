@@ -1502,7 +1502,8 @@
     "LTOfficial": true
   },
   "https://unraid-dl.sfo2.cdn.digitaloceanspaces.com/unraid-api/dynamix.unraid.net.plg": {
-    "LTOfficial": true
+    "LTOfficial": true,
+    "CAMinVer": "6.13.0"
   },
   "captinsano/tonido": {
     "Deprecated": true
