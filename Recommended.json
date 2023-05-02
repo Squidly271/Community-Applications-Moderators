@@ -244,5 +244,12 @@
     "Reason": {
       "en_US": "Kavita is a rocket-fueled self-hosted digital library that supports a vast array of file formats for your books, comics, and graphic novels."
     }
+  },
+  "lscr.io/linuxserver/cops": {
+    "Date": "5/1/2023",
+    "Reason": {
+      "en_US": "Easy and simple WebUI for your existing Calibre ebook library"
+    },
+    "Who": "Andrew"
   }
 }
