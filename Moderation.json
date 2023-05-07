@@ -1512,9 +1512,7 @@
     "Deprecated": true
   },
   "minio/minio": {
-    "CAComment": "Unfortunately due to changes in Minio, the unRAID file system is no longer supported. The only way to get Minio to work on unRAID now is by mapping a single disk directly or setting up a V-Disk.",
-    "Icon-black": "https://raw.githubusercontent.com/A75G/docker-templates/master/templates/icons/airsonic-advanced.png"
-
+    "CAComment": "Unfortunately due to changes in Minio, the unRAID file system is no longer supported. The only way to get Minio to work on unRAID now is by mapping a single disk directly or setting up a V-Disk."
   },
   "pickl3s/cloudflare-ddns": {
     "ModeratorComment": "Docker repository appears to now be private",
