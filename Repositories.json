@@ -2284,5 +2284,10 @@
     "url": "https://github.com/taha-yassine/unraid-templates",
     "profile": "https://forums.unraid.net/profile/248389-vodros/",
     "name": "Vodros' Repository"
+  },
+  {
+    "url": "https://github.com/Dhovin/docker-templates/",
+    "profile": "https://forums.unraid.net/profile/78012-dhovin/",
+    "name": "Dhovin's Repository"
   }
 ]
