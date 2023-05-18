@@ -2289,5 +2289,10 @@
     "url": "https://github.com/Dhovin/docker-templates/",
     "profile": "https://forums.unraid.net/profile/78012-dhovin/",
     "name": "Dhovin's Repository"
+  },
+  {
+    "url": "https://github.com/riffsphereha/Unraid-Templates",
+    "profile": "https://forums.unraid.net/profile/250924-riffsphereha/",
+    "name": "RiffSphereHA's Repository"
   }
 ]
