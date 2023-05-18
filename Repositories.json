@@ -2294,5 +2294,10 @@
     "url": "https://github.com/riffsphereha/Unraid-Templates",
     "profile": "https://forums.unraid.net/profile/250924-riffsphereha/",
     "name": "RiffSphereHA's Repository"
+  },
+  {
+    "url": "https://github.com/coreylane/unraid-ca-templates",
+    "profile": "https://forums.unraid.net/profile/146143-coreylane/",
+    "name": "coreylane's Repository"
   }
 ]
