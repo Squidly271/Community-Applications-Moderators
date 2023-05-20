@@ -1525,5 +1525,8 @@
   "pickl3s/ytsync:latest": {
     "ModeratorComment": "Docker repository appears to now be private",
     "Blacklist": true
+  },
+  "https://raw.githubusercontent.com/dkaser/unraid-tailscale/main/plugin/tailscale.plg": {
+    "MaxVer": "6.12.0-rc5"
   }
 } 
