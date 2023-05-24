@@ -1532,5 +1532,9 @@
   "codeluxe1/repetier-server": {
     "Blacklist": true,
     "ModerationComment": "App is now ARM only"
+  },
+  "rustdesk/rustdesk-server": {
+    "Deprecated": true,
+    "ModeratorComment": "While these are the RustDesk-Server and RustDesk-Relay are the official containers, the template maintainer has deprecated the templates and suggests to instead use RustDesk-AIO from ICH777"
   }
 } 
