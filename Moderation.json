@@ -1536,5 +1536,9 @@
   "rustdesk/rustdesk-server": {
     "Deprecated": true,
     "ModeratorComment": "While these are the RustDesk-Server and RustDesk-Relay are the official containers, the template maintainer has deprecated the templates and suggests to instead use RustDesk-AIO from ICH777"
+  },
+  "andrewpaglusch/flashpaper": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer exists on dockerHub"
   }
 } 
