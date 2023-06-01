@@ -255,7 +255,7 @@
   "lscr.io/linuxserver/unifi-controller": {
     "Date": "6/1/2023",
     "Reason": {
-      "en_US": "Easily manage your Unifi network.  Note that the default :latest container may have issues from time to time.  Check with the support thread or LSIO's discord site if you have issues and how to tag the container to a specific version",
+      "en_US": "Easily manage your Unifi network.  Note that the default :latest container may have issues from time to time.  Check with the support thread or LSIO's discord site if you have issues and how to tag the container to a specific version"
     }
   }
 }
