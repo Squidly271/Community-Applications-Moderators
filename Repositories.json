@@ -1060,7 +1060,10 @@
   {
     "url": "https://github.com/Muwahhidun/unraid-docker-templates",
     "name": "Muwahhidun's Repository",
-    "profile": "https://forums.unraid.net/profile/107652-muwahhid/"
+    "profile": "https://forums.unraid.net/profile/107652-muwahhid/",
+    "Duplicated": {
+      "onlyoffice/documentserver-ee": true
+    }
   },
   {
     "url": "https://github.com/nzzane/nzzane-unraid-repo",
