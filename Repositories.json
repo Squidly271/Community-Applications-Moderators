@@ -2299,5 +2299,10 @@
     "url": "https://github.com/thecodeinsight/templates",
     "profile": "https://forums.unraid.net/profile/226383-navalgandhi1989/",
     "name": "thecodeinsight's Repository"
+  },
+  {
+    "url": "https://github.com/mpcdigitize/docker-templates",
+    "profile": "https://forums.unraid.net/profile/249625-petel/",
+    "name": "PeteL's Repository"
   }
 ]
