@@ -1381,9 +1381,6 @@
     "RemoveFromCA": true,
     "CAComment": "Don't publish something with a description of DO NOT USE"
   },
-  "lscr.io/linuxserver/prowlarr": {
-    "CAComment": "Due to a template error, :latest is offered to install along with develop and nightly.  :latest does not exist and installation errors will happen if you select Default when installing"
-  },
   "quantumobject/docker-cact": {
     "Blacklist": true,
     "ModeratorComment": "Repository no longer exists on docker hub"
