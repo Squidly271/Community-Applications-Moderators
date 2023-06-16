@@ -116,7 +116,7 @@
   },
   {
     "name":  "Official Unraid Repository",
-    "url":  "https://github.com/limetech/docker-templates",
+    "url":  "https://github.com/unraid/docker-templates",
     "shortName": "Unraid"
   },
   {
