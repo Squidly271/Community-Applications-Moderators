@@ -2312,5 +2312,10 @@
     "url": "https://github.com/McJoppy/unraid-templates",
     "profile": "https://forums.unraid.net/profile/250622-mcraidy/",
     "name": "mcraidy's Repository"
+  },
+  {
+    "url": "https://github.com/findthelorax/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/169140-findthelorax/",
+    "name": "Findthelorax's Repository"
   }
 ]
