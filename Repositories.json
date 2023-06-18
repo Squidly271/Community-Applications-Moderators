@@ -2307,5 +2307,10 @@
     "url": "https://github.com/mpcdigitize/docker-templates",
     "profile": "https://forums.unraid.net/profile/249625-petel/",
     "name": "PeteL's Repository"
+  },
+  {
+    "url": "https://github.com/McJoppy/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/250622-mcraidy/",
+    "name": "mcraidy's Repository"
   }
 ]
