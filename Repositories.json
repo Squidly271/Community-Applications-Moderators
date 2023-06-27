@@ -2299,9 +2299,9 @@
     "name": "coreylane's Repository"
   },
   {
-    "url": "https://github.com/thecodeinsight/templates",
+    "url": "https://github.com/snapcrescent/templates",
     "profile": "https://forums.unraid.net/profile/226383-navalgandhi1989/",
-    "name": "thecodeinsight's Repository"
+    "name": "snapcrescent's Repository"
   },
   {
     "url": "https://github.com/mpcdigitize/docker-templates",
@@ -2322,5 +2322,10 @@
     "url": "https://github.com/j1philli/unraid-templates/tree/main",
     "profile": "https://forums.unraid.net/profile/84279-j1philli/",
     "name": "j1philli's Repository"
+  },
+  {
+    "url": "https://github.com/lucamarchiori/OwnTracksRecorderUnraid",
+    "profile": "https://forums.unraid.net/profile/255135-lucamarchiori/",
+    "name": "lucamarchiori's Repository"
   }
 ]
