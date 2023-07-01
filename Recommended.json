@@ -257,5 +257,11 @@
     "Reason": {
       "en_US": "Easily manage your Unifi network.  Note that the default :latest container may have issues from time to time.  Check with the support thread or LSIO's discord site if you have issues and how to tag the container to a specific version"
     }
+  },
+  "ghcr.io/ajnart/homarr:latest": {
+    "Date": "7/1/2023",
+    "Reason": {
+      "en_US": "Simplify the management of your server with Homarr - a sleek, modern dashboard that puts all of your apps and services at your fingertips"
+    }
   }
 }
