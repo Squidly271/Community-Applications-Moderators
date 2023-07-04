@@ -2337,5 +2337,10 @@
     "url": "https://github.com/programmingsecurely/unraid-templates",
     "profile": "https://forums.unraid.net/profile/234520-quentinm/",
     "name": "QuentinM's Repository"
+  },
+  {
+    "url": "https://github.com/jinlife/docker-templates",
+    "profile": "https://forums.unraid.net/profile/119719-jinlife/",
+    "name"": "jinlife's Repository"
   }
 ]
