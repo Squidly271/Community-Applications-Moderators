@@ -2347,5 +2347,15 @@
     "url": "https://github.com/RealFascinated/unraid-ca-templates",
     "profile": "https://forums.unraid.net/profile/87787-imfascinated/",
     "name": "ImFascinated's Repository"
+  },
+  {
+    "url": "https://github.com/criscrafter/Unraid-CA",
+    "profile": "https://forums.unraid.net/profile/154961-criscrafter/",
+    "name": "chriscrafter's Repository"
+  },
+  {
+    "url": "https://github.com/criblio/unraid",
+    "profile": "https://forums.unraid.net/profile/256028-criblio/",
+    "name": "Criblio's Repository"
   }
 ]
