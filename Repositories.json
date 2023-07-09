@@ -2351,11 +2351,16 @@
   {
     "url": "https://github.com/criscrafter/Unraid-CA",
     "profile": "https://forums.unraid.net/profile/154961-criscrafter/",
-    "name": "chriscrafter's Repository"
+    "name": "criscrafter's Repository"
   },
   {
     "url": "https://github.com/criblio/unraid",
     "profile": "https://forums.unraid.net/profile/256028-criblio/",
     "name": "Criblio's Repository"
+  },
+  {
+    "url": "https://github.com/cosmicspork/unraid-peertube",
+    "profile": "https://forums.unraid.net/profile/120676-skraelingjar/",
+    "name": "skraelingjar's Repository"
   }
 ]
