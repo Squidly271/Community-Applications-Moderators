@@ -1549,5 +1549,9 @@
   },
   "https://github.com/greycubesgav/unraid-templates/raw/master/davfs2/davfs2.plg": {
     "RemoveFromCA": true
+  },
+  "https://raw.githubusercontent.com/Squidly271/docker.folder/main/plugins/docker.folder.plg": {
+    "DeprecatedMaxVer": "6.12.2",
+    "ModeratorComment": "This plugin is abandonded.  Highly advised to uninstall and switch to Folder.View when running 6.12.3+"
   }
 } 
