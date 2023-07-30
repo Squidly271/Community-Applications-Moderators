@@ -1547,8 +1547,9 @@
     "Blacklist": true,
     "ModeratorComment": ":Latest tag does not exist on dockerHub"
   },
-  "https://github.com/greycubesgav/unraid-templates/raw/master/davfs2/davfs2.plg": {
-    "RemoveFromCA": true
+  "https://github.com/SlrG/unRAID/raw/master/Plugins/ProFTPd.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "This plugin is now deprecated and no further updates will be made to it.  While it is still functional, in the future it may be necessary to switch to a docker container for your FTP needs"
   },
   "https://raw.githubusercontent.com/Squidly271/docker.folder/main/plugins/docker.folder.plg": {
     "DeprecatedMaxVer": "6.12.2",
