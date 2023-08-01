@@ -263,5 +263,11 @@
     "Reason": {
       "en_US": "Simplify the management of your server with Homarr - a sleek, modern dashboard that puts all of your apps and services at your fingertips"
     }
+  },
+  "https://raw.githubusercontent.com/Squidly271/gui.search/main/plugins/gui.search.plg": {
+    "Date": "8/1/2023",
+    "Reason": {
+      "en_US": "Trying to find a setting within the WebGUI but just can't find it?  GUI Search let's you enter in a search term for the setting (in either English or the language you have set the GUI to run in) and will automatically take you to the appropriate page with the setting highlighted on supported browsers"
+    }
   }
 }
