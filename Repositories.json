@@ -2376,5 +2376,15 @@
     "url": "https://github.com/scolcipitato/plugin-repository",
     "profile": "https://forums.unraid.net/profile/109953-scolcipitato/",
     "name": "scolcipitato's Repository"
+  },
+  {
+    "url": "https://github.com/hoody424/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/127129-hoody424/",
+    "name": "hoody424's Repository"
+  },
+  {
+    "url": "https://github.com/skrashevich/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/198957-svk/",
+    "name": "svk's Repository"
   }
 ]
