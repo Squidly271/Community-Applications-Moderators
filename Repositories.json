@@ -2386,5 +2386,10 @@
     "url": "https://github.com/skrashevich/unraid-templates",
     "profile": "https://forums.unraid.net/profile/198957-svk/",
     "name": "svk's Repository"
+  },
+  {
+    "url": "https://github.com/Muxelmann/unraid-app_anaconda3",
+    "profile": "https://forums.unraid.net/profile/238596-muxelmann/",
+    "name": "muxelmann's Repository"
   }
 ]
