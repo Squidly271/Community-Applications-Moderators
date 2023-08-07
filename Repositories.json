@@ -1906,14 +1906,6 @@
     }
   },
   {
-    "url": "https://github.com/alexandru360/unVerdaccio",
-    "profile": "https://forums.unraid.net/profile/89004-alexandru360/",
-    "name": "alexandru360's Repository",
-    "duplicated": {
-      "verdaccio/verdaccio": true
-    }
-  },
-  {
     "url": "https://github.com/MountainGod2/unraid-templates",
     "profile": "https://forums.unraid.net/profile/167420-mrslaw/",
     "name": "mrslaw's Repository"
