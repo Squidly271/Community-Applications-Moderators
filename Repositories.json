@@ -1386,7 +1386,7 @@
     "name": "RedVex's Repository"
   },
   {
-    "url": "https://github.com/ckocyigit/unraid-webdav",
+    "url": "https://github.com/ckocyigit/unraid-ca-templates",
     "profile": "https://forums.unraid.net/profile/110566-ck98/",
     "name": "CK98's Repository"
   },
@@ -2378,5 +2378,40 @@
     "url": "https://github.com/Muxelmann/unraid-app_anaconda3",
     "profile": "https://forums.unraid.net/profile/238596-muxelmann/",
     "name": "muxelmann's Repository"
+  },
+  {
+    "url": "https://github.com/Upmacc/unraid-templates/tree/main",
+    "profile": "https://forums.unraid.net/profile/168586-campu0999/",
+    "name": "campu0999's Repository"
+  },
+  {
+    "url": "https://github.com/Homelabbers/unraid-templates/tree/main/templates",
+    "profile": "https://forums.unraid.net/profile/259365-homelabbers/",
+    "name": "homelabbers' Repository"
+  },
+  {
+    "url": "https://github.com/hudikhq/hoodik-unraid",
+    "profile": "https://forums.unraid.net/profile/228687-htunlogic/",
+    "name": "htunlogic's Repository"
+  },
+  {
+    "url": "https://github.com/edgar971/open-chat/tree/main/unraid-template",
+    "profile": "https://forums.unraid.net/profile/238357-el_pino/",
+    "name": "el_pino's Repository"
+  },
+  {
+    "url": "https://github.com/evilalmus/UNRAID_COMMUNITY_APPS",
+    "profile": "https://forums.unraid.net/profile/178171-almus/",
+    "name": "almus' Repository"
+  },
+  {
+    "url": "https://github.com/ArabCoders/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/260951-ac-watchstate/",
+    "name": "AC-WatchState's Repository"
+  },
+  {
+    "url": "https://github.com/ImSkully/unraid-docker-templates",
+    "profile": "https://forums.unraid.net/profile/186901-imskully/",
+    "name": "ImSkully's Repository"
   }
 ]
