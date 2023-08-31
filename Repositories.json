@@ -2423,5 +2423,10 @@
     "url": "https://github.com/MattFaz/unraid_templates/",
     "profile": "https://forums.unraid.net/profile/76145-mattfaz/",
     "name": "MattFaz's Repository"
+  },
+  {
+    "url": "https://github.com/cloud-fs/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/261359-rotten-pagoda5238/",
+    "name": "rotten-pagoda5238's Repository"
   }
 ]
