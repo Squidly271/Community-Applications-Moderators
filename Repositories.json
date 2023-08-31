@@ -2423,5 +2423,10 @@
     "url": "https://github.com/SamTV12345/podfetch-unraid-config",
     "profile": "https://forums.unraid.net/profile/261451-samtv12345/",
     "name": "SamTV12345's Repository"
+  },
+  {
+    "url": "https://github.com/MattFaz/unraid_templates/",
+    "profile": "https://forums.unraid.net/profile/76145-mattfaz/",
+    "name": "MattFaz's Repository"
   }
 ]
