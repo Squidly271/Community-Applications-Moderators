@@ -2408,5 +2408,20 @@
     "url": "https://github.com/ImSkully/unraid-docker-templates",
     "profile": "https://forums.unraid.net/profile/186901-imskully/",
     "name": "ImSkully's Repository"
+  },
+  {
+    "url": "https://github.com/BitlessByte0/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/261347-bitlessbyte/",
+    "name": "BitlessByte's Repository"
+  },
+  {
+    "url": "https://github.com/Dext00/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/125342-dextoo/",
+    "name": "Dextoo's Repository"
+  },
+  {
+    "url": "https://github.com/SamTV12345/podfetch-unraid-config",
+    "profile": "https://forums.unraid.net/profile/261451-samtv12345/",
+    "name": "SamTV12345's Repository"
   }
 ]
