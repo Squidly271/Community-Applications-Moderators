@@ -269,5 +269,11 @@
     "Reason": {
       "en_US": "Trying to find a setting within the WebGUI but just can't find it?  GUI Search let's you enter in a search term for the setting (in either English or the language you have set the GUI to run in) and will automatically take you to the appropriate page with the setting highlighted on supported browsers"
     }
+  },
+  "https://raw.githubusercontent.com/scolcipitato/folder.view/main/folder.view.plg": {
+    "Date": "9/1/2023",
+    "Reason": {
+      "en_US": "The replacement for Docker Folders, this plugin lets you easily group your installed Docker Applications into folders on the Docker tab to simplify management"
+    }
   }
 }
