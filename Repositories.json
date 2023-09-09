@@ -2443,5 +2443,10 @@
     "url": "https://github.com/evilalmus/UNRAID_COMMUNITY_APPS",
     "profile": "https://forums.unraid.net/profile/178171-almus/",
     "name": "almus' Repository"
+  },
+  {
+    "url": "https://github.com/Austin1/unraid-streammaster",
+    "profile": "https://forums.unraid.net/profile/44174-austin/",
+    "name": "austin's Repository"
   }
 ]
