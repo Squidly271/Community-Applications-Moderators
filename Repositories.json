@@ -2458,5 +2458,10 @@
     "url": "https://github.com/xompage/unraid-templates",
     "profile": "https://forums.unraid.net/profile/262898-xompage/",
     "name": "xompage's Repository"
+  },
+  {
+    "url": "https://github.com/EideardVMR/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/204759-eideard/",
+    "name": "Eideard's Repository"
   }
 ]
