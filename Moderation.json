@@ -1555,7 +1555,6 @@
     "DeprecatedMaxVer": "6.12.2",
     "ModeratorComment": "This plugin is abandonded.  Highly advised to uninstall and switch to Folder.View when running 6.12.3+"
   },
-  {
   "https://raw.githubusercontent.com/SimonFair/NUT-unRAID/master/plugin/nut.plg": {
     "Deprecated": true,
     "ModeratorComment": "This plugin has been deprecated.  It is advised to install NUT from Rysz instead"
