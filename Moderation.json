@@ -1558,5 +1558,8 @@
   "https://raw.githubusercontent.com/SimonFair/NUT-unRAID/master/plugin/nut.plg": {
     "Deprecated": true,
     "ModeratorComment": "This plugin has been deprecated.  It is advised to install NUT from Rysz instead"
+  },
+  "https://raw.githubusercontent.com/EideardVMR/unraid-easybackup/main/easybackup.plg": {
+    "ModeratorComment": "Even though this plugin has been marked as being Beta there are multiple reports of the OS being unable to start etc if this plugin is installed.  This plugin is use at own risk.  In 6.13 this plugin will most likely be marked as being incompatible as native support for VM Backups etc will be incorporated directly within the OS"
   }
 } 
