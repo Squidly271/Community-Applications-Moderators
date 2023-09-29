@@ -2463,5 +2463,15 @@
     "url": "https://github.com/EideardVMR/unraid-templates",
     "profile": "https://forums.unraid.net/profile/204759-eideard/",
     "name": "Eideard's Repository"
+  },
+  {
+    "url": "https://github.com/asparon/unraid-templates/tree/main",
+    "profile": "https://forums.unraid.net/profile/96069-asparon/",
+    "name": "Asparon's Repository"
+  },
+  {
+    "url": "https://github.com/malkiebr/unraid-localtonet",
+    "profile": "https://forums.unraid.net/profile/234461-malkie/",
+    "name": "malkie's Repository"
   }
 ]
