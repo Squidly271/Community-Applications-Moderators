@@ -275,5 +275,12 @@
     "Reason": {
       "en_US": "The replacement for Docker Folders, this plugin lets you easily group your installed Docker Applications into folders on the Docker tab to simplify management"
     }
+  },
+  "https://raw.githubusercontent.com/Commifreak/unraid-appdata.backup/master/appdata.backup.plg": {
+    "Date": "10/1/2023",
+    "Reason": {
+      "en_US": "Keep backups of your appdata for docker containers.  Selectively restore them in case of a drive failure or a failed update etc.  Highly recommended"
+    },
+    "Who": "Andrew"
   }
 }
