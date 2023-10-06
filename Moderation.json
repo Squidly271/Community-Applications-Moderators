@@ -1561,5 +1561,9 @@
   },
   "https://raw.githubusercontent.com/EideardVMR/unraid-easybackup/main/easybackup.plg": {
     "ModeratorComment": "Even though this plugin has been marked as being Beta there are multiple reports of the OS being unable to start etc if this plugin is installed.  This plugin is use at own risk.  In 6.13 this plugin will most likely be marked as being incompatible as native support for VM Backups etc will be incorporated directly within the OS"
+  },
+  "daredoes/airsnap": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub"
   }
 } 
