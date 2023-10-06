@@ -2247,7 +2247,10 @@
   {
     "url": "https://github.com/b42n1/unraid-templates",
     "profile": "https://forums.unraid.net/profile/167912-b4rny/",
-    "name": "B4rny's Repository"
+    "name": "B4rny's Repository",
+    "duplicated": {
+      "frooodle/s-pdf": true
+    }
   },
   {
     "url": "https://github.com/untraceablez/uvdesk-unraid",
