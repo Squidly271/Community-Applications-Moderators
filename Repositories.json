@@ -2473,5 +2473,15 @@
     "url": "https://github.com/malkiebr/unraid-localtonet",
     "profile": "https://forums.unraid.net/profile/234461-malkie/",
     "name": "malkie's Repository"
+  },
+  {
+    "url": "https://github.com/mtrogman/unraid_templates",
+    "profile": "https://forums.unraid.net/profile/115379-mtrogman/",
+    "name": "mtrogman's Repository"
+  },
+  {
+    "url": "https://github.com/alex-red/unraid-ca-templates",
+    "profile": "https://forums.unraid.net/profile/160581-alexred/",
+    "name": "AlexRed's Repository"
   }
 ]
