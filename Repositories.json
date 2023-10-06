@@ -578,7 +578,8 @@
     "name": "knex666's Repository",
     "profile": "https://forums.unraid.net/profile/71048-knex666/",
     "duplicated": {
-      "adolfintel/speedtest": true
+      "adolfintel/speedtest": true,
+      "openproject/community:13": true
     }
   },
   {
