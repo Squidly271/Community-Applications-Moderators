@@ -2487,5 +2487,10 @@
     "url": "https://github.com/alex-red/unraid-ca-templates",
     "profile": "https://forums.unraid.net/profile/160581-alexred/",
     "name": "AlexRed's Repository"
+  },
+  {
+    "url": "https://github.com/soonic6/unraid-templates-ca",
+    "profile": "https://forums.unraid.net/profile/94002-sonic6/",
+    "name": "sonic6's Repository"
   }
 ]
