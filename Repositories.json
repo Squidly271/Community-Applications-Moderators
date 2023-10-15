@@ -326,7 +326,7 @@
   },
   {
     "name": "cheesemarathon's Repository",
-    "url": "https://github.com/cheesemarathon/docker-templates",
+    "url": "https://github.com/BB-BenBridges/docker-templates",
     "profile": "https://forums.unraid.net/profile/70291-cheesemarathon/"
   },
   {
@@ -2492,5 +2492,30 @@
     "url": "https://github.com/soonic6/unraid-templates-ca",
     "profile": "https://forums.unraid.net/profile/94002-sonic6/",
     "name": "sonic6's Repository"
+  },
+  {
+    "url": "https://github.com/d3vyce/unraid-template",
+    "profile": "https://forums.unraid.net/profile/99205-d3vyce/",
+    "name": "d3vyce's Repository"
+  },
+  {
+    "url": "https://github.com/furritos/docker-templates",
+    "profile": "https://forums.unraid.net/profile/149001-deadfeet/",
+    "name": "DeadFeet's Repository"
+  },
+  {
+    "url": "https://github.com/tomtom215/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/124442-birdwatcher/",
+    "name": "birdwatcher's Repository"
+  },
+  {
+    "url": "https://github.com/SillyStrategy/unraid",
+    "profile": "https://forums.unraid.net/profile/265405-sillystrategy/",
+    "name": "SillyStrategy's Repository"
+  },
+  {
+    "url": "https://github.com/m-klecka/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/210341-mklecka/",
+    "name": "mklecka's Repository"
   }
 ]
