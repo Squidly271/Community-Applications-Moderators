@@ -2512,5 +2512,15 @@
     "url": "https://github.com/SillyStrategy/unraid",
     "profile": "https://forums.unraid.net/profile/265405-sillystrategy/",
     "name": "SillyStrategy's Repository"
+  },
+  {
+    "url": "https://github.com/alex3305/unraid-docker-templates",
+    "profile": "https://forums.unraid.net/profile/149439-alex3305/",
+    "name": "alex3305's Repository"
+  },
+  {
+    "url": "https://github.com/NightMeer/Unraid-Docker-Templates",
+    "profile": "https://forums.unraid.net/profile/191921-nightmeer/",
+    "name": "NightMeer's Repository"
   }
 ]
