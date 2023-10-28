@@ -2540,5 +2540,10 @@
     "url": "https://github.com/Phalcode/unraid-templates",
     "profile": "https://forums.unraid.net/profile/266495-phalcode/",
     "name": "phalcode's Repository"
+  },
+  {
+    "url": "https://github.com/nylonee/watchlistarr-unraid",
+    "profile": "https://forums.unraid.net/profile/142159-nylonee/",
+    "name": "nylonee's Repository"
   }
 ]
