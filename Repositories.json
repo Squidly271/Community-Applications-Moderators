@@ -2522,5 +2522,20 @@
     "url": "https://github.com/NightMeer/Unraid-Docker-Templates",
     "profile": "https://forums.unraid.net/profile/191921-nightmeer/",
     "name": "NightMeer's Repository"
+  },
+  {
+    "url": "https://github.com/dixtdf/templates",
+    "profile": "https://forums.unraid.net/profile/262846-dixtdf/",
+    "name": "dixtdf's Repository"
+  },
+  {
+    "url": "https://github.com/chirmstream/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/103420-dglb99/",
+    "name": "dglb99's Repository"
+  },
+  {
+    "url": "https://github.com/Phalcode/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/266495-phalcode/",
+    "name": "phalcode's Repository"
   }
 ]
