@@ -2007,7 +2007,10 @@
   {
     "url": "https://github.com/piranha771/unraid-templates",
     "profile": "https://forums.unraid.net/profile/159409-divid/",
-    "name": "Divid's Repository"
+    "name": "Divid's Repository",
+    "duplicated": {
+      "seafileltd/seafile-mc": true
+    }
   },
   {
     "url": "https://github.com/jwillmer/unraid-templates",
