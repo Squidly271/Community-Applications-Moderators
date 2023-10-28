@@ -1565,5 +1565,8 @@
   "daredoes/airsnap": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerHub"
+  },
+  "https://raw.githubusercontent.com/dixtdf/taglib/master/plugins/taglib.plg": {
+    "CAComment": "This plugin is in Chinese only"
   }
 } 
