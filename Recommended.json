@@ -282,5 +282,13 @@
       "en_US": "Keep backups of your appdata for docker containers.  Selectively restore them in case of a drive failure or a failed update etc.  Highly recommended"
     },
     "Who": "Andrew"
+  },
+  "ghcr.io/caramelfur/picsur:latest": {
+    "Date": "11/1/2023",
+    "Reason": {
+      "en_US": "Host your own picture library.  Almost a hybrid between Imgur and Pastebin"
+    },
+    "Who": "ICH777"
   }
+
 }
