@@ -1570,6 +1570,6 @@
     "CAComment": "This plugin is in Chinese only"
   },
   "lscr.io/linuxserver/unifi-controller": {
-    "ModeratorComment": "On January 1, 2024 this container will be deprecated and will no longer receive any updates.  It is recommended to use //unifi-network-application\\ instead."
+    "ModeratorComment": "On January 1, 2024 this container will be deprecated and will no longer receive any updates.  It is recommended to use //unifi-network-application&#92; instead."
   }
 } 
