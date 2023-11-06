@@ -600,7 +600,10 @@
   {
     "url": "https://github.com/ich777/docker-templates",
     "name": "ich777's Repository",
-    "profile": "https://forums.unraid.net/profile/72388-ich777/"
+    "profile": "https://forums.unraid.net/profile/72388-ich777/",
+    "duplicated": {
+      "photoprism/photoprism": true
+    }
   },
   {
     "url": "https://github.com/simse/docker-templates",
