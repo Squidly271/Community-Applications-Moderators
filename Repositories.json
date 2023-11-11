@@ -2548,5 +2548,35 @@
     "url": "https://github.com/pallebone/UnifiUnraidReborn",
     "profile": "https://forums.unraid.net/profile/100868-peteasking/",
     "name": "PeteAsking's Repository"
+  },
+  {
+    "url": "https://github.com/ianderse/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/267733-ianderse/",
+    "name": "ianderse's Repository"
+  },
+  {
+    "url": "https://github.com/EldonMcGuinness/UnraidCA",
+    "profile": "https://forums.unraid.net/profile/261788-eldonmcguinness/",
+    "name": "EldonMcGuiness' Repository"
+  },
+  {
+    "url": "https://github.com/Infotrend-Inc/OpenAI_WebUI",
+    "profile": "https://forums.unraid.net/profile/256461-iti/",
+    "name": "ITI's Repository"
+  },
+  {
+    "url": "https://github.com/BBergle/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/228849-bbergle/",
+    "name": "BBergle's Repository"
+  },
+  {
+    "url": "https://github.com/Receipt-Wrangler/receipt-wrangler-unraid",
+    "profile": "https://forums.unraid.net/profile/268018-wrangler/",
+    "name": "wrangler's Repository"
+  },
+  {
+    "url": "https://github.com/Joly0/docker-templates",
+    "profile": "https://forums.unraid.net/profile/86760-joly0/",
+    "name": "Joly0's Repository"
   }
 ]
