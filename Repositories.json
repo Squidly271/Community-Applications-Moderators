@@ -2350,11 +2350,6 @@
     "name": "Criblio's Repository"
   },
   {
-    "url": "https://github.com/cosmicspork/unraid-peertube",
-    "profile": "https://forums.unraid.net/profile/120676-skraelingjar/",
-    "name": "skraelingjar's Repository"
-  },
-  {
     "url": "https://github.com/W3LFARe/unraid_templates",
     "profile": "https://forums.unraid.net/profile/129748-welfare/",
     "name": "welfare's Repository"
@@ -2568,5 +2563,30 @@
     "url": "https://github.com/Receipt-Wrangler/receipt-wrangler-unraid",
     "profile": "https://forums.unraid.net/profile/268018-wrangler/",
     "name": "wrangler's Repository"
+  },
+  {
+    "url": "https://github.com/xiaodoudou/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/145775-xiaodoudou/",
+    "name": "Xiaodoudou's Repository"
+  },
+  {
+    "url": "https://github.com/PlazzmiK/unraid_templates",
+    "profile": "https://forums.unraid.net/profile/268068-plazzmik/",
+    "name": "Plazzmik's Repository"
+  },
+  {
+    "url": "https://github.com/Core-i99/unraid-docker-templates",
+    "profile": "https://forums.unraid.net/profile/151311-core-i99/",
+    "name": "Core-i99's Repository"
+  },
+  {
+    "url": "https://github.com/Bobstin/willow-application-server",
+    "profile": "https://forums.unraid.net/profile/227361-bobstin/",
+    "name": "Bobstin's Repository"
+  },
+  {
+    "url": "https://github.com/ngfchl/ptools_unraid_template",
+    "profile": "https://forums.unraid.net/profile/268036-jacksonnie/",
+    "name": "JacksonNie's Repository"
   }
 ]
