@@ -2588,5 +2588,10 @@
     "url": "https://github.com/ngfchl/ptools_unraid_template",
     "profile": "https://forums.unraid.net/profile/268036-jacksonnie/",
     "name": "JacksonNie's Repository"
+  },
+  {
+    "url": "https://github.com/Joly0/docker-templates",
+    "profile": "https://forums.unraid.net/profile/86760-joly0/",
+    "name": "joly0's Repository"
   }
 ]
