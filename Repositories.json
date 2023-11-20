@@ -2588,5 +2588,10 @@
     "url": "https://github.com/Joly0/docker-templates",
     "profile": "https://forums.unraid.net/profile/86760-joly0/",
     "name": "joly0's Repository"
+  },
+  {
+    "url": "https://github.com/reloadfast/unraid_template_LibreLinkUp_Uploader",
+    "profile": "https://forums.unraid.net/profile/125005-guillermomg/",
+    "name": "GuillermoMG's Repository"
   }
 ]
