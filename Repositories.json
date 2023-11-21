@@ -2593,5 +2593,10 @@
     "url": "https://github.com/reloadfast/unraid_template_LibreLinkUp_Uploader",
     "profile": "https://forums.unraid.net/profile/125005-guillermomg/",
     "name": "GuillermoMG's Repository"
+  },
+  {
+    "url": "https://github.com/cross-seed/unraid-template",
+    "profile": "https://forums.unraid.net/profile/243161-ambipro/",
+    "name": "ambipro's Repository"
   }
 ]
