@@ -2598,5 +2598,10 @@
     "url": "https://github.com/cross-seed/unraid-template",
     "profile": "https://forums.unraid.net/profile/243161-ambipro/",
     "name": "ambipro's Repository"
+  },
+  {
+    "url": "https://github.com/Donimax/unraid-docker-templates",
+    "profile": "https://forums.unraid.net/profile/266669-donimax/",
+    "name": "Donimax's Repository"
   }
 ]
