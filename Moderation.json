@@ -1571,5 +1571,29 @@
   },
   "lscr.io/linuxserver/unifi-controller": {
     "ModeratorComment": "On January 1, 2024 this container will be deprecated and will no longer receive any updates.  It is recommended to use //unifi-network-application&#92; instead."
+  },
+  "seadrive.org/seafileltd/seafile-pro-mc:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Repository does not exist"
+  },
+  "ghcr.io/aeharding/wefwef:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Repository appears to be private"
+  },
+  "swingmusic": {
+    "Blacklist": true,
+    "ModeratorComment": "Repository does not exist on docker hub"
+  },
+  "hlky/sd-webui:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Does not exist on docker hub"
+  },
+  "baudneo/nginx-proxy-manager:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Repository does not exist on dockerHub"
+  },
+  "ghcr.io/sarendsen/replex": {
+    "Blacklist": true,
+    "ModeratorComment": "Repository appears to be private"
   }
 } 
