@@ -1595,5 +1595,15 @@
   "ghcr.io/sarendsen/replex": {
     "Blacklist": true,
     "ModeratorComment": "Repository appears to be private"
+  },
+  "lancachenet/monolithic:latest": {
+    "DonateText": "",
+    "DonateLink": ""
+  },
+  "lancachenet/lancache-dns:latest": {
+    "DonateText": "",
+    "DonateLink": ""
   }
+  
+
 } 
