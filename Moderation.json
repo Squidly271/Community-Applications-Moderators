@@ -250,10 +250,6 @@
     "ModeratorComment": "No longer available on dockerHub",
     "Blacklist": true
   },    
-  "jlesage/crashplan": {
-    "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version no longer functions as of Oct 22.  If you wish to continue using CrashPlan, you will have to switch to the CrashPlan Pro application.",
-    "Blacklist": true
-  },
   "gfjardim/crashplan": {
     "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version no longer functions as of Oct 22.  If you wish to continue using CrashPlan, you will have to switch to the CrashPlan Pro application.",
     "Blacklist": true
@@ -1603,6 +1599,10 @@
   "lancachenet/lancache-dns:latest": {
     "DonateText": "",
     "DonateLink": ""
+  },
+  "appcelerator/telegraf:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer exists on dockerHub"
   }
   
 
