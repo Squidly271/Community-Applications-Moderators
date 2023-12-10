@@ -780,7 +780,7 @@
     "duplicated": {
       "vabene1111/recipes:latest": true,
       "ccarney16/pterodactyl-panel:latest": true,
-      "registry.gitlab.com/timvisee/send:latest"
+      "registry.gitlab.com/timvisee/send:latest": true
     }
   },
   {
