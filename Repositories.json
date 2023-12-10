@@ -2608,5 +2608,20 @@
     "url": "https://github.com/Droppisalt/unraid-templates",
     "profile": "https://forums.unraid.net/profile/229261-droppisalt/",
     "name": "Droppisalt's Repository"
+  },
+  {
+    "url": "https://github.com/Infotrend-Inc/CTPO",
+    "name": "Infotrend Inc's Repository",
+    "profile": "https://forums.unraid.net/profile/256461-infotrend-inc/"
+  },
+  {
+    "url": "https://github.com/jnbarlow/unraid_templates",
+    "profile": "https://forums.unraid.net/profile/238964-john-barlow/",
+    "name": "John Barlow's Repository"
+  },
+  {
+    "url": "https://github.com/wizarrrr/wizarr",
+    "profile": "https://forums.unraid.net/profile/269141-ashley-bailey/",
+    "name": "Official Wizarr Repository"
   }
 ]
