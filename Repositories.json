@@ -2617,5 +2617,10 @@
     "url": "https://github.com/wizarrrr/wizarr",
     "profile": "https://forums.unraid.net/profile/269141-ashley-bailey/",
     "name": "Official Wizarr Repository"
+  },
+  {
+    "url": "https://github.com/Phil-Barker/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/211519-philbarker/",
+    "name": "PhilBarker's Repository"
   }
 ]
