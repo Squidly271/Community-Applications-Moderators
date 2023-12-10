@@ -2603,5 +2603,10 @@
     "url": "https://github.com/Donimax/unraid-docker-templates",
     "profile": "https://forums.unraid.net/profile/266669-donimax/",
     "name": "Donimax's Repository"
+  },
+  {
+    "url": "https://github.com/Droppisalt/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/229261-droppisalt/",
+    "name": "Droppisalt's Repository"
   }
 ]
