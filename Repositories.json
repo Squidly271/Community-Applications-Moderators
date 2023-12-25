@@ -2627,5 +2627,10 @@
     "url": "https://github.com/Eurotimmy/unraid-templates",
     "profile": "https://forums.unraid.net/profile/175441-eurotimmy/",
     "name": "Eurotimmy's Repository"
+  },
+  {
+    "url": "https://github.com/MiranoVerhoef/Unraid-Mirano",
+    "profile": "https://forums.unraid.net/profile/96734-mirano/",
+    "name": "Mirano's Repository"
   }
 ]
