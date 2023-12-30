@@ -3,6 +3,10 @@
     "ModeratorComment": "This application is no longer functional.",
     "Blacklist": true
     },
+  "livebook/livebook": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer exists on dockerHub"
+  },
   "https://raw.githubusercontent.com/Steini1984/unRAID6-ZFS/master/unRAID6-ZFS.plg": {
     "CAComment": "Expert Only: Not recommended for the casual user.  You must ensure that an upgrade is available for this plugin if you upgrade the Unraid OS",
     "MinVer": "6.1.4"
