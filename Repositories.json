@@ -2632,5 +2632,10 @@
     "url": "https://github.com/MiranoVerhoef/Unraid-Mirano",
     "profile": "https://forums.unraid.net/profile/96734-mirano/",
     "name": "Mirano's Repository"
+  },
+  {
+    "url": "https://github.com/bstottle/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/225-stottle/",
+    "name": "stottle's Repository"
   }
 ]
