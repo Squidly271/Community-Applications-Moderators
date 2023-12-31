@@ -1607,7 +1607,8 @@
   "appcelerator/telegraf:latest": {
     "Blacklist": true,
     "ModeratorComment": "No longer exists on dockerHub"
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.manager.plg": {
+    "MaxVer": "6.12.9"
   }
-  
-
 } 
