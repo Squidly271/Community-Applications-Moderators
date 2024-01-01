@@ -289,6 +289,13 @@
       "en_US": "Host your own picture library.  Almost a hybrid between Imgur and Pastebin"
     },
     "Who": "ICH777"
+  },
+  "binhex/arch-mineos-node": {
+    "Date": "12/1/2024",
+    "Reason": {
+      "en_US": "MineOS is a server front-end to ease managing Minecraft administrative tasks."
+    },
+    "Who": "ICH777"
   }
 
 }
