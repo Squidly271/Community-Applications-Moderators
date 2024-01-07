@@ -1613,5 +1613,9 @@
   },
   "ghcr.io/hotio/cloudflareddns": {
     "Official": true
+  },
+  "devzwf/libretuya-esphome:2023.4.1": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub"
   }
 } 
