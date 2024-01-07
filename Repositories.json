@@ -1416,7 +1416,10 @@
   {
     "url": "https://github.com/m0ngr31/unraid_ca",
     "profile": "https://forums.unraid.net/profile/75617-m0ngr31/",
-    "name": "m0ngr31's Repository"
+    "name": "m0ngr31's Repository",
+    "duplicated": {
+      "ghcr.io/ollama-webui/ollama-webui:main": true
+    }
   },
   {
     "url": "https://github.com/corgan2222/unraid-templates",
