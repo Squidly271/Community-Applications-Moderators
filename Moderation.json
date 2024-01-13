@@ -1617,5 +1617,9 @@
   "devzwf/libretuya-esphome:2023.4.1": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerHub"
+  },
+  "mtrogman/managarr:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub (or private)"
   }
 } 
