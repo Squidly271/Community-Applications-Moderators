@@ -2638,6 +2638,25 @@
     "url": "https://github.com/UNRA1DUser/unraid-docker-templates",
     "profile": "https://forums.unraid.net/profile/120631-unra1duser/",
     "name": "UNRA1DUser's Repository"
-  }
-    
+  },
+  {
+    "url": "https://github.com/TeddyTux/unraidtemplates",
+    "profile": "https://forums.unraid.net/profile/107932-teddytux/",
+    "name": "TeddyTux's Repository"
+  },
+  {
+    "url": "https://github.com/0neTX/UnRAID_Template",
+    "profile": "https://forums.unraid.net/profile/161660-onetx/",
+    "name": "onetx's Repository"
+  },
+  {
+    "url": "https://github.com/disbedan015/nadekobotv4-unraid",
+    "profile": "https://forums.unraid.net/profile/115097-disbedan015/",
+    "name": "disbedan015's Repository"
+  },
+  {
+    "url": "https://github.com/ds-sebastian/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/238004-pureelectricity/",
+    "name": "pureelectricity's Repository"
+  }    
 ]
