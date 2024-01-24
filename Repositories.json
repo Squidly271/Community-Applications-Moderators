@@ -2658,5 +2658,10 @@
     "url": "https://github.com/ds-sebastian/unraid-templates",
     "profile": "https://forums.unraid.net/profile/238004-pureelectricity/",
     "name": "pureelectricity's Repository"
-  }    
+  },
+  {
+    "url": "https://github.com/Homelabbers/unraid-templates/tree/main/templates",
+    "profile": "https://forums.unraid.net/profile/259365-homelabbers/",
+    "name": "homelabbers' Repository"
+  }
 ]
