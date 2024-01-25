@@ -1,27 +1,9 @@
 [
   {
-    "name": "smdion's Repository",
-    "url": "https://github.com/smdion/docker-containers/tree/templates",
-    "forum": "http://forums.unraid.net/index.php?topic=34009.0",
-    "profile": "https://forums.unraid.net/profile/26365-smdion/"
-  },
-  {
-    "name": "smdion's beta Repository",
-    "url": "https://github.com/smdion/docker-containers/tree/beta-templates",
-    "forum": "http://forums.unraid.net/index.php?topic=34009.0",
-    "profile": "https://forums.unraid.net/profile/26365-smdion/"
-  },
-  {
     "name": "pducharme's Repository",
     "url": "https://github.com/pducharme/docker-containers/tree/templates",
     "forum": "http://forums.unraid.net/index.php?topic=37058",
     "profile": "https://forums.unraid.net/profile/62479-pducharme/"
-  },
-  {
-    "name": "CaptInsano's Repository",
-    "url": "https://github.com/CaptInsano/docker-containers/tree/templates",
-    "forum": "http://forums.unraid.net/index.php?topic=39249.0",
-    "profile": "https://forums.unraid.net/profile/40599-captinsano/"
   },
   {
     "name": "Balloob's Repository",
@@ -51,12 +33,6 @@
     "profile": "https://forums.unraid.net/profile/32813-dmaxwell351/"
   },
   {
-    "name": "tobbenb's Repository",
-    "url": "https://github.com/tobbenb/docker-containers/tree/templates",
-    "forum": "http://forums.unraid.net/index.php?topic=37671",
-    "profile": "https://forums.unraid.net/profile/63089-saarg/"
-  },
-  {
     "name": "pinion's Repository",
     "url": "https://github.com/noinip/container-templates",
     "forum": "http://forums.unraid.net/index.php?topic=38602.0",
@@ -78,12 +54,6 @@
     "profile": "https://forums.unraid.net/profile/16166-slrg/"
   },
   {
-    "name": "aptalca's Repository",
-    "url": "https://github.com/aptalca/docker-templates",
-    "forum": "http://forums.unraid.net/index.php?topic=39413.0",
-    "profile": "https://forums.unraid.net/profile/7767-aptalca/"
-  },
-  {
     "name": "coppit's Repository",
     "url": "https://github.com/coppit/docker-templates",
     "forum": "http://forums.unraid.net/index.php?topic=39561.0",
@@ -98,12 +68,6 @@
       "photoprism/photoprism": true,
       "romancin/tinymediamanager:latest": true
     }
-  },
-  {
-    "name": "xamindar's Repository",
-    "url": "https://github.com/xamindar/docker-templates",
-    "forum": "http://forums.unraid.net/index.php?topic=39910.0",
-    "profile": "https://forums.unraid.net/profile/1543-xamindar/"
   },
   {
     "name": "macester's Repository",
@@ -178,11 +142,6 @@
     "profile": "https://forums.unraid.net/profile/2957-steini84/"
   },
   {
-    "name": "Mettbrot's Repository",
-    "url":  "https://github.com/Squidly271/Mettbrot-s-plugin-repo/",
-    "profile": "https://forums.unraid.net/profile/11013-mettbrot/"
-  },
-  {
     "name": "SlrG's Repository",
     "url":  "https://github.com/SlrG/unRAID",
     "profile": "https://forums.unraid.net/profile/16166-slrg/"
@@ -198,21 +157,10 @@
     "profile": "https://forums.unraid.net/profile/15731-dibbz/"
   },
   {
-    "name": "johnodon's Repository",
-    "url":  "https://github.com/johnodon/docker-templates",
-    "forum": "http://forums.unraid.net/index.php?topic=46330.0",
-    "profile": "https://forums.unraid.net/profile/6506-johnodon/"
-  },
-  {
     "name": "ken-ji's Repository",
     "url":  "https://github.com/roninkenji/unraid-docker-templates",
     "forum": "http://forums.unraid.net/index.php?topic=46401.0",
     "profile": "https://forums.unraid.net/profile/62359-ken-ji/"
-  },
-  {
-    "name":  "magmpzero's Repository",
-    "url":  "https://github.com/magmpzero/docker-templates",
-    "profile": "https://forums.unraid.net/profile/69284-magmpzero/"
   },
   {
     "name":  "docgyver's Repository",
@@ -251,11 +199,6 @@
     "name": "Bjonness406's Repository",
     "url": "https://github.com/bjonness406/Docker-templates",
     "profile": "https://forums.unraid.net/profile/68356-bjonness406/"
-  },
-  {
-    "name": "activ's Repository",
-    "url": "https://github.com/activ/docker-templates",
-    "profile": "https://forums.unraid.net/profile/69882-activ/"
   },
   {
     "name": "Huxy's Repository",
@@ -345,11 +288,6 @@
     "url": "https://github.com/plexinc/pms-docker",
     "recommended": true,
     "shortName": "Plex"
-  },
-  {
-    "name": "cmer's Repository",
-    "url": "https://github.com/cmer/docker-templates",
-    "profile": "https://forums.unraid.net/profile/69846-cmer/"
   },
   {
     "name": "clowrym's Repository",
