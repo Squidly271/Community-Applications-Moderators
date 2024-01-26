@@ -2600,6 +2600,9 @@
   {
     "url": "https://github.com/Homelabbers/unraid-templates",
     "profile": "https://forums.unraid.net/profile/259365-homelabbers/",
-    "name": "homelabbers' Repository"
+    "name": "homelabbers' Repository",
+    "duplicated": {
+      "waterboy1602/addarr": true
+    }
   }
 ]
