@@ -110,14 +110,6 @@
     "ModeratorComment": "This docker app has now been deprecated in favour of the plugin version by the same author",
     "Blacklist": true
     },
-  "johnodon/zap2xml": {
-    "Blacklist": true,
-    "ModeratorComment": "Due to licencing issues, this application has been blacklisted"
-    },
-  "johnodon/zap2xml-2lineups": {
-    "Blacklist": true,
-    "ModeratorComment": "Due to licencing issues, this application has been blacklisted"
-    },
   "test/test": {
     "Blacklist": true
     },
