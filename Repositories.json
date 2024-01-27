@@ -1411,15 +1411,6 @@
     "name": "da do ron's Repository"
   },
   {
-    "url": "https://github.com/JamesTeague/unraid-templates",
-    "profile": "https://forums.unraid.net/profile/139338-bamaj13/",
-    "name": "BamaJ13's Repository",
-    "duplicated": {
-      "filebrowser/filebrowser": true,
-      "filerun/filerun": true
-    }
-  },
-  {
     "url": "https://github.com/C3004/Unraid-Templates-C3004",
     "profile": "https://forums.unraid.net/profile/142775-c3004/",
     "name": "C3004's Repository"
