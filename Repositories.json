@@ -2589,8 +2589,9 @@
     "name": "homelabbers' Repository",
     "duplicated": {
       "waterboy1602/addarr": true
-    },
-    {
+    }
+  },
+  {
     "url": "https://github.com/nodiaque/unraid_template",
     "profile": "https://forums.unraid.net/profile/147860-nodiaque/",
     "name": "Nodiaque's Repository"
