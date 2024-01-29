@@ -591,8 +591,7 @@
       "hotio/plex": true,
       "hotio/cloudflare-ddns": true,
       "hotio/hddtemp2influxdb": true,
-      "koenkk/zigbee2mqtt": true,
-      "nwithan8/tauticord:latest": true
+      "koenkk/zigbee2mqtt": true
     }
   },
   {
