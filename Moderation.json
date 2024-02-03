@@ -1617,8 +1617,5 @@
   "https://raw.githubusercontent.com/jbrodriguez/unraid/master/plugins/unbalance.plg": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of unbalanced from the same author"
-  },
-  "https://stable.dl.unraid.net/unraid-api/dynamix.unraid.net.plg": {
-    "RemoveFromCA": true
   }
 } 
