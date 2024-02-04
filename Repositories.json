@@ -615,7 +615,8 @@
     "profile": "https://forums.unraid.net/profile/69067-zandrsn/",
     "name": "xthursdayx's Repository",
     "duplicated": {
-      "benbusby/whoogle-search": true
+      "benbusby/whoogle-search": true,
+      "nzbgetcom/nzbget:latest": true
     }
   },
   {
