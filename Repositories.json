@@ -2601,5 +2601,20 @@
     "url": "https://github.com/EMP83/unraid-templates",
     "profile": "https://forums.unraid.net/profile/271480-emp83/",
     "name": "emp83's Repository"
+  },
+  {
+    "url": "https://github.com/mak-cs/unraid",
+    "profile": "https://forums.unraid.net/profile/269540-mak-cs/",
+    "name": "MAK-CS' Repository"
+  },
+  {
+    "url": "https://github.com/rezo552/unraid-ltfs/",
+    "profile": "https://forums.unraid.net/profile/271555-rezo552/",
+    "name": "ReZo552's Repository"
+  },
+  {
+    "url": "https://github.com/dgongut/UnRAID-Templates",
+    "profile": "https://forums.unraid.net/profile/250140-dgongut/",
+    "name": "dgongut's Repository"
   }
 ]
