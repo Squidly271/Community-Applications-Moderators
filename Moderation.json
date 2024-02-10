@@ -1617,5 +1617,9 @@
   "https://raw.githubusercontent.com/jbrodriguez/unraid/master/plugins/unbalance.plg": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of unbalanced from the same author"
+  },
+  "stevenlgtm/slash:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub"
   }
 } 
