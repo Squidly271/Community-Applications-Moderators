@@ -1621,5 +1621,8 @@
   "stevenlgtm/slash:latest": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerHub"
+  },
+  "https://raw.githubusercontent.com/rezo552/unraid-ltfs/main/unraid-ltfs.plg": {
+    "ModeratorComment": "Note that this plugin contains binary files that cannot easily be audited for security."
   }
 } 
