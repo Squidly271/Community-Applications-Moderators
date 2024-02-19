@@ -2621,5 +2621,10 @@
     "url": "https://github.com/jcoker85/UnraidTemplates",
     "profile": "https://forums.unraid.net/profile/255902-jamxx/",
     "name": "Jamxx's Repository"
+  },
+  {
+    "url": "https://github.com/Terebi42/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/252870-terebi/",
+    "name": "Terebi's Repository"
   }
 ]
