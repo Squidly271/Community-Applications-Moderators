@@ -2636,6 +2636,16 @@
     "url": "https://github.com/SasaKaranovic/unraid-templates",
     "profile": "https://forums.unraid.net/profile/273010-sasakaranovic/",
     "name": "SasaKaranovic's Repository"
+  },
+  {
+    "url": "https://github.com/Lowess/docker-templates-unraid",
+    "profile": "https://forums.unraid.net/profile/161755-florian-dambrine/",
+    "name": "Florian Dambrine's Repository"
+  },
+  {
+    "url": "https://github.com/jgennari/UnraidApps",
+    "profile": "https://forums.unraid.net/profile/212091-joey-gennari/",
+    "name": "Joey Gennari's Repository"
   }
 
 ]
