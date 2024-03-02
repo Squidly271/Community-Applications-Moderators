@@ -302,6 +302,13 @@
     "Reason": {
       "en_US": "Easily balance (or unbalance) the files in your array between drives"
     }
+  },
+  "figro/unraid-cloudflared-tunnel": {
+    "Date": "3/1/2024",
+    "Reason": {
+      "en_US": "Easily set up your own cloudflare tunnel"
+    },
+    "Who": "SpaceInvader One"
   }
   
 
