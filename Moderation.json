@@ -1638,5 +1638,9 @@
   },
   "prosthetichead/printbed": {
     "Beta": true
+  },
+  "https://raw.githubusercontent.com/zhtengw/unraid-i915-sriov/master/i915-sriov.plg": {
+    "Blacklist": true,
+    "ModeratorComment": "Appears to be unmaintained.  Advised to install the plugin from giganode instead"
   }
 } 
