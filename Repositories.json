@@ -1789,7 +1789,10 @@
   {
     "url": "https://github.com/KasteM34/unraid-templates",
     "profile": "https://forums.unraid.net/profile/169707-kastem34/",
-    "name": "kastem34's Repository"
+    "name": "kastem34's Repository",
+    "duplicated": {
+      "hashicorp/vault": true
+    }
   },
   {
     "url": "https://github.com/luisalrp/unraid_docker_templates",
