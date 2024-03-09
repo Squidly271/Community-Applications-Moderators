@@ -2646,6 +2646,21 @@
     "url": "https://github.com/jgennari/UnraidApps",
     "profile": "https://forums.unraid.net/profile/212091-joey-gennari/",
     "name": "Joey Gennari's Repository"
+  },
+  {
+    "url": "https://github.com/AronMarinelli/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/126179-aronm/",
+    "name": "AronM's Repository"
+  },
+  {
+    "url": "https://github.com/kieraneglin/unraid_ca",
+    "profile": "https://forums.unraid.net/profile/185979-kieran-e/",
+    "name": "Kieran E's Repository"
+  },
+  {
+    "url": "https://github.com/tschoerk/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/273668-tschoerk/",
+    "name": "tschoerk's Repository"
   }
 
 ]
