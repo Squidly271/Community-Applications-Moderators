@@ -1885,7 +1885,10 @@
   {
     "url": "https://github.com/twist3dimages/unraid-templates",
     "profile": "https://forums.unraid.net/profile/137900-exes/",
-    "name": "Exes' Repository"
+    "name": "Exes' Repository",
+    "duplicated": {
+      "clamav/clamav": true
+    }
   },
   {
     "url": "https://github.com/chrizzo84/unraid-templates",
