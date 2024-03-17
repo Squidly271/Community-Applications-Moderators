@@ -1648,5 +1648,9 @@
   },
   "ghcr.io/linkwarden/linkwarden:latest": {
     "RemoveFromCA": true
+  },
+  "nmtan/chevereto": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub.  Advised to switch to linuxserver's container"
   }
 } 
