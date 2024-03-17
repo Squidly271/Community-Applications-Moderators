@@ -1645,5 +1645,8 @@
   },
   "https://raw.githubusercontent.com/dmacias72/unRAID-libvirtwol/master/plugin/libvirtwol.plg": {
     "CAComment": "This plugin will likely soom be deprecated due to lack of updates / support etc.  Ideally you should instead try utilizing WOL for Services plugin from SimonF instead"
+  },
+  "ghcr.io/linkwarden/linkwarden:latest": {
+    "RemoveFromCA": true
   }
 } 
