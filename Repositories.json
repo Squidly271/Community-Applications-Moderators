@@ -2570,7 +2570,12 @@
     "profile": "https://forums.unraid.net/profile/120631-unra1duser/",
     "name": "UNRA1DUser's Repository",
     "duplicated": {
-      "linuxserver/duckdns": true
+      "linuxserver/duckdns": true,
+      "jc21/nginx-proxy-manager": true,
+      "library/postgres": true,
+      "postgres": true,
+      "redis": true,
+      "tensorchord/pgvecto-rs:pg16-v0.2.1": true
     }
   },
   {
@@ -2609,7 +2614,10 @@
   {
     "url": "https://github.com/EMP83/unraid-templates",
     "profile": "https://forums.unraid.net/profile/271480-emp83/",
-    "name": "emp83's Repository"
+    "name": "emp83's Repository",
+    "duplicated": {
+      "jc21/nginx-proxy-manager": true
+    }
   },
   {
     "url": "https://github.com/mak-cs/unraid",
