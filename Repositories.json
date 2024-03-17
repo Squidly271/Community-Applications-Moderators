@@ -2568,7 +2568,10 @@
   {
     "url": "https://github.com/UNRA1DUser/unraid-docker-templates",
     "profile": "https://forums.unraid.net/profile/120631-unra1duser/",
-    "name": "UNRA1DUser's Repository"
+    "name": "UNRA1DUser's Repository",
+    "duplicated": {
+      "linuxserver/duckdns": true
+    }
   },
   {
     "url": "https://github.com/TeddyTux/unraidtemplates",
