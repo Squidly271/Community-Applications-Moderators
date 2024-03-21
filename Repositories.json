@@ -2510,7 +2510,7 @@
     "profile": "https://forums.unraid.net/profile/86760-joly0/",
     "name": "joly0's Repository",
     "duplicated": {
-      "ghcr.io/lodestone-team/lodestone_core:latest": true
+      "ghcr.io/lodestone-team/lodestone_core": true
     }
   },
   {
