@@ -2508,7 +2508,10 @@
   {
     "url": "https://github.com/Joly0/docker-templates",
     "profile": "https://forums.unraid.net/profile/86760-joly0/",
-    "name": "joly0's Repository"
+    "name": "joly0's Repository",
+    "duplicated": {
+      "ghcr.io/lodestone-team/lodestone_core:latest": true
+    }
   },
   {
     "url": "https://github.com/reloadfast/unraid_template_LibreLinkUp_Uploader",
