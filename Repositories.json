@@ -1679,16 +1679,6 @@
     "name": "ThomasDB's Repository"
   },
   {
-    "url": "https://github.com/UnRAIDES/templates-UnRAID",
-    "profile": "https://unraid.es/",
-    "name": "Unraid.es' Repository"
-  },
-  {
-    "url": "https://github.com/UnRAIDES/plugin-UnRAID",
-    "profile": "https://unraid.es/",
-    "name": "Unraid.es' Plugin Repository"
-  },    
-  {
     "url": "https://github.com/NickM-27/unraid-templates",
     "profile": "https://forums.unraid.net/profile/128178-crzynik/",
     "name": "crzynik's Repository"
