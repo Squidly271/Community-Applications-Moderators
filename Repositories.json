@@ -717,7 +717,8 @@
     "duplicated": {
       "vabene1111/recipes:latest": true,
       "ccarney16/pterodactyl-panel:latest": true,
-      "registry.gitlab.com/timvisee/send:latest": true
+      "registry.gitlab.com/timvisee/send:latest": true,
+      "ghcr.io/seriousm4x/upsnap:4": true
     }
   },
   {
