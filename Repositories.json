@@ -2682,5 +2682,10 @@
     "url": "https://github.com/NebN/unraid-apps",
     "profile": "https://forums.unraid.net/profile/274578-nebn/",
     "name": "NebN's Repository"
+  },
+  {
+    "url": "https://github.com/gbendy/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/275025-bendy/",
+    "name": "bendy's Repository"
   }
 ]
