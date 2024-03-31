@@ -309,6 +309,12 @@
       "en_US": "Easily set up your own cloudflare tunnel"
     },
     "Who": "SpaceInvader One"
+  },
+  "ghcr.io/imagegenius/immich": {
+    "Date": "4/1/2024",
+    "Reason": {
+      "en_US": "Self host your own photos and videos"
+    }
   }
   
 
