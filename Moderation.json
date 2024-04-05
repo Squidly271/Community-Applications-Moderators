@@ -1,4 +1,8 @@
 {
+  "dumplingmiku/sudhanplayz-discord-musicbot-master:latest": {
+    "ModeratorComment": "tag no longer exists on dockerHub",
+    "Blacklist": true
+  },
   "sparklyballs/websync": {
     "ModeratorComment": "This application is no longer functional.",
     "Blacklist": true
