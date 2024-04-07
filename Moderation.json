@@ -1,4 +1,8 @@
 {
+  "ghcr.io/toeverything/affine-self-hosted:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Cannot be installed.  Unauthorized for ghcr"
+  },
   "dumplingmiku/sudhanplayz-discord-musicbot-master:latest": {
     "ModeratorComment": "tag no longer exists on dockerHub",
     "Blacklist": true
