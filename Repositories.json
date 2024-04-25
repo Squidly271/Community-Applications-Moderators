@@ -1,5 +1,15 @@
 [
   {
+    "url": "https://github.com/catalinberta/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/258399-dracon/",
+    "name": "dracon's Repository"
+  },
+  {
+    "url": "https://github.com/type0dev/Unraid-Template",
+    "profile": "https://forums.unraid.net/profile/275726-type0dev/",
+    "name": "type0dev's Repository"
+  },
+  {
     "url": "https://github.com/Richy1989/unraid-templates",
     "profile": "https://forums.unraid.net/profile/125824-richy1989/",
     "name": "Richy1989's Repository"
@@ -2023,7 +2033,7 @@
     "name": "Margot's Repository"
   },
   {
-    "url": "https://github.com/meisnate12/Plex-Meta-Manager-Unraid-Templates",
+    "url": "https://github.com/Kometa-Team/Unraid-Templates",
     "profile": "https://forums.unraid.net/profile/198915-sohjiro/",
     "name": "Sohjiro's Repository"
   },
