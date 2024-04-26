@@ -1660,5 +1660,9 @@
   "nmtan/chevereto": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerHub.  Advised to switch to linuxserver's container"
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.cache.dirs.plg": {
+    "MaxVer": "6.11.999",
+    "ModeratorComment": "When running Unraid 6.12.x+, it is highly recommended to uninstall Cache Dirs / Folder Caching published by Bonienl, and reinstall the fork published by dlandon which operates far better under 6.12.x and is currently being maintained."
   }
 } 
