@@ -915,14 +915,6 @@
     "profile": "https://forums.unraid.net/profile/113120-roflcoopter"
   },
   {
-    "url": "https://github.com/jahanson/unraid-docker-templates",
-    "name": "Veriwind's Repository",
-    "profile": "https://forums.unraid.net/profile/111738-veriwind",
-    "duplicated": {
-      "itzg/minecraft-server":true
-    }
-  },
-  {
     "url": "https://github.com/agusalex/docker-templates",
     "name": "agusalex' Repository",
     "profile": "https://forums.unraid.net/profile/80800-agusalex"
