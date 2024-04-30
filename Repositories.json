@@ -610,7 +610,10 @@
   {
     "url": "https://github.com/tquizzle/Docker-xml",
     "name": "TQ's Repository",
-    "profile": "https://forums.unraid.net/profile/13228-tq/"
+    "profile": "https://forums.unraid.net/profile/13228-tq/",
+    "duplicated": {
+      "pufferpanel/pufferpanel": true
+    }
   },
   {
     "url": "https://github.com/andrew207/splunk",
