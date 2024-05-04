@@ -1927,7 +1927,10 @@
   {
     "url": "https://github.com/devzwf/unraid-docker-templates",
     "profile": "https://forums.unraid.net/profile/119200-zappyzap/",
-    "name": "ZappyZap's Repository"
+    "name": "ZappyZap's Repository",
+    "duplicated": {
+      "lscr.io/linuxserver/speedtest-tracker:latest": true
+    }
   },
   {
     "url": "https://github.com/ChongZhiJie0216/unraid-docker-templates",
