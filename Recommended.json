@@ -315,7 +315,8 @@
     "Reason": {
       "en_US": "Self host your own photos and videos"
     }
+  },
+  "ghcr.io/mealie-recipes/mealie:nightly": {
+    "Date": "5/1/2024"
   }
-  
-
 }
