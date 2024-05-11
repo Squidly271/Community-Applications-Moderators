@@ -1,5 +1,15 @@
 [
   {
+    "url": "https://github.com/Collectathon/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/209526-collectathon/",
+    "name": "Cellectathon's Repository"
+  }.
+  {
+    "url": "https://github.com/ntebis/unraid_templates",
+    "profile": "https://forums.unraid.net/profile/230017-ntebis/",
+    "name": "ntebis' Repository"
+  },
+  {
     "url": "https://github.com/RichKidsDev/Unraid-Templates",
     "profile": "https://forums.unraid.net/profile/156616-grafgenixs/",
     "name": "GrafGenixs' Repository"
