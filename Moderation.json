@@ -1,6 +1,6 @@
 {
   "ghcr.io/ggerganov/llama.cpp": {
-    "RemoveFromCA": true
+    "RemoveFromCA": true,
     "ModeratorComment": "Implied :latest (default tag) does not exist.  Removed from CA"
   },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.cache.dirs.plg": {
