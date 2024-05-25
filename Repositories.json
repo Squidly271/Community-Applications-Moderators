@@ -2590,7 +2590,10 @@
   {
     "url": "https://github.com/wizarrrr/wizarr",
     "profile": "https://forums.unraid.net/profile/269141-ashley-bailey/",
-    "name": "Official Wizarr Repository"
+    "name": "Official Wizarr Repository",
+    "duplicated": {
+      "ghcr.io/wizarrrr/wizarr": true
+    }
   },
   {
     "url": "https://github.com/Phil-Barker/unraid-templates",
