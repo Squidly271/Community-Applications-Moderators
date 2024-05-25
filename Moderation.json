@@ -1,4 +1,15 @@
 {
+  "ghcr.io/wizarrrr/wizarr": {
+    "RemoveFromCA": true
+  },
+  "shadowpanther/neosvr-headless:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Tag / Repository no longer exists on dockerHub"
+  },
+  "ghcr.io/beccazero/prusa-connect-rtsp": {
+    "Blacklist": true,
+    "ModeratorComment": "Default latest tag does not exist"
+  },
   "ghcr.io/ggerganov/llama.cpp": {
     "RemoveFromCA": true,
     "ModeratorComment": "Implied :latest (default tag) does not exist.  Removed from CA"
