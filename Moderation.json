@@ -1,7 +1,4 @@
 {
-  "ghcr.io/wizarrrr/wizarr": {
-    "RemoveFromCA": true
-  },
   "shadowpanther/neosvr-headless:latest": {
     "Blacklist": true,
     "ModeratorComment": "Tag / Repository no longer exists on dockerHub"
