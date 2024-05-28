@@ -1,4 +1,7 @@
 {
+  "jellyfin/jellyfin:latest": {
+    "Name": "Jellyfin"
+  },
   "shadowpanther/neosvr-headless:latest": {
     "Blacklist": true,
     "ModeratorComment": "Tag / Repository no longer exists on dockerHub"
