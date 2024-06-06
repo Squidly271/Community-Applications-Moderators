@@ -1,5 +1,20 @@
 [
   {
+    "url": "https://github.com/Unknowncall/adsb-unraid-templates",
+    "profile": "https://forums.unraid.net/profile/206238-unknowncall/",
+    "name": "Unknowncall's Repository"
+  },
+  {
+    "url": "https://github.com/J000K3R/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/127281-j000k3r/",
+    "name": "J000K3R's Repository"
+  },
+  {
+    "url": "https://github.com/JW-CH/unraid-templates",
+    "profile": "https://forums.unraid.net/profile/268715-janmer/",
+    "name": "janmer's Repository"
+  },
+  {
     "url": "https://github.com/petersem/unraid-templates",
     "profile": "https://forums.unraid.net/profile/240191-petersem/",
     "name": "petersem's Repository"
