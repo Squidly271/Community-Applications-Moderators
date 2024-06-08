@@ -895,7 +895,8 @@
     "name": "IBRACORP's Repository",
     "profile": "https://forums.unraid.net/profile/106623-sycotix/",
     "duplicated": {
-      "linuxserver/babybuddy": true
+      "linuxserver/babybuddy": true,
+      "jorenn92/maintainerr:latest": true
     }
   },
   {
