@@ -1,4 +1,8 @@
 {
+  "ghcr.io/chrisbenincasa/tunarr": {
+    "Blacklist": true,
+    "ModeratorComment": "Default tag (:latest) does not exist on dockerHub"
+  },
   "jellyfin/jellyfin:latest": {
     "Name": "Jellyfin"
   },
