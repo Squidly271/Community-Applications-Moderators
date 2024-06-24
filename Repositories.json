@@ -1,8 +1,28 @@
 [
     {
-    "url": "https://github.com/Entree3k/Unraid-Templates",
-    "profile": "https://forums.unraid.net/profile/201585-entree3000/",
-    "name": "entree3000's Repository"
+        "url": "https://github.com/Garethp/rolemaster-era-server-unraid",
+        "profile": "https://forums.unraid.net/profile/243895-garethp/",
+        "name": "Garethp's Repository"
+    },
+    {
+        "url": "https://github.com/czerus/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/277784-sajnti/",
+        "name": "sajnti's Repository"
+    },
+    {
+        "url": "https://github.com/JamsRepos/Unraid-Templates",
+        "profile": "https://forums.unraid.net/profile/271866-lubricantjam/",
+        "name": "LubricantJam's Repository"
+    },
+    {
+        "url": "https://github.com/manyfold3d/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/277882-floppyuk/",
+        "name": "FloppyUK's Repository"
+    },
+    {
+        "url": "https://github.com/Entree3k/Unraid-Templates",
+        "profile": "https://forums.unraid.net/profile/201585-entree3000/",
+        "name": "entree3000's Repository"
   },
   {
     "url": "https://github.com/wizarrrr/wizarr",
