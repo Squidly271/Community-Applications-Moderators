@@ -327,5 +327,11 @@
     "Reason": {
       "en_US": "Easily backup (on a schedule) the appdata from all of your docker applications in case of disaster recovery, updates gone wrong etc"
     }
+  },
+  "https://raw.githubusercontent.com/desertwitch/memtester-unRAID/main/plugin/dwmemtester.plg": {
+    "Date": "7/1/2024",
+    "Reason": {
+      "en_US": "Run memory tests without having to reboot your server"
+    }
   }
 }
