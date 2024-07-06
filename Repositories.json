@@ -1,5 +1,25 @@
 [
     {
+        "url": "https://github.com/WaffleMaster22/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/278326-waffle22/",
+        "name": "Waffle22's Repository"
+    },
+    {
+        "url": "https://github.com/Peuuuur-Noel/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/155305-peuuuur-noel/",
+        "name": "Peuuuur Noel's Repository"
+    },
+    {
+        "url": "https://github.com/J000K3R/unraid-templates",
+        "profile": https://forums.unraid.net/profile/127281-j000k3r/",
+        "name": "J000K3R's Repository"
+    },
+    {
+        "url": "https://github.com/bfox135/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/174793-bfox135/",
+        "name": "Bfox135's Repository"
+    },
+    {
         "url": "https://github.com/Garethp/rolemaster-era-server-unraid",
         "profile": "https://forums.unraid.net/profile/243895-garethp/",
         "name": "Garethp's Repository"
