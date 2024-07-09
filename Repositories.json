@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://github.com/mandarons/icloud-drive-docker",
+        "profile": "https://forums.unraid.net/profile/278021-mandarons/",
+        "name": "mandarons' Repository"
+    },
+    {
         "url": "https://github.com/WaffleMaster22/unraid-templates",
         "profile": "https://forums.unraid.net/profile/278326-waffle22/",
         "name": "Waffle22's Repository"
