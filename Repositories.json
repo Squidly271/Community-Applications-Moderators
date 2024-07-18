@@ -1,5 +1,15 @@
 [
     {
+        "url": "https://github.com/R3yn4ld/unraid-plugins",
+        "profile": "https://forums.unraid.net/profile/77730-reynald/",
+        "name": "Reynald's Repository"
+    },
+    {
+        "url": "https://github.com/donkevlar/Unraid-Docker-Templates",
+        "profile": "https://forums.unraid.net/profile/86041-donkevlar/",
+        "name": "DonKevlar's Repository"
+    },
+    {
         "url": "https://github.com/mandarons/icloud-drive-docker",
         "profile": "https://forums.unraid.net/profile/278021-mandarons/",
         "name": "mandarons' Repository"
