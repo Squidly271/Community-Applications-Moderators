@@ -336,6 +336,7 @@
   },
   "https://raw.githubusercontent.com/Squidly271/customtab/master/plugins/customtab.plg": {
     "Date": "8/1/2024",
+    "Who": "Space Invader One",
     "Reason": {
       "en_US": "Create your own tabs on the GUI of your server.  See this <a href=https://www.youtube.com/watch?v=WDn9Rz-wB2I target=_blank>video</a> for how to run your own scripts right from the tabs!"
     }
