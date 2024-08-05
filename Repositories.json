@@ -2048,7 +2048,8 @@
     "profile": "https://forums.unraid.net/profile/119200-zappyzap/",
     "name": "ZappyZap's Repository",
     "duplicated": {
-      "lscr.io/linuxserver/speedtest-tracker:latest": true
+        "lscr.io/linuxserver/speedtest-tracker:latest": true,
+        "l4rm4nd/vouchervault:1.1.x": true    
     }
   },
   {
