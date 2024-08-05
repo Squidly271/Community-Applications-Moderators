@@ -2049,7 +2049,8 @@
     "name": "ZappyZap's Repository",
     "duplicated": {
         "lscr.io/linuxserver/speedtest-tracker:latest": true,
-        "l4rm4nd/vouchervault:1.1.x": true    
+        "l4rm4nd/vouchervault:1.1.x": true,
+        "l4rm4nd/vouchervault:1.4.x": true
     }
   },
   {
