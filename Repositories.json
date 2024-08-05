@@ -1,5 +1,30 @@
 [
     {
+        "url": "https://github.com/kclif9/Unraid_Templates",
+        "profile": "https://forums.unraid.net/profile/279194-bluelamp3445/",
+        "name": "blue.lamp3445's Repository"
+    },
+    {
+        "url": "https://github.com/waazaa-fr/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/132702-waazaa/",
+        "name": "waazaa's Repository"
+    },
+    {
+        "url": "https://github.com/bpivk/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/67984-gxs/",
+        "name": "gxs' Repository"
+    },
+    {
+        "url": "https://github.com/l4rm4nd/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/279319-lrvt/",
+        "name": "LVRT's Repository"
+    },
+    {
+        "url": "https://github.com/dgongut/UnRAID-Templates",
+        "profile": "https://forums.unraid.net/profile/250140-dgongut/",
+        "name": "dgongut's Repository"
+    },
+    {
         "url": "https://github.com/R3yn4ld/unraid-plugins",
         "profile": "https://forums.unraid.net/profile/77730-reynald/",
         "name": "Reynald's Repository"
@@ -1443,11 +1468,6 @@
     "url": "https://github.com/Olprog59/unraid-templates",
     "profile": "https://forums.unraid.net/profile/121454-kameleon83/",
     "name": "Kameleon83's Repository"
-  },
-  {
-    "url": "https://github.com/xXGuhuXx/unraid-templates",
-    "profile": "https://forums.unraid.net/profile/134176-larsw/",
-    "name": "LarsW's Repository"
   },
   {
     "url": "https://github.com/ItsEcholot/unraid-templates",
