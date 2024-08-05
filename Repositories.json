@@ -1535,7 +1535,8 @@
     "profile": "https://forums.unraid.net/profile/139758-maddash1337/",
     "name": "patrickstigler's Repository",
     "duplicated": {
-      "mcr.microsoft.com/mssql/server:2019-latest": true
+      "mcr.microsoft.com/mssql/server:2019-latest": true,
+        "mandarons/icloud-drive": true
     }
   },
   {
