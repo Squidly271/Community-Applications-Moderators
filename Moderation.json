@@ -1,4 +1,8 @@
 {
+  "portainerci/portainer:2.1": {
+    "Blacklist": true,
+    "ModeratorComment": "Tag no longer exists on dockerHub"
+  },
   "ghcr.io/chrisbenincasa/tunarr": {
     "Blacklist": true,
     "ModeratorComment": "Default tag (:latest) does not exist on dockerHub"
