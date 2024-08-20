@@ -1,5 +1,25 @@
 [
     {
+        "url": "https://github.com/mmartial/ComfyUI-Nvidia-Docker",
+        "profile": "https://forums.unraid.net/profile/154534-martial/",
+        "name": martial's Repository"
+    },
+    {
+        "url": "https://github.com/Schaka/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/243152-schaka/",
+        "name": "Schaka's Repository"
+    },
+    {
+        "url": "https://github.com/lando786/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/270787-thatguyorlando/",
+        "name": "ThatGuyOrlando's Repository"
+    },
+    {
+        "url": "https://github.com/whallin/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/272933-whallin/",
+        "name": "whallin's Repository"
+    },
+    {
         "url": "https://github.com/kclif9/Unraid_Templates",
         "profile": "https://forums.unraid.net/profile/279194-bluelamp3445/",
         "name": "blue.lamp3445's Repository"
