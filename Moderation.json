@@ -1,4 +1,8 @@
 {
+  "spikhalskiy/zerotier": {
+    "Deprecated": true,
+    "ModeratorComment": "Appears to no longer work properly and is out of date and unmaintained.  See <a href=https://forums.unraid.net/topic/72030-support-spikhalskiy-zerotier/page/14/#comment-1460234 target=_blank>here</a"
+  },
   "portainerci/portainer:2.1": {
     "Blacklist": true,
     "ModeratorComment": "Tag no longer exists on dockerHub"
