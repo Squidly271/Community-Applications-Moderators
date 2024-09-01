@@ -1,4 +1,24 @@
 {
+  "chvb/docker-apache-php": {
+    "Blacklist": true,
+    "ModeratorComment": "Can no longer be downloaded"
+  },
+  "chvb/docker-dvblink": {
+    "Deprecated": true,
+    "ModeratorComment": "Appears to be completely unmaintained and abandoned"
+  },
+  "chvb/docker-kerio-connect": {
+    "Deprecated": true,
+    "ModeratorComment": "Appears to be completely unmaintained and abandoned"
+  },
+  "chvb/onlyofficedocumentserver:latest": {
+    "Deprecated": true,
+    "ModeratorComment": "Appears to be completely unmaintained and abandoned"
+  },
+  "chvb/docker-tvhproxy": {
+    "Deprecated": true,
+    "ModeratorComment": "Appears to be completely unmaintained and abandoned"
+  },
   "spikhalskiy/zerotier": {
     "Deprecated": true,
     "ModeratorComment": "Appears to no longer work properly and is out of date and unmaintained.  See <a href=https://forums.unraid.net/topic/72030-support-spikhalskiy-zerotier/page/14/#comment-1460234 target=_blank>here</a"
