@@ -590,7 +590,8 @@
     "name": "CorneliousJD's Repository",
     "profile": "https://lime-technology.com/profile/78194-corneliousjd/",
     "duplicated": {
-      "ghcr.io/imagegenius/immich:latest": true
+      "ghcr.io/imagegenius/immich:latest": true,
+      "mitchtalmadge/amp-dockerized": true
     }
   },
   {
@@ -2574,7 +2575,10 @@
   {
     "url": "https://github.com/alex-red/unraid-ca-templates",
     "profile": "https://forums.unraid.net/profile/160581-alexred/",
-    "name": "AlexRed's Repository"
+    "name": "AlexRed's Repository",
+    "duplicated": {
+        "dbgate/dbgate:latest": true
+    }
   },
   {
     "url": "https://github.com/soonic6/unraid-templates-ca",
