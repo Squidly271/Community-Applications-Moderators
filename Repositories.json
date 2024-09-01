@@ -14,7 +14,8 @@
         "profile": "https://forums.unraid.net/profile/272933-whallin/",
         "name": "whallin's Repository",
         "duplicated": {
-            "ghostfolio/ghostfolio:latest": true
+            "ghostfolio/ghostfolio:latest": true,
+            "ghcr.io/itsecholot/containernursery:latest": true
         }
     },
     {
@@ -2583,7 +2584,10 @@
   {
     "url": "https://github.com/d3vyce/unraid-template",
     "profile": "https://forums.unraid.net/profile/99205-d3vyce/",
-    "name": "d3vyce's Repository"
+    "name": "d3vyce's Repository",
+    "duplicated": {
+        "lissy93/web-check": true
+    }
   },
   {
     "url": "https://github.com/furritos/docker-templates",
