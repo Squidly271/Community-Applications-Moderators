@@ -35,7 +35,8 @@
         "name": "whallin's Repository",
         "duplicated": {
             "ghostfolio/ghostfolio:latest": true,
-            "ghcr.io/itsecholot/containernursery:latest": true
+            "ghcr.io/itsecholot/containernursery:latest": true,
+            "ghcr.io/zoeyvid/npmplus:latest": true
         }
     },
     {
@@ -1272,7 +1273,8 @@
     "name": "hussainalhaddad's Repository",
     "profile": "https://forums.unraid.net/profile/120871-hussainalhaddad/",
     "duplicated": {
-      "afian/filerun": true
+      "afian/filerun": true,
+        "nocodb/nocodb:latest": true
     }
   },
   {
