@@ -1991,14 +1991,6 @@
     "name": "derneuere's Repository"
   },
   {
-    "url": "https://github.com/LilTrublMakr/ltm-unraid-templates",
-    "profile": "https://forums.unraid.net/profile/110356-ltm/",
-    "name": "LTM's Repository",
-    "duplicated": {
-      "ghcr.io/benphelps/homepage": true
-    }
-  },
-  {
     "url": "https://github.com/MountainGod2/unraid-templates",
     "profile": "https://forums.unraid.net/profile/167420-mrslaw/",
     "name": "mrslaw's Repository"
