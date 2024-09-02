@@ -15,8 +15,7 @@
         "name": "whallin's Repository",
         "duplicated": {
             "ghostfolio/ghostfolio:latest": true,
-            "ghcr.io/itsecholot/containernursery:latest": true,
-            "ghcr.io/plausible/community-edition:latest": true
+            "ghcr.io/itsecholot/containernursery:latest": true
         }
     },
     {
