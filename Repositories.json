@@ -30,18 +30,6 @@
         "name": "ThatGuyOrlando's Repository"
     },
     {
-        "url": "https://github.com/whallin/unraid-templates",
-        "profile": "https://forums.unraid.net/profile/272933-whallin/",
-        "name": "whallin's Repository",
-        "duplicated": {
-            "ghostfolio/ghostfolio:latest": true,
-            "ghcr.io/itsecholot/containernursery:latest": true,
-            "library/matomo:apache": true,
-            "ghcr.io/zoeyvid/npmplus:latest": true,
-            "ghcr.io/linuxserver/obsidian:latest": true
-        }
-    },
-    {
         "url": "https://github.com/kclif9/Unraid_Templates",
         "profile": "https://forums.unraid.net/profile/279194-bluelamp3445/",
         "name": "blue.lamp3445's Repository"
