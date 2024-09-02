@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://github.com/rommapp/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/279632-arcaneasada/",
+        "name": "arcanesada's Repository"
+    },
+    {
         "url": "https://github.com/Cobbert/unraid-templates",
         "profile": "https://forums.unraid.net/profile/129102-cobb/",
         "name": "cobb's Repository"
