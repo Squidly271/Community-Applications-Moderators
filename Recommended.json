@@ -340,5 +340,12 @@
     "Reason": {
       "en_US": "Create your own tabs on the GUI of your server.  See this <a href=https://www.youtube.com/watch?v=WDn9Rz-wB2I target=_blank>video</a> for how to run your own scripts right from the tabs!"
     }
+  },
+  "lscr.io/linuxserver/calibre": {
+    "Date": "9/1/2024",
+    "Who": "AlienTech42",
+    "Reason": {
+      "en_US": "Powerful and easy to use eBook manager.  A must have"
+    }
   }
 }
