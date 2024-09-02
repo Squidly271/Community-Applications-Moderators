@@ -36,7 +36,6 @@
         "duplicated": {
             "ghostfolio/ghostfolio:latest": true,
             "ghcr.io/itsecholot/containernursery:latest": true,
-            "ghcr.io/zoeyvid/npmplus:latest": true,
             "library/matomo:apache": true
         }
     },
