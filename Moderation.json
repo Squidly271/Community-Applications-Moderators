@@ -1,4 +1,8 @@
 {
+  "ghcr.io/plausible/community-edition:latest": {
+    "RemoveFromCA": true,
+    "Reasoning": "Security violation due to script in extra parameters.  If/when this is reconfigured, then get rid of this entry"
+  },
   "chvb/docker-apache-php": {
     "Blacklist": true,
     "ModeratorComment": "Can no longer be downloaded"
