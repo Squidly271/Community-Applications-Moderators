@@ -1135,7 +1135,10 @@
   {
     "url": "https://github.com/Sdub76/unraid_docker_templates",
     "name": "sdub's Repository",
-    "profile": "https://forums.unraid.net/profile/113369-sdub"
+    "profile": "https://forums.unraid.net/profile/113369-sdub",
+      "duplicated": {
+          "ghcr.io/borgmatic-collective/borgmatic": true
+      }
   },
   {
     "url": "https://github.com/vinid223/unraid-docker-templates",
