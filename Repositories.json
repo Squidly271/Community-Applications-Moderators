@@ -102,7 +102,10 @@
     {
         "url": "https://github.com/JamsRepos/Unraid-Templates",
         "profile": "https://forums.unraid.net/profile/271866-lubricantjam/",
-        "name": "LubricantJam's Repository"
+        "name": "LubricantJam's Repository",
+        "duplicated": {
+            "ghcr.io/schaka/janitorr:native-stable": true
+        }
     },
     {
         "url": "https://github.com/manyfold3d/unraid-templates",
@@ -339,7 +342,10 @@
   {
     "name": "dibbz' Repository",
     "url":  "https://github.com/quimnut/unraid-docker-templates",
-    "profile": "https://forums.unraid.net/profile/15731-dibbz/"
+    "profile": "https://forums.unraid.net/profile/15731-dibbz/",
+      "duplicated": {
+          "tabbyml/tabby": true
+      }
   },
   {
     "name": "ken-ji's Repository",
@@ -1845,7 +1851,7 @@
     "url": "https://github.com/JPDVM2014/unraid-templates",
     "profile": "https://forums.unraid.net/profile/156525-jpdvm2014/",
     "name": "JPDVM2014's Repository",
-    "dupelicated": {
+    "duplicated": {
       "tomsquest/docker-radicale": true
     }
   },
@@ -2781,7 +2787,8 @@
     "profile": "https://forums.unraid.net/profile/259365-homelabbers/",
     "name": "homelabbers' Repository",
     "duplicated": {
-      "waterboy1602/addarr": true
+      "waterboy1602/addarr": true,
+      "phalcode/gamevault-backend:latest"
     }
   },
   {
