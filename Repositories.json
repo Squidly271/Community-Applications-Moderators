@@ -2788,7 +2788,7 @@
     "name": "homelabbers' Repository",
     "duplicated": {
       "waterboy1602/addarr": true,
-      "phalcode/gamevault-backend:latest"
+      "phalcode/gamevault-backend:latest": true
     }
   },
   {
