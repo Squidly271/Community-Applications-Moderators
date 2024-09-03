@@ -1,4 +1,16 @@
 {
+  "jshridha/rdiffweb": {
+    "Blacklist": true,
+    "ModeratorComment": "Unmaintained and unable to download from dockerHub due to docker image format v1/v2"
+  },
+  "mace/cloudflare-ddns": {
+    "Blacklist": true,
+    "ModeratorComment": "Unmaintained and unable to download from dockerHub due to docker image format v1/v2"
+  },
+  "sdesbure/alpine-netatmo-librato": {
+    "Blacklist": true,
+    "ModeratorComment": "Unmaintained and unable to download from dockerHub due to docker image format v1/v2"
+  },
   "https://github.com/jbrodriguez/controlr/releases/latest/download/controlr.plg": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of ControlRD from same author"
