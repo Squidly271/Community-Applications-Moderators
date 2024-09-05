@@ -1,4 +1,8 @@
 {
+  "https://raw.githubusercontent.com/dmacias72/unRAID-cmdline/master/plugin/cmdline.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "Effectively already integrated into the OS.  This plugin will shortly be removed from Apps"
+  },
   "jshridha/rdiffweb": {
     "Blacklist": true,
     "ModeratorComment": "Unmaintained and unable to download from dockerHub due to docker image format v1/v2"
