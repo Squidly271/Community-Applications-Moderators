@@ -1438,7 +1438,8 @@
   },
   "https://raw.githubusercontent.com/dmacias72/unRAID-NerdPack/master/plugin/NerdPack.plg": {
     "CAComment": "Only advanced users should consider installing this",
-    "MaxVer": "6.10.3"
+    "MaxVer": "6.10.3",
+    "RemoveFromCA": true
   },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.encryption.key.plg": {
     "RemoveFromCA": true,
@@ -1457,7 +1458,8 @@
     "ModeratorComment": "Repository no longer exists on docker hub"
   },
   "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdTools/main/plugin/NerdTools.plg": {
-    "CAComment": "Only advanced users should consider installing this"
+    "CAComment": "Only advanced users should consider installing this.  This plugin is unmaintained, and will be deprecated on Unraid 7.0 as many (most?) of the packages will no longer function with the updated kernel.  If you wish to fork this plugin and maintain it then send a PM to Squid in the forum"
+    "DeprecatedMaxVer": "7.0.0"
   },
   "ntop/ntopng:stable": {
     "Blacklist": true,
