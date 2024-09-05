@@ -1721,7 +1721,12 @@
     "ModeratorComment": "Appears to be unmaintained.  Advised to install the plugin from giganode instead"
   },
   "https://raw.githubusercontent.com/dmacias72/unRAID-libvirtwol/master/plugin/libvirtwol.plg": {
-    "CAComment": "This plugin will likely soom be deprecated due to lack of updates / support etc.  Ideally you should instead try utilizing WOL for Services plugin from SimonF instead"
+    "ModeratorComment": "This plugin will likely soom be deprecated due to lack of updates / support etc.  Ideally you should instead try utilizing WOL for Services plugin from SimonF instead",
+    "DeprecatedMaxVer": "6.12.0"
+  },
+  "https://raw.githubusercontent.com/dmacias72/unRAID-WOL/master/plugin/wakeonlan.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated due to no support, ongoing maintenance etc.  Likely that this plugin will stop working altogether in the near future"
   },
   "ghcr.io/linkwarden/linkwarden:latest": {
     "RemoveFromCA": true
