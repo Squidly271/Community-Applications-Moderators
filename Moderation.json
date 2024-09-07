@@ -1613,7 +1613,7 @@
     "ModeratorComment": "Base container appears to violate OnlyOffice's EULA and the connection limit"
   },
   "mavrag/onlyoffice-nc:latest": {
-    "Blacklist": true,
+    "Blacklist": false,
     "ModeratorComment": "Base container appears to violate OnlyOffice's EULA and the connection limit"
   },
   "ntop/ntopng": {
