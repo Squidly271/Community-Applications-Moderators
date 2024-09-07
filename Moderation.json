@@ -1612,10 +1612,6 @@
     "Blacklist": true,
     "ModeratorComment": "Base container appears to violate OnlyOffice's EULA and the connection limit"
   },
-  "mavrag/onlyoffice-nc:latest": {
-    "Blacklist": false,
-    "ModeratorComment": "Base container appears to violate OnlyOffice's EULA and the connection limit"
-  },
   "ntop/ntopng": {
     "Blacklist": true,
     "ModeratorComment": ":Latest tag does not exist on dockerHub"
