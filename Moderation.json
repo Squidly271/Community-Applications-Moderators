@@ -1,4 +1,8 @@
 {
+  "mavrag/pihole-dot-doh:latest": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated as no updates to container for 2+ years.  Advised to switch to another pihole-dot-doh available within Apps which are still under active development"
+  },
   "https://raw.githubusercontent.com/dmacias72/unRAID-cmdline/master/plugin/cmdline.plg": {
     "Deprecated": true,
     "ModeratorComment": "Effectively already integrated into the OS.  This plugin will shortly be removed from Apps"
