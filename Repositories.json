@@ -2727,7 +2727,10 @@
   {
     "url": "https://github.com/Eurotimmy/unraid-templates",
     "profile": "https://forums.unraid.net/profile/175441-eurotimmy/",
-    "name": "Eurotimmy's Repository"
+    "name": "Eurotimmy's Repository",
+      "duplicated": {
+          "rommapp/romm:latest": true
+      }
   },
   {
     "url": "https://github.com/MiranoVerhoef/Unraid-Mirano",
