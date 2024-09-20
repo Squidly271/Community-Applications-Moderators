@@ -1,4 +1,12 @@
 {
+  "passivelemon/zoraxy-docker:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub"
+  },
+  "athou/commafeed:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub"
+  },
   "mavrag/pihole-dot-doh:latest": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated as no updates to container for 2+ years.  Advised to switch to another pihole-dot-doh available within Apps which are still under active development.  This template will be removed from Apps in the future."
