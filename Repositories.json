@@ -42,7 +42,10 @@
     {
         "url": "https://github.com/lando786/unraid-templates",
         "profile": "https://forums.unraid.net/profile/270787-thatguyorlando/",
-        "name": "ThatGuyOrlando's Repository"
+        "name": "ThatGuyOrlando's Repository",
+        "duplicated": {
+            "triliumnext/notes:latest": true
+        }
     },
     {
         "url": "https://github.com/kclif9/Unraid_Templates",
