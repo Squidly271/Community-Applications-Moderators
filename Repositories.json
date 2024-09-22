@@ -1,5 +1,20 @@
 [
     {
+        "url": "https://github.com/zip-fa/unraid-torrserver",
+        "profile": "https://forums.unraid.net/profile/280443-unraidnewbie2211/",
+        "name": "UnraidNewbie2211's Repository"
+    },
+    {
+        "url": "https://github.com/Unlearned6688/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/170061-unjustice/",
+        "name": "UnJustice's Repository"
+    },
+    {
+        "url": "https://github.com/DavidWJR/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/253276-reggieswag/",
+        "name": "ReggieSwag's Repository"
+    },
+    {
         "url": "https://github.com/mmartial/unraid-templates",
         "profile": "https://forums.unraid.net/profile/154534-martial/",
         "name": "martial's Repository"
