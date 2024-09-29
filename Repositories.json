@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://github.com/phyzical/UnraidPlugins",
+        "profile": "https://forums.unraid.net/profile/97031-phyzical/",
+        "name": "phyzical's Repository"
+    },
+    {
         "url": "https://github.com/zip-fa/unraid-torrserver",
         "profile": "https://forums.unraid.net/profile/280443-unraidnewbie2211/",
         "name": "UnraidNewbie2211's Repository"
