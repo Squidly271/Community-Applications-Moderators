@@ -630,8 +630,7 @@
     "name": "CorneliousJD's Repository",
     "profile": "https://lime-technology.com/profile/78194-corneliousjd/",
     "duplicated": {
-      "ghcr.io/imagegenius/immich:latest": true,
-      "mitchtalmadge/amp-dockerized": true
+      "ghcr.io/imagegenius/immich:latest": true
     }
   },
   {
