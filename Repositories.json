@@ -21,7 +21,7 @@
     },
     {
         "url": "https://github.com/mmartial/unraid-templates",
-        "profile": "https://forums.unraid.net/profile/154534-martial/",
+        "profile": "https://forums.unraid.net/profile/15ho4534-martial/",
         "name": "martial's Repository"
     },
     {
@@ -2796,15 +2796,6 @@
     "url": "https://github.com/ds-sebastian/unraid-templates",
     "profile": "https://forums.unraid.net/profile/238004-pureelectricity/",
     "name": "pureelectricity's Repository"
-  },
-  {
-    "url": "https://github.com/Homelabbers/unraid-templates",
-    "profile": "https://forums.unraid.net/profile/259365-homelabbers/",
-    "name": "homelabbers' Repository",
-    "duplicated": {
-      "waterboy1602/addarr": true,
-      "phalcode/gamevault-backend:latest": true
-    }
   },
   {
     "url": "https://github.com/nodiaque/unraid_template",
