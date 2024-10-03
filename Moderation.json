@@ -1,8 +1,8 @@
 {
-  "https://raw.githubusercontent.com/unraid/unraid-tailscale/preview/plugin/tailscale-preview.plg": {
+  "https://raw.githubusercontent.com/dkaser/unraid-tailscale/main/plugin/tailscale.plg": {
     "HideFromCA": true
   },
-  "https://raw.githubusercontent.com/unraid/unraid-tailscale/main/plugin/tailscale.plg": {
+  "https://raw.githubusercontent.com/dkaser/unraid-tailscale/preview/plugin/tailscale-preview.plg": {
     "HideFromCA": true
   },
   "passivelemon/zoraxy-docker:latest": {
