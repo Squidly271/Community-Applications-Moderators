@@ -1,4 +1,10 @@
 {
+  "https://raw.githubusercontent.com/unraid/unraid-tailscale/preview/plugin/tailscale-preview.plg": {
+    "HideFromCA": true
+  },
+  "https://raw.githubusercontent.com/unraid/unraid-tailscale/main/plugin/tailscale.plg": {
+    "HideFromCA": true
+  },
   "passivelemon/zoraxy-docker:latest": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerHub"
