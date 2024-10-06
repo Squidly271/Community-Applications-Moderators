@@ -1,4 +1,10 @@
 {
+  "https://raw.githubusercontent.com/unraid/unraid-tailscale/main/plugin/tailscale.plg": {
+    "Date": "10/1/2024",
+    "Reason": {
+      "en_US": "Tailscale⁠ lets you connect your devices and users together in your own secure virtual private network. Tailscale enables encrypted point-to-point connections using the open source WireGuard⁠ protocol."
+    }
+  },
   "https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/plugins/fix.common.problems.plg": {
     "Date": "12/1/2018",
     "Reason": {
