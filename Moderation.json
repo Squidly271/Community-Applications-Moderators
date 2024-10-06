@@ -1,4 +1,10 @@
 {
+  "https://raw.githubusercontent.com/unraid/unraid-tailscale/main/plugin/tailscale.plg": {
+    "LTOfficial": true
+  },
+  "https://raw.githubusercontent.com/unraid/unraid-tailscale/preview/plugin/tailscale-preview.plg": {
+    "LTOfficial": true
+  },
   "https://raw.githubusercontent.com/dkaser/unraid-tailscale/main/plugin/tailscale.plg": {
     "HideFromCA": true
   },
