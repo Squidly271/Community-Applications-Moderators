@@ -140,12 +140,6 @@
     },
     "Who": "Andrew"
   },
-  "deasmi/unraid-tailscale:latest": {
-    "Date": "11/1/2021",
-    "Reason": {
-      "en_US": "With over 335K downloads to date, Tailscale is this month's CA Spotlight container"
-    }
-  },
   "fison67/lg-connector:0.0.3": {
     "Date": "12/1/2021",
     "Reason": {
