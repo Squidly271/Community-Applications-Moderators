@@ -593,7 +593,7 @@
     "UpdateMinVer": "6.7.0"
   },
   "mace/ddclient": {
-    "ModeratorComment": "Can no longer be pulled from DockerHub
+    "ModeratorComment": "Can no longer be pulled from DockerHub",
     "Blacklist": true
   },
   "linuxserver/codiad": {
