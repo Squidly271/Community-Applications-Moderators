@@ -433,15 +433,6 @@
     }
   },
   {
-    "name": "chvb's Repository",
-    "url": "https://github.com/chvb/docker-templates",
-    "forum": "http://forums.unraid.net/index.php?topic=49578.0",
-    "profile": "https://forums.unraid.net/profile/65325-chvb/",
-    "duplicated": {
-      "collabora/code": true
-    }
-  },
-  {
     "name": "jcreynolds' Repository",
     "url": "https://github.com/jcreynolds/docker-templates",
     "profile": "https://forums.unraid.net/profile/65204-jcreynoldsii/"
