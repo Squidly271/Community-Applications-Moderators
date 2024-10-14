@@ -364,15 +364,15 @@
   },
   "hernandito/calibreserver-docker": {
     "ModeratorComment": "Deprecated in favour of the application available from Aptalca / LinuxServer",
-    "Deprecated": true
+    "Blacklist": true
   },
   "hernandito/hernando-apachephp-docker": {
-    "ModeratorComment": "Deprecated in favour of the application available from LinuxServer",
-    "Deprecated": true
+    "ModeratorComment": "Deprecated in favour of the application available from LinuxServer - can no longer be pulled from dockerHub",
+    "Blacklist": true
   },
   "hernandito/docker-apache-php-adminer": {
     "ModeratorComment": "Deprecated in favour of the application available from LinuxServer",
-    "Deprecated": true
+    "Blacklist": true
   },
   "https://raw.githubusercontent.com/macexx/plugins/master/nut/nut.plg": {
     "RemoveFromCA": true
@@ -579,8 +579,8 @@
     "Deprecated": true
   },
   "pducharme/plexconnect": {
-    "CAComment": "Note that this application is unsupported, and no updates have been done since 2015",
-    "Deprecated": true
+    "ModeratorComment": "Image format is disabled by docker by default and will be removed - Cannot be pulled",
+    "Blacklist": true
   },
   "linuxserver/kanzi": {
    "CAComment": "You must review the directions <a href=https://github.com/linuxserver/docker-kanzi target=_blank>HERE</a> in order to properly set up"
@@ -593,7 +593,8 @@
     "UpdateMinVer": "6.7.0"
   },
   "mace/ddclient": {
-    "CAComment": "While still functional, a ddclient app from linuxserver is available which may be better supported"
+    "ModeratorComment": "Can no longer be pulled from DockerHub
+    "Blacklist": true
   },
   "linuxserver/codiad": {
     "ModeratorComment": "Deprecated as per linuxserver.io",
@@ -826,7 +827,7 @@
     "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
   },
   "pinion/docker-mylar": {
-    "Deprecated": true,
+    "Blacklist": true,
     "ModeratorComment": "Uses a deprecated schema on dockerHub."
   },
   "soana/mythtvhb": {
@@ -950,8 +951,8 @@
     "DeprecatedMaxVer": "6.9.0"
   },
   "slrgde/glftpd": {
-    "Deprecated": true,
-    "ModeratorComment": "Deprecated by the author"
+    "Blacklist": true,
+    "ModeratorComment": "Can no longer by pulled by dockerHub"
   },
   "jonaswinkler/paperless-ng": {
     "Requires": "Redis container installed"
@@ -1259,8 +1260,8 @@
     "Deprecated": true
   },
   "centurylink/watchtower": {
-    "ModeratorComment": "This container is hopelessly out of date with the project.  You should probably switch the repository to containrrr/watchtower.  This app is being deprecated from CA",
-    "Deprecated": true
+    "ModeratorComment": "This container is hopelessly out of date with the project.  You should probably switch the repository to containrrr/watchtower.  It can no longer be pulled from dockerHub due to the image format",
+    "Blacklist": true
   },
   "dmaxwell/airvideohd": {
     "ModeratorComment": "It appears that the AirVideo HD project has been abandonded, and no more updates will be forth coming.",
@@ -1275,7 +1276,7 @@
     "ModeratorComment": "This container is no longer being updated.  Suggested to switch to QDirStat from DJoss or LinuxServer"
   },
   "hernandito/docker-resourcespace": {
-    "Deprecated": true,
+    "Blacklist": true,
     "ModeratorComment": "This container appears to be hopelessly out of date, and is now deprecated"
   },
   "aptalca/docker-openremote": {
@@ -1287,11 +1288,11 @@
     "ModeratorComment": "This project appears to have been abandoned, with no updates since 2015 and is now deprecated"
   },
   "spants/dashing": {
-    "Deprecated": true,
-    "ModeratorComment": "This project appears to have been abandoned, with no updates since 2015 and is now deprecated"
+    "Blacklist": true,
+    "ModeratorComment": "This project appears to have been abandoned, with no updates since 2015 and is now deprecated - Image format used can no longer be pulled"
   },
   "mace/darkstat": {
-    "Deprecated": true,
+    "Blacklist": true,
     "ModeratorComment": "This container appears to have been abandoned, with no updates since 2016.  The project itself though appears to be still maintained.  Deprecating this app"
   },
   "quimnut/cloud9ide": {
