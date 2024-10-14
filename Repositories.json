@@ -2238,7 +2238,8 @@
     "profile": "https://forums.unraid.net/profile/81372-grtgbln/",
     "name": "grtgbln's Repository",
     "duplicated": {
-      "binwiederhier/ntfy:latest": true
+        "binwiederhier/ntfy:latest": true,
+        "networkstatic/iperf3:latest": true
     }
   },
   {
