@@ -1,6 +1,7 @@
 {
   "https://raw.githubusercontent.com/unraid/unraid-tailscale/main/plugin/tailscale.plg": {
-    "LTOfficial": true
+    "LTOfficial": true,
+    "ExtraSearchTerms": "TailScale"
   },
   "https://raw.githubusercontent.com/unraid/unraid-tailscale/preview/plugin/tailscale-preview.plg": {
     "LTOfficial": true
