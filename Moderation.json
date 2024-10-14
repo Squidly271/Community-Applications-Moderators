@@ -30,7 +30,7 @@
     "ModeratorComment": "Deprecated as no updates to container for 2+ years.  Advised to switch to another pihole-dot-doh available within Apps which are still under active development.  This template will be removed from Apps in the future."
   },
   "https://raw.githubusercontent.com/dmacias72/unRAID-cmdline/master/plugin/cmdline.plg": {
-    "Deprecated": true,
+    "RemoveFromCA": true,
     "ModeratorComment": "Effectively already integrated into the OS.  This plugin will shortly be removed from Apps"
   },
   "jshridha/rdiffweb": {
@@ -58,19 +58,19 @@
     "ModeratorComment": "Can no longer be downloaded"
   },
   "chvb/docker-dvblink": {
-    "Deprecated": true,
+    "RemoveFromCA": true,
     "ModeratorComment": "Appears to be completely unmaintained and abandoned"
   },
   "chvb/docker-kerio-connect": {
-    "Deprecated": true,
+    "RemoveFromCA": true,
     "ModeratorComment": "Appears to be completely unmaintained and abandoned"
   },
   "chvb/onlyofficedocumentserver:latest": {
-    "Deprecated": true,
+    "RemoveFromCA": true,
     "ModeratorComment": "Appears to be completely unmaintained and abandoned"
   },
   "chvb/docker-tvhproxy": {
-    "Deprecated": true,
+    "RemoveFromCA": true,
     "ModeratorComment": "Appears to be completely unmaintained and abandoned"
   },
   "portainerci/portainer:2.1": {
@@ -133,7 +133,8 @@
     },
   "rix1337/docker-copy": {
     "ModeratorComment": "This application ceased to operate after May 1st, 2016",
-    "Blacklist": true
+    "Blacklist": true,
+    "RemoveFromCA": true
     },
   "sparklyballs/headless-kodi-helix": {
     "ModeratorComment": "As author now a member of linux, would recommend use of the linuxserver.io version",
