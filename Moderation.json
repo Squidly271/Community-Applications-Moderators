@@ -1,4 +1,8 @@
 {
+  "seafileltd/seafile-mc": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub"
+  },
   "https://raw.githubusercontent.com/unraid/unraid-tailscale/main/plugin/tailscale.plg": {
     "LTOfficial": true,
     "ExtraSearchTerms": "TailScale"
