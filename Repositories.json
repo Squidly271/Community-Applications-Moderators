@@ -1,5 +1,20 @@
 [
     {
+        "url": "https://github.com/gjhami/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/281298-raidingunraid/",
+        "name": "raidingUnraid's Repository"
+    },
+    {
+        "url": "https://github.com/ne0ark/docker-templates",
+        "profile": "https://forums.unraid.net/profile/221895-naidu/",
+        "name": "Naidu's Repository"
+    },
+    {
+        "url": "https://github.com/feederbox826/unraid-templates",
+        "name": "feederbox826's Repository",
+        "profile": "https://forums.unraid.net/profile/281190-feederbox826/"
+    },
+    {
         "url": "https://github.com/dkaser/unraid-plugins",
         "profile": "https://forums.unraid.net/profile/244077-edacerton/",
         "name": "EDACerton's Repository"
