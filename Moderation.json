@@ -1302,8 +1302,8 @@
     "ModeratorComment": "Deprecated because no updates since 2016.  Advised to switch to the app from linuxserver"
   },
   "sdesbure/arch-jackett": {
-    "ModeratorComment": "Deprecated because no updates since 2016.  Advised to switch to the app from either binhex or linuxserver",
-    "Deprecated": true
+    "ModeratorComment": "Unmaintained and unable to download from dockerHub due to docker image format v1/v2",
+    "Blacklist": true
   },
   "johnodon/barracudadrive": {
     "ModeratorComment": "This project appears to have been abandoned as no updates since 2013",
