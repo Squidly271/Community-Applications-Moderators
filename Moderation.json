@@ -1,4 +1,8 @@
 {
+  "azuracast/nowplaying:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
   "seafileltd/seafile-mc": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerHub"
@@ -1248,8 +1252,8 @@
     "Deprecated": true
   },
   "quimnut/brewpi-wifi": {
-    "ModeratorComment": "Note that this project appears to have been abandoned, and is now deprecated",
-    "Deprecated": true
+    "ModeratorComment": "Unable to be pulled from dockerHub due to unsupported image format",
+    "Blacklist": true
   },
   "ninjaneer/plex-discord-bot": {
     "CAComment": "Note that this project appears to have been abandoned, and may ultimately be removed from CA"
@@ -1298,8 +1302,8 @@
     "ModeratorComment": "This container appears to have been abandoned, with no updates since 2016.  The project itself though appears to be still maintained.  Deprecating this app"
   },
   "quimnut/cloud9ide": {
-    "Deprecated": true,
-    "ModeratorComment": "Deprecated because no updates since 2016.  Advised to switch to the app from linuxserver"
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub due to unsupported image format"
   },
   "sdesbure/arch-jackett": {
     "ModeratorComment": "Unmaintained and unable to download from dockerHub due to docker image format v1/v2",
