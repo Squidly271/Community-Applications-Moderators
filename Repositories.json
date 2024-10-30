@@ -1,5 +1,55 @@
 [
     {
+        "url": "https://github.com/jordan-dalby/unraidtemplates",
+        "profile": "https://forums.unraid.net/profile/281718-data-jordan/",
+        "name": "data-jordan's Repository"
+    },
+    {
+        "url": "https://github.com/giuseppe99barchetta/SuggestArr",
+        "profile": "https://forums.unraid.net/profile/281768-ciuse99/",
+        "name": "ciuse99's Repository"
+    },
+    {
+        "url": "https://github.com/logandwaters/Plug-and-Play-Docker",
+        "profile": "https://forums.unraid.net/profile/281787-lwater/",
+        "name": "lwater's Repository"
+    },
+    {
+        "url": "https://github.com/apfaffman/docker-templates",
+        "profile": "https://forums.unraid.net/profile/223909-apfaffman/",
+        "name": "apfaffman's Repository"
+    },
+    {
+        "url": "https://github.com/RFlor14/unraid",
+        "profile": "https://forums.unraid.net/profile/281508-r14f/",
+        "name": "r14f's Repository"
+    },
+    {
+        "url": "https://github.com/gjhami/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/281298-raidingunraid/",
+        "name": "raidingunRaid"
+    },
+    {
+        "url": "https://github.com/andaks/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/114400-andaks/",
+        "name": "andaks' Repository"
+    },
+    {
+        "url": "https://github.com/GotAnAccount/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/187798-simpleserver/",
+        "name": "simpleServer's Repository"
+    },
+    {
+        "url": "https://github.com/soultaco83/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/87407-soultaco83/",
+        "name": "soultaco83's Repository"
+    },
+    {
+        "url": "https://github.com/D3lta/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/281050-decrevi/",
+        "name": "decrevi's Repository"
+    },
+    {
         "url": "https://github.com/gjhami/unraid-templates",
         "profile": "https://forums.unraid.net/profile/281298-raidingunraid/",
         "name": "raidingUnraid's Repository"
