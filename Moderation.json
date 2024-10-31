@@ -1,4 +1,7 @@
 {
+  "noah231515/receipt-wrangler:{{TAG}}": {
+    "RemoveFromCA": true
+  },
   "azuracast/nowplaying:latest": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled from dockerHub"
