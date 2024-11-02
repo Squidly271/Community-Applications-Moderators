@@ -1,4 +1,10 @@
 {
+  "https://raw.githubusercontent.com/giganode/unraid-mqtt-pub-sub/master/mqtt-pub-sub.plg": {
+    "Date": "11/1/2024",
+    "Reason": {
+      "en_US": "Publish data from your unraid server to mosquitto so in can be tracked within Home Assistant and more"
+    }
+  },
   "https://raw.githubusercontent.com/unraid/unraid-tailscale/main/plugin/tailscale.plg": {
     "Date": "10/1/2024",
     "Reason": {
