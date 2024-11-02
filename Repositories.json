@@ -711,11 +711,6 @@
     "profile": "https://lime-technology.com/profile/10897-itimpi/"
   },
   {
-    "url": "https://github.com/thetarkus/docker-templates",
-    "name": "thetarkus' Repository",
-    "profile": "https://lime-technology.com/profile/84238-tarkus/"
-  },
-  {
     "url": "https://github.com/mdarkness1988/rust-server-template",
     "name": "mdarkness1988's Repository",
     "profile": "https://lime-technology.com/profile/84443-mdarkness1988/"
@@ -1320,11 +1315,6 @@
     "profile": "https://forums.unraid.net/profile/119851-zgo/"
   },
   {
-    "url": "https://github.com/yqlbu/unraid-templates",
-    "name": "kevin yu's Repository",
-    "profile": "https://forums.unraid.net/profile/110700-kevin-yu/"
-  },
-  {
     "url": "https://github.com/bobbintb/docker-templates",
     "name": "bobbintb's Repository",
     "profile": "https://forums.unraid.net/profile/550-bobbintb/"
@@ -1414,11 +1404,6 @@
     "name": "Forum-Layman's Repository"
   },
   {
-    "url": "https://github.com/Kippenhof/docker-templates",
-    "profile": "https://forums.unraid.net/profile/112121-kippenhof/",
-    "name": "Kippenhof's Repository"
-  },
-  {
     "url": "https://github.com/marzel1/docker-templates",
     "profile": "https://forums.unraid.net/profile/117249-marzel/",
     "name": "Marzel's Repository"
@@ -1437,11 +1422,6 @@
     "url": "https://github.com/guydavis/machinaris-unraid",
     "profile": "https://forums.unraid.net/profile/126090-guydavis/",
     "name": "guy.davis' Repository"
-  },
-  {
-    "url": "https://github.com/Alphacosmos/unraid-templetes",
-    "profile": "https://forums.unraid.net/profile/86880-alphacosmos/",
-    "name": "Alphacosmos' Repository"
   },
   {
     "url": "https://github.com/breadlysm/Breads-unraid-templates",
@@ -1550,11 +1530,6 @@
     }
   },
   {
-    "url": "https://github.com/Sleepingpirates/invitarr-unraid",
-    "profile": "https://forums.unraid.net/profile/114147-priate/",
-    "name": "priate's Repository"
-  },
-  {
     "url": "https://github.com/rufuswilson/unraid-templates",
     "profile": "https://forums.unraid.net/profile/130601-cedev/",
     "name": "cedev's Repository"
@@ -1579,11 +1554,6 @@
     "profile": "https://forums.unraid.net/profile/116201-mrm/",
     "name": "Official PhotoStructure Repository",
     "shortName": "PhotoStructure"
-  },
-  {
-    "url": "https://github.com/Zazou49/unraid",
-    "profile": "https://forums.unraid.net/profile/110288-alexb/",
-    "name": "Alex B's Repository"
   },
   {
     "url": "https://github.com/BigManDave/unraid-templates",
@@ -2399,19 +2369,9 @@
     "name": "FriendlyFriend's Repository"
   },
   {
-    "url": "https://github.com/mrspongie21/unraid-templates",
-    "profile": "https://forums.unraid.net/profile/118593-acharles21/",
-    "name": "acharles21's Repository"
-  },
-  {
     "url": "https://github.com/fizzyfrys/unraid-templates",
     "profile": "https://forums.unraid.net/profile/119591-fizzyfrys/",
     "name": "fizzyfrys' Repository"
-  },
-  {
-    "url": "https://github.com/ImUnlequit/unraidtemplate",
-    "profile": "https://forums.unraid.net/profile/167979-imunlequit/",
-    "name": "ImunLequit's Repository"
   },
   {
     "url": "https://github.com/giganode/unraid-plugins",
