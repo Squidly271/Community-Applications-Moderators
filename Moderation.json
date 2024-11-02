@@ -1,4 +1,8 @@
 {
+  "r14f/allthemods10:v1.0.0": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be downloaded from dockerHub"
+  },
   "noah231515/receipt-wrangler:{{TAG}}": {
     "RemoveFromCA": true
   },
