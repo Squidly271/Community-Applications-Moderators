@@ -78,7 +78,7 @@
       "en_US": "Allows your docker containers to take advantage of a non-passed through nVidia GPU for transcoding, computation etc"
     }
   },
-  "https://unraid-dl.sfo2.cdn.digitaloceanspaces.com/unraid-api/dynamix.unraid.net.plg": {
+  "https://stable.dl.unraid.net/unraid-api/dynamix.unraid.net.plg": {
     "Date": "1/1/2021",
     "Reason": {
       "en_US": "Securely access your server remotely and more!"
