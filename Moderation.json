@@ -1,4 +1,8 @@
 {
+  "lizardbyte/sunshine:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Default tag in template does not exist on dockerHub"
+  },
   "r14f/allthemods10:v1.0.0": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be downloaded from dockerHub"
