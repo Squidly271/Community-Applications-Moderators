@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://github.com/Groestlcoin/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/281950-groestlcoin/",
+        "name": "groestlcoin's Repository"
+    },
+    {
         "url": "https://github.com/jordan-dalby/unraidtemplates",
         "profile": "https://forums.unraid.net/profile/281718-data-jordan/",
         "name": "data-jordan's Repository"
