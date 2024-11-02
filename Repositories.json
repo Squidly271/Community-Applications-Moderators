@@ -7,7 +7,10 @@
     {
         "url": "https://github.com/giuseppe99barchetta/SuggestArr",
         "profile": "https://forums.unraid.net/profile/281768-ciuse99/",
-        "name": "ciuse99's Repository"
+        "name": "ciuse99's Repository",
+        "duplicated": {
+            "ciuse99/suggestarr:latest": true
+        }
     },
     {
         "url": "https://github.com/logandwaters/Plug-and-Play-Docker",
