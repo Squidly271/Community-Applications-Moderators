@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://github.com/Aquillacomputingsystem/unraid-templetes",
+        "profile": "https://forums.unraid.net/profile/86880-alphacosmos/",
+        "name": "Alphacosmos' Repository"
+    },
+    {
         "url": "https://github.com/Groestlcoin/unraid-templates",
         "profile": "https://forums.unraid.net/profile/281950-groestlcoin/",
         "name": "groestlcoin's Repository"
