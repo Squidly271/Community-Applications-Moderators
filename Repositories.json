@@ -651,7 +651,7 @@
   {
     "url": "https://github.com/MarkusMcNugen/docker-templates",
     "name": "MarkusMcNugen's Repository",
-    "profile": "https://lime-technology.com/profile/79684-markusmcnugen/",
+    "profile": "https://forums.unraid.net/profile/79684-markusmcnugen/",
     "duplicated": {
       "technosoft2000/calibre-web": true
     }
@@ -659,7 +659,7 @@
   {
     "url": "https://github.com/juusujanar/unraid-templates",
     "name": "jj9987's Repository",
-    "profile": "https://lime-technology.com/profile/79768-jj9987/",
+    "profile": "https://forums.unraid.net/profile/79768-jj9987/",
     "duplicated": {
       "registry.hub.docker.com/portainer/portainer-ce": true
     }
@@ -667,44 +667,44 @@
   {
     "url": "https://github.com/Jcloud67/Docker-Templates",
     "name": "JCloud's Repository",
-    "profile": "https://lime-technology.com/profile/67922-jcloud/",
+    "profile": "https://forums.unraid.net/profile/67922-jcloud/",
     "forum": "https://lime-technology.com/forums/topic/69422-support-qdirstat-and-storj/"
   },
   {
     "url": "https://github.com/tombowditch/docker-templates",
     "name": "tombowditch's Repository",
-    "profile": "https://lime-technology.com/profile/80184-tombowditch/"
+    "profile": "https://forums.unraid.net/profile/80184-tombowditch/"
   },
   {
     "url": "https://github.com/Tautulli/Tautulli-Unraid-Template",
     "name": "Tautulli's Repository",
-    "profile": "https://lime-technology.com/profile/69064-wreave/",
+    "profile": "https://forums.unraid.net/profile/69064-wreave/",
     "recommended": true
   },
   {
     "url": "https://github.com/jbartlett777/DiskSpeed",
     "name": "JBartlett's Repository",
-    "profile": "https://lime-technology.com/profile/8307-jbartlett/"
+    "profile": "https://forums.unraid.net/profile/8307-jbartlett/"
   },
   {
     "url": "https://github.com/zyphermonkey/docker-templates",
     "name": "zyphermonkey's Repository",
-    "profile": "https://lime-technology.com/profile/67871-zyphermonkey/"
+    "profile": "https://forums.unraid.net/profile/67871-zyphermonkey/"
   },
   {
     "url": "https://github.com/Mudislander/docker-templates",
     "name": "Mudislander's Repository",
-    "profile": "https://lime-technology.com/profile/67039-mudislander/"
+    "profile": "https://forums.unraid.net/profile/67039-mudislander/"
   },
   {
     "url": "https://github.com/Spikhalskiy/docker-templates",
     "name": "Spikhalskiy's Repository",
-    "profile": "https://lime-technology.com/profile/82549-dmitry-spikhalskiy/"
+    "profile": "https://forums.unraid.net/profile/82549-dmitry-spikhalskiy/"
   },
   {
     "url": "https://github.com/digiblur/unraid-docker-templates",
     "name": "digiblur's Repository",
-    "profile": "https://lime-technology.com/profile/75995-digiblur/",
+    "profile": "https://forums.unraid.net/profile/75995-digiblur/",
     "forum": "https://lime-technology.com/forums/topic/72033-support-digiblurs-docker-template-repository/",
     "duplicated": {
       "deepquestai/deepstack": true
@@ -713,7 +713,7 @@
   {
     "url": "https://github.com/CorneliousJD/Docker-Templates",
     "name": "CorneliousJD's Repository",
-    "profile": "https://lime-technology.com/profile/78194-corneliousjd/",
+    "profile": "https://forums.unraid.net/profile/78194-corneliousjd/",
     "duplicated": {
       "ghcr.io/imagegenius/immich:latest": true
     }
@@ -721,22 +721,22 @@
   {
     "url": "https://github.com/mlebjerg/docker-templates",
     "name": "mlebjerg's Repository",
-    "profile": "https://lime-technology.com/profile/76816-mlebjerg/"
+    "profile": "https://forums.unraid.net/profile/76816-mlebjerg/"
   },
   {
     "url": "https://github.com/cmccambridge/unraid-templates",
     "name": "cmccambridge's Repository",
-    "profile": "https://lime-technology.com/profile/83181-cmccambridge/"
+    "profile": "https://forums.unraid.net/profile/83181-cmccambridge/"
   },
   {
     "url": "https://github.com/itimpi/Unraid-CA-Templates",
     "name": "itimpi's Repository",
-    "profile": "https://lime-technology.com/profile/10897-itimpi/"
+    "profile": "https://forums.unraid.net/profile/10897-itimpi/"
   },
   {
     "url": "https://github.com/mdarkness1988/rust-server-template",
     "name": "mdarkness1988's Repository",
-    "profile": "https://lime-technology.com/profile/84443-mdarkness1988/"
+    "profile": "https://forums.unraid.net/profile/84443-mdarkness1988/"
   },
   {
     "url": "https://github.com/DyonR/docker-templates",
