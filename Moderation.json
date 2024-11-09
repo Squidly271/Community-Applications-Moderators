@@ -1,4 +1,12 @@
 {
+  "registry.phospher.com/brianmiller/doorway:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled"
+  },
+  "registry.phospher.com/brianmiller/mbbsemu:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled"
+  },
   "lizardbyte/sunshine:latest": {
     "Blacklist": true,
     "ModeratorComment": "Default tag in template does not exist on dockerHub"
