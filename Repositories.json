@@ -547,7 +547,8 @@
     "forum": "https://lime-technology.com/forum/index.php?topic=51498.0",
     "profile": "https://forums.unraid.net/profile/70671-atribe/",
     "duplicated": {
-      "hexparrot/mineos:latest": true
+      "hexparrot/mineos:latest": true,
+        "nicolargo/glances": true
     }
   },
   {
@@ -582,7 +583,9 @@
   {
     "name": "cheesemarathon's Repository",
     "url": "https://github.com/BB-BenBridges/docker-templates",
-    "profile": "https://forums.unraid.net/profile/70291-cheesemarathon/"
+    "profile": "https://forums.unraid.net/profile/70291-cheesemarathon/",
+    "duplicated": {
+        "metabase/metabase": true
   },
   {
     "name": "Taddeusz' Repository",
@@ -717,7 +720,8 @@
     "profile": "https://forums.unraid.net/profile/75995-digiblur/",
     "forum": "https://lime-technology.com/forums/topic/72033-support-digiblurs-docker-template-repository/",
     "duplicated": {
-      "deepquestai/deepstack": true
+      "deepquestai/deepstack": true,
+      "nico640/docker-unms": true
     }
   },
   {
@@ -824,7 +828,8 @@
     "profile": "https://forums.unraid.net/profile/71048-knex666/",
     "duplicated": {
       "adolfintel/speedtest": true,
-      "openproject/community:13": true
+      "openproject/community:13": true,
+      "filebrowser/filebrowser": true
     }
   },
   {
@@ -1867,7 +1872,8 @@
     "profile": "https://forums.unraid.net/profile/158924-xavierh/",
     "name": "xavierh's Repository",
     "duplicated": {
-      "jlongster/actual-server:latest": true
+      "jlongster/actual-server:latest": true,
+        "xavierh/goaccess-for-nginxproxymanager": true
     }
   },
   {
@@ -2793,14 +2799,17 @@
     "url": "https://github.com/Eurotimmy/unraid-templates",
     "profile": "https://forums.unraid.net/profile/175441-eurotimmy/",
     "name": "Eurotimmy's Repository",
-      "duplicated": {
-          "rommapp/romm:latest": true
-      }
+    "duplicated": {
+      "rommapp/romm:latest": true
+    }
   },
   {
     "url": "https://github.com/MiranoVerhoef/Unraid-Mirano",
     "profile": "https://forums.unraid.net/profile/96734-mirano/",
-    "name": "Mirano's Repository"
+    "name": "Mirano's Repository",
+    "duplicated": {
+        "dockurr/windows": true
+    }
   },
   {
     "url": "https://github.com/bstottle/unraid-templates",
