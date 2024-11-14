@@ -1,4 +1,8 @@
 {
+  "ffdfgdfg/npc": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub"
+  },
   "registry.phospher.com/brianmiller/doorway:latest": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled"
