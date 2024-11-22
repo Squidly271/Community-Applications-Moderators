@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://github.com/tommyvange/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/282469-tommyvange/",
+        "name": "tommyvange's Repository"
+    },
+    {
         "url": "https://github.com/MROGHUB/unraid-templates",
         "profile": "https://forums.unraid.net/profile/282192-mackattack/",
         "name": "MackAttack's Repository"
