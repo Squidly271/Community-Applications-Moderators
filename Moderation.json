@@ -1,4 +1,8 @@
 {
+  "datpat/handbrakeamd:rocm6": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub"
+  },
   "docker.seadrive.org/seafileltd/seafile-pro-mc:11.0-latest": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerHub"
