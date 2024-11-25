@@ -1,4 +1,8 @@
 {
+  "docker.seadrive.org/seafileltd/seafile-pro-mc:11.0-latest": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub"
+  },
   "ffdfgdfg/npc": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerHub"
