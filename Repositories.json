@@ -372,12 +372,6 @@
     }
   },
   {
-    "name": "dmaxwell's Repository",
-    "url": "https://github.com/dmaxwell351/docker-containers/tree/templates",
-    "forum": "http://forums.unraid.net/index.php?topic=38548.0",
-    "profile": "https://forums.unraid.net/profile/32813-dmaxwell351/"
-  },
-  {
     "name": "pinion's Repository",
     "url": "https://github.com/noinip/container-templates",
     "forum": "http://forums.unraid.net/index.php?topic=38602.0",
