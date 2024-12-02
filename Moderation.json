@@ -632,10 +632,7 @@
   "https://github.com/SlrG/unRAID/raw/master/Plugins/ProFTPd.plg": {
     "UpdateMinVer": "6.7.0"
   },
-  "mace/ddclient": {
-    "ModeratorComment": "Can no longer be pulled from DockerHub",
-    "Blacklist": true
-  },
+
   "linuxserver/codiad": {
     "ModeratorComment": "Deprecated as per linuxserver.io",
     "Deprecated": true
@@ -677,8 +674,9 @@
     "Deprecated": true
   },
   "mace/ddclient": {
-    "ModeratorComment": "Generally the unRaid community recommends installing the version from linuxserver.io",
-    "Deprecated": true 
+    "ModeratorComment": "Unabled to be pulled from dockerHub due to using a manifest no longer supported",
+    "Deprecated": true,
+    "Blacklist": true
   },
   "dmaxwell/splunk": {
     "ModeratorComment": "Probably would be best to install the up to date version from Andrew207",
