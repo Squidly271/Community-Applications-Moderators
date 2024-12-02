@@ -1,4 +1,7 @@
 {
+  "jlesage/nginx-proxy-manager": {
+    "Video": "https://www.youtube.com/watch?v=nhacNUxVcy4"
+  },
   "datpat/handbrakeamd:rocm6": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerHub"
