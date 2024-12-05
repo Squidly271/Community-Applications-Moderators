@@ -563,15 +563,15 @@
     "CAComment": "In case of a severely misconfigured docker application, this plugin has the ability to delete an entire share.  It is YOUR responsibility to confirm what folders the plugin offers to delete.  The author takes no responsibility if you inadvertently delete an entire share due to your own mistakes"
   },
   "dreamcat4/pipework:1.1.5": {
-    "Blacklist": true,
+    "RemoveFromCA": true,
     "ModeratorComment": "Unable to be pulled from dockerHub due to unsupported image format"
   },
    "dreamcat4/pipework:1.1.3": {
-    "Deprecated": true,
+    "RemoveFromCA": true,
     "ModeratorComment": "While there still may be use for this application, the author has stated that under recent versions of docker, the use of this container is probably not required"
   },
   "dreamcat4/pipework": {
-    "Deprecated": true,
+    "RemoveFromCA": true,
     "ModeratorComment": "While there still may be use for this application, the author has stated that under recent versions of docker, the use of this container is probably not required"
   },
   "sparklyballs/shout-irc": {
