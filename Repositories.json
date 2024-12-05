@@ -2173,7 +2173,8 @@
     "profile": "https://forums.unraid.net/profile/135280-chrizzo/",
     "name": "chrizzo's Repository",
     "duplicated": {
-      "drone/drone": true
+        "drone/drone": true,
+        "docker.io/jc21/nginx-proxy-manager": true    
     }
   },
   {
