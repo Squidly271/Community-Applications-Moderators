@@ -745,7 +745,8 @@
     "Deprecated": true
   },
   "https://raw.githubusercontent.com/dmacias72/unRAID-DevPack/master/plugin/DevPack.plg": {
-    "MaxVer": "6.10.3"
+    "MaxVer": "6.10.3",
+    "RemoveFromCA": true
   },
   "mobiusnine/foldingathome": {
     "CAComment": "The webUI for this application does not work.  See <a href=https://forums.unraid.net/topic/36054-release-foldinghome-docker/page/5/?tab=comments#comment-828096 target=_blank>this post</a> for the fix",
