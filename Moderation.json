@@ -359,7 +359,7 @@
     "Deprecated": true
   },
   "ninthwalker/plexreport": {
-    "ModeratorComment": "This app has been deprecated in favour of 'Now Showing' from ninthwalker",
+    "ModeratorComment": "This app has been deprecated in favour of Now Showing from ninthwalker",
     "Deprecated": true
   },
   "gfjardim/logitechmediaserver": {
@@ -1394,11 +1394,11 @@
   },
   "ich777/unraid-kernel-helper": {
     "Blacklist": true,
-    "ModeratorComment": "See <a href=https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/page/44/?tab=comments#comment-1100110 target=_blank'>HERE</a> for why"
+    "ModeratorComment": "See <a href=https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/page/44/?tab=comments#comment-1100110 target=_blank>HERE</a> for why"
   },
   "https://raw.githubusercontent.com/ich777/unraid-kernel-helper-plugin/master/plugins/Unraid-Kernel-Helper.plg": {
     "Blacklist": true,
-    "ModeratorComment": "See <a href=https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/page/44/?tab=comments#comment-1100110 target=_blank'>HERE</a> for why"
+    "ModeratorComment": "See <a href=https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/page/44/?tab=comments#comment-1100110 target=_blank>HERE</a> for why"
   },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.plg": {
     "Beta": "true",
@@ -1495,7 +1495,7 @@
     "RemoveFromCA": true
   },
   "nextcloud/all-in-one:latest": {
-    "CAComment": "Very highly recommended to watch a setup video for this application, as it is not a turn-key solution and requires a lot of setup.  If you simply want to run Nextcloud, it would be far easier to run Nextcloud / Owncloud and not the 'all-in-one'"
+    "CAComment": "Very highly recommended to watch a setup video for this application, as it is not a turn-key solution and requires a lot of setup.  If you simply want to run Nextcloud, it would be far easier to run Nextcloud / Owncloud and not the all-in-one"
   },
   "sameersbn/redis": {
     "RemoveFromCA": true,
