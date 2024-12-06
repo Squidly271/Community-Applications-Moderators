@@ -462,7 +462,11 @@
     "name": "Squid's Repository",
     "url":  "https://github.com/Squidly271/plugin-repository",
     "profile": "https://forums.unraid.net/profile/10290-squid/",
-    "icon": "https://ipsassets.unraid.net/uploads/monthly_2020_11/1001880086_Tripping-the-Rift-Chode_400x400(1).png.2e62b6b2bd95b73615bc8b651b5615f8.png"
+    "icon": "https://ipsassets.unraid.net/uploads/monthly_2020_11/1001880086_Tripping-the-Rift-Chode_400x400(1).png.2e62b6b2bd95b73615bc8b651b5615f8.png",
+    "hideFromCA": {
+        "https://raw.githubusercontent.com/Squidly271/docker.categorize/master/plugins/docker.categorize.plg": true,
+        "https://raw.githubusercontent.com/unraid/docker.categorize/master/plugins/docker.categorize.plg": true
+    }
   },
   {
     "name": "Dynamix Repository",
