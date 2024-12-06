@@ -1,4 +1,7 @@
 {
+  "https://raw.githubusercontent.com/unraid/docker.categorize/master/plugins/docker.categorize.plg": {
+    "LTOfficial": true
+  },
   "deasmi/unraid-tailscale:latest": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated as per the maintainer.  It is recommended to switch to the TailScale plugin instead."
