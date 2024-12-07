@@ -2,7 +2,7 @@
   "https://raw.githubusercontent.com/unraid/docker.categorize/master/plugins/docker.categorize.plg": {
     "LTOfficial": true
   },
-  "jlesage/nginx-proxy-manager": {
+  "jc21/nginx-proxy-manager": {
     "Video": "https://www.youtube.com/watch?v=nhacNUxVcy4"
   },
   "datpat/handbrakeamd:rocm6": {
