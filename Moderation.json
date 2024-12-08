@@ -1,4 +1,8 @@
 {
+  "oreandawe/storjshare-cli": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub"
+  },
   "https://raw.githubusercontent.com/unraid/docker.categorize/master/plugins/docker.categorize.plg": {
     "LTOfficial": true
   },
