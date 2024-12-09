@@ -1,4 +1,7 @@
 {
+  "josercoelho/quartz": {
+    "RemoveFromCA": true
+  },
   "oreandawe/storjshare-cli": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerHub"
