@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://git.hhf.technology/hhf/unraid_app_templates",
+        "profile": "https://forums.unraid.net/profile/282959-hhftechnology/",
+        "name": "hhftechnology's Repository"
+    },
+    {
         "url": "https://github.com/masterjb/unraid-templates",
         "profile": "https://forums.unraid.net/profile/124596-human-126094/",
         "name": "Human-126094's Repository"
