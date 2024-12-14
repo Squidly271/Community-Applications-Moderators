@@ -145,7 +145,10 @@
     {
         "url": "https://github.com/zip-fa/unraid-torrserver",
         "profile": "https://forums.unraid.net/profile/280443-unraidnewbie2211/",
-        "name": "UnraidNewbie2211's Repository"
+        "name": "UnraidNewbie2211's Repository",
+        "duplicated": {
+            "ghcr.io/yourok/torrserver": true
+        }
     },
     {
         "url": "https://github.com/Unlearned6688/unraid-templates",
