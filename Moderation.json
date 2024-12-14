@@ -1,4 +1,7 @@
 {
+  "https://raw.githubusercontent.com/unraid/community.applications/master/plugins/community.applications.plg": {
+    "LTOfficial": true
+  },
   "josercoelho/quartz": {
     "RemoveFromCA": true
   },
