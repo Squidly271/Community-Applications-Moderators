@@ -2,7 +2,9 @@
     {
         "url": "https://github.com/hhftechnology/unraid_app_templates",
         "profile": "https://forums.unraid.net/profile/282959-hhftechnology/",
-        "name": "hhftechnology's Repository"
+        "name": "hhftechnology's Repository",
+        "duplicated": {
+            "donetick/donetick": true
     },
     {
         "url": "https://github.com/undead-reaper/unraid-templates",
