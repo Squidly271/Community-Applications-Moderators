@@ -1,4 +1,7 @@
 {
+  "spaceinvaderone/tailvault:latest": {
+    "MinVer": "6.12.999"
+  },
   "https://raw.githubusercontent.com/unraid/community.applications/master/plugins/community.applications.plg": {
     "LTOfficial": true
   },
