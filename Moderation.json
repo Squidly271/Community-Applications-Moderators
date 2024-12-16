@@ -1,4 +1,9 @@
 {
+  {
+  "avahi:latest": {
+    "Blacklist": true,
+    ""ModeratorComment": "Unable to be pulled from dockerHub"
+  },
   "spaceinvaderone/tailvault:latest": {
     "MinVer": "6.12.999"
   },
