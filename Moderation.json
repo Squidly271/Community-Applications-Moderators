@@ -1,5 +1,4 @@
 {
-  {
   "avahi:latest": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled from dockerHub"
