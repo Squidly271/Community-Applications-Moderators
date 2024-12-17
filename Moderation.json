@@ -1551,8 +1551,8 @@
     "ModeratorComment": "Repository no longer exists on docker hub"
   },
   "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdTools/main/plugin/NerdTools.plg": {
-    "CAComment": "Only advanced users should consider installing this.  This plugin is unmaintained, and will be deprecated on Unraid 7.0 as many (most?) of the packages will no longer function with the updated kernel.  If you wish to fork this plugin and maintain it then send a PM to Squid in the forum",
-    "DeprecatedMaxVer": "7.0.0"
+    "ModeratorComment": "Only advanced users should consider installing this.  This plugin is unmaintained, and will be deprecated on Unraid 7.0 as many (most?) of the packages will no longer function with the updated kernel.  If you wish to fork this plugin and maintain it then send a PM to Squid in the forum",
+    "MaxVer": "6.12.999"
   },
   "ntop/ntopng:stable": {
     "Blacklist": true,
