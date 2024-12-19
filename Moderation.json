@@ -1,4 +1,7 @@
 {
+  "https://raw.githubusercontent.com/unraid/fix.common.problems/master/plugins/fix.common.problems.plg": {
+    "LTOfficial": true
+  },
   "avahi:latest": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled from dockerHub"
