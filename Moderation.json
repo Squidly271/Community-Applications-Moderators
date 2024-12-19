@@ -1,4 +1,7 @@
 {
+  "https://raw.githubusercontent.com/unraid/unraid.patch/main/plugins/unraid.patch.plg": {
+    "hideFromCA": true
+  },
   "https://raw.githubusercontent.com/unraid/fix.common.problems/master/plugins/fix.common.problems.plg": {
     "LTOfficial": true
   },
