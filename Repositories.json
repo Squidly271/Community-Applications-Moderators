@@ -495,7 +495,7 @@
         "https://raw.githubusercontent.com/unraid/community.applications/master/plugins/community.applications.plg": true,
         "https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications.plg": true,
         "https://raw.githubusercontent.com/unraid/fix.common.problems/master/plugins/fix.common.problems.plg": true,
-        https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/plugins/fix.common.problems.plg": true
+        "https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/plugins/fix.common.problems.plg": true
     }
   },
   {
