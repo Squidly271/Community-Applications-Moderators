@@ -1,4 +1,8 @@
 {
+  "dlandon/logitechmediaserver": {
+    "ModeratorComment": "This Docker Container is deprecated and will no longer be maintained. It is recommended you switch to the "Lyrion Music Server" that can be found in Community Applications.",
+    "Deprecated": true
+  },
   "https://raw.githubusercontent.com/unraid/unraid.patch/main/plugins/unraid.patch.plg": {
     "LTOfficial": true
   },
