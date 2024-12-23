@@ -955,7 +955,8 @@
     "name": "TQ's Repository",
     "profile": "https://forums.unraid.net/profile/13228-tq/",
     "duplicated": {
-      "pufferpanel/pufferpanel": true
+        "pufferpanel/pufferpanel": true,
+        "itzg/minecraft-server:latest": true
     }
   },
   {
