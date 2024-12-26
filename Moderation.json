@@ -1577,8 +1577,8 @@
     "ModeratorComment": "Deprecated by the author.  Suggested to use another PiHole container"
   },
   "remie/youtransfer": {
-    "CAComment": "This project appears to have been abandoned",
-    "Deprecated": true
+    "ModeratorComment": "Unable to be pulled from dockerHub",
+    "Blacklist": true
   },
   "https://raw.githubusercontent.com/Squidly271/ca.backup2/master/plugins/ca.backup2.plg": {
     "Deprecated": true,
