@@ -1,4 +1,11 @@
 {
+  "qmcgaw/gluetun": {
+    "Date": "1/1/2025",
+    "Reason": {
+      "en_US": "Lightweight swiss-knife-like VPN client"
+    },
+    "Who": "SpaceInvader One"
+  },
   "jc21/nginx-proxy-manager": {
     "Date": "12/1/2024",
     "Reason": {
