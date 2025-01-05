@@ -591,7 +591,10 @@
   {
     "name":  "Paul_Ber's Repository",
     "url":  "https://github.com/paulpoco/docker-templates",
-    "profile": "https://forums.unraid.net/profile/69794-paul_ber/"
+    "profile": "https://forums.unraid.net/profile/69794-paul_ber/",
+    "deprecated": {
+        "wiserain/flexget:latest": true
+    }
   },
   {
     "name": "stuckless' Repository",
