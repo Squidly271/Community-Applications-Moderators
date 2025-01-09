@@ -1,5 +1,15 @@
 [
     {
+        "url": "https://github.com/fosrl/templates",
+        "profile": "https://forums.unraid.net/profile/96141-milo-schwartz/",
+        "name": "Milo Schwartz's Repository"
+    },
+    {
+        "url": "https://github.com/jarvis2f/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/284045-jarvis2f/",
+        "name": "jarvis2f's Repository"
+    },
+    {
         "url": "https://github.com/jjdenhertog/spotify-to-plex-unraid",
         "profile": "https://forums.unraid.net/profile/283509-jjdenhertog/",
         "name": "jjdenhertog's Repository"
