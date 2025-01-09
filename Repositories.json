@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://github.com/UnToobed/Unraid-Docker-Templates",
+        "profile": "https://forums.unraid.net/profile/160182-unusmundus/",
+        "name": "UnusMundus' Repository"
+    },
+    {
         "url": "https://github.com/fosrl/templates",
         "profile": "https://forums.unraid.net/profile/96141-milo-schwartz/",
         "name": "Milo Schwartz's Repository"
