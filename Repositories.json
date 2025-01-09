@@ -2196,7 +2196,10 @@
   {
     "url": "https://github.com/MountainGod2/unraid-templates",
     "profile": "https://forums.unraid.net/profile/167420-mrslaw/",
-    "name": "mrslaw's Repository"
+    "name": "mrslaw's Repository",
+    "duplicated": {
+        "corentinth/it-tools": true
+    }
   },
   {
     "url": "https://github.com/Aerilym/docker-templates",
