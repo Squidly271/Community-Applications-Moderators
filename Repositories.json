@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://github.com/JourneyDocker/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/284186-journeyover/",
+        "name": "JourneyOver's Repository"
+    },
+    {
         "url": "https://github.com/fejich/unRAID-plugins-templates",
         "profile": "https://forums.unraid.net/profile/122412-fejich/",
         "name": "fejich's Repository"
