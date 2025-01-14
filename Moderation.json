@@ -1,4 +1,8 @@
 {
+  "oleduc/docker-obsidian-livesync-couchdb:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Tag does not exist on dockerHub"
+  },
   "dlandon/logitechmediaserver": {
     "ModeratorComment": "This Docker Container is deprecated and will no longer be maintained. It is recommended you switch to the Lyrion Music Server that can be found in Community Applications.",
     "Deprecated": true
