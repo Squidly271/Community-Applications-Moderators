@@ -1,5 +1,20 @@
 [
     {
+        "url": "https://github.com/NSPManager/NSPanelManager",
+        "profile": "https://forums.unraid.net/profile/122183-sbeex/",
+        "name": "sbeex's Repository"
+    },
+    {
+        "url": "https://github.com/elInfidel/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/259164-el-infidel/",
+        "name": "El-Infidel's Repository"
+    },
+    {
+        "url": "https://github.com/xshatterx/Seraphys",
+        "profile": "https://forums.unraid.net/profile/275245-seraphys/",
+        "name": "Seraphys' Repository"
+    },
+    {
         "url": "https://github.com/JourneyDocker/unraid-templates",
         "profile": "https://forums.unraid.net/profile/284186-journeyover/",
         "name": "JourneyOver's Repository"
