@@ -2428,7 +2428,8 @@
     "name": "grtgbln's Repository",
     "duplicated": {
         "binwiederhier/ntfy:latest": true,
-        "networkstatic/iperf3:latest": true
+        "networkstatic/iperf3:latest": true,
+        "ghcr.io/eliasbenb/plexanibridge:latest": true
     }
   },
   {
