@@ -1762,7 +1762,10 @@
   {
     "url": "https://github.com/PlexRipper/PlexRipper-Unraid-CA-Templates",
     "profile": "https://forums.unraid.net/profile/102645-unmax/",
-    "name": "Unmax's Repository"
+    "name": "Unmax's Repository",
+    "duplicated": {
+        "plexripper/plexripper:dev": true
+    }
   },
   {
     "url": "https://github.com/IkerSaint/ZFS-Master-Unraid",
