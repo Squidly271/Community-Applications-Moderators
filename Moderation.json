@@ -1,4 +1,16 @@
 {
+  "lscr.io/linuxserver/booksonic-air": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "lscr.io/linuxserver/daapd": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "ghcr.io/terrateamio/terrateam-oss:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
   "oleduc/docker-obsidian-livesync-couchdb:latest": {
     "Blacklist": true,
     "ModeratorComment": "Tag does not exist on dockerHub"
