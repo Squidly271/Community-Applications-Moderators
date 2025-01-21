@@ -47,7 +47,10 @@
     {
         "url": "https://github.com/fosrl/templates",
         "profile": "https://forums.unraid.net/profile/96141-milo-schwartz/",
-        "name": "Fossorial's Repository"
+        "name": "Fossorial's Repository",
+        "duplicated": {
+            "traefik:latest": true
+        }
     },
     {
         "url": "https://github.com/jarvis2f/unraid-templates",
