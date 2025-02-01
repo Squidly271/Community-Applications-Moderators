@@ -8,7 +8,8 @@
     "ModeratorComment": "Unable to be pulled from dockerHub"
   },
   "https://raw.githubusercontent.com/IkerSaint/ZFS-Master-Unraid/main/zfs.master.plg": {
-    "Video": "https://www.youtube.com/watch?v=phCccX--HY4"
+    "Video": "https://www.youtube.com/watch?v=phCccX--HY4",
+    "Requires": ""
   },
   "lscr.io/linuxserver/booksonic-air": {
     "Blacklist": true,
