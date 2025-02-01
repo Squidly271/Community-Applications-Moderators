@@ -1,4 +1,11 @@
 {
+  ">https://raw.githubusercontent.com/IkerSaint/ZFS-Master-Unraid/main/zfs.master.plg": {
+    "Date": "2/1/2025",
+    "Who": "SpaceInvader One",
+    "Reason": {
+      "en_US": "Brings even more ZFS magic to the Unraid GUI"
+    }
+  },
   "qmcgaw/gluetun": {
     "Date": "1/1/2025",
     "Reason": {
