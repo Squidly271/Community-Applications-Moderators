@@ -1008,6 +1008,10 @@
     "profile": "https://forums.unraid.net/profile/72388-ich777/",
     "duplicated": {
       "photoprism/photoprism": true
+    },
+    "hideFromCA": {
+        "https://raw.githubusercontent.com/ich777/unraid-nvidia-driver/master/nvidia-driver.plg": true,
+        "https://raw.githubusercontent.com/unraid/unraid-nvidia-driver/master/nvidia-driver.plg": true
     }
   },
   {
