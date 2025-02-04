@@ -1011,7 +1011,11 @@
     },
     "hideFromCA": {
         "https://raw.githubusercontent.com/ich777/unraid-nvidia-driver/master/nvidia-driver.plg": true,
-        "https://raw.githubusercontent.com/unraid/unraid-nvidia-driver/master/nvidia-driver.plg": true
+        "https://raw.githubusercontent.com/unraid/unraid-nvidia-driver/master/nvidia-driver.plg": true,
+        "https://raw.githubusercontent.com/ich777/unraid-dvb-driver/master/dvb-driver.plg": true,
+        "https://raw.githubusercontent.com/unraid/unraid-dvb-driver/master/dvb-driver.plg": true,
+        "https://raw.githubusercontent.com/ich777/unraid-coral-driver/master/coral-driver.plg": true,
+        "https://raw.githubusercontent.com/unraid/unraid-coral-driver/master/coral-driver.plg": true
     }
   },
   {
