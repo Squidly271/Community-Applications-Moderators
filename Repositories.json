@@ -1,5 +1,30 @@
 [
     {
+        "url": "https://github.com/clairekardas/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/269754-anna/",
+        "name": "anna's Repository"
+    },
+    {
+        "url": "https://github.com/XeXSolutions/unraid-stats",
+        "profile": "https://forums.unraid.net/profile/165045-xexsolutions/",
+        "name": "XeXSolutions' Repository"
+    },
+    {
+        "url": "https://github.com/Piratkopia13/unraid-buddybackup",
+        "profile": "https://forums.unraid.net/profile/158066-pirat/",
+        "name": "Pirat's Repository"
+    },
+    {
+        "url": "https://github.com/swiss01/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/96834-swiss01/",
+        "name": "swiss01's Repository"
+    },
+    {
+        "url": "https://github.com/cmoro-deusto/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/284950-cmoro-gondor/",
+        "name": "cmoro-gondor's Repository"
+    },
+    {
         "url": "https://github.com/sam10155/unraid-templates",
         "profile": "https://forums.unraid.net/profile/116626-sam10155/",
         "name": "sam10155's Repository"
@@ -2763,7 +2788,7 @@
     "name": "Rysz's Repository"
   },
   {
-    "url": "https://github.com/Austin1/unraid-streammaster",
+    "url": "https://github.com/Austin1/unraid-ca-repo",
     "profile": "https://forums.unraid.net/profile/44174-austin/",
     "name": "austin's Repository"
   },
