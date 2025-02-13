@@ -1,4 +1,12 @@
 {
+  "https://raw.githubusercontent.com/Squidly271/plugin-repository/master/ca.mover.tuning.xml": {
+    "Blacklist": true,
+    "ModeratorComment": "Original unmaintained version.  Highly recommended to use version from masterwishx"
+  },
+  "https://raw.githubusercontent.com/R3yn4ld/unraid-plugins/master/ca.mover.tuning.xml": {
+    "Deprecated": true,
+    "ModeratorComment": "Recommanded to instead use the version from masterwishx"
+  },
   "malfurious/mailserver": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled from dockerHub"
