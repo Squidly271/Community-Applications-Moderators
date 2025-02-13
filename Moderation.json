@@ -1,4 +1,10 @@
 {
+  "11notes/kms:latest-unraid": {
+    "RemoveFromCA": true
+  },
+  "11notes/kms-gui:latest": {
+    "RemoveFromCA": true
+  },
   "https://raw.githubusercontent.com/Squidly271/plugin-repository/master/ca.mover.tuning.xml": {
     "Blacklist": true,
     "ModeratorComment": "Original unmaintained version.  Highly recommended to use version from masterwishx"
