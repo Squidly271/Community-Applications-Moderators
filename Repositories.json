@@ -813,6 +813,7 @@
     "hideFromCA": {
         "https://raw.githubusercontent.com/dlandon/unassigned.devices/master/unassigned.devices.plg": true,
         "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices.plg": true
+    }
   },
   {
     "url": "https://github.com/JustinAiken/unraid-docker-templates",
