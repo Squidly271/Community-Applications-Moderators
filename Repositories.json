@@ -809,7 +809,10 @@
   {
     "url": "https://github.com/dlandon/docker.templates",
     "name": "dlandon's Repository",
-    "profile": "https://forums.unraid.net/profile/6013-dlandon/"
+    "profile": "https://forums.unraid.net/profile/6013-dlandon/",
+    "hideFromCA": {
+        "https://raw.githubusercontent.com/dlandon/unassigned.devices/master/unassigned.devices.plg": true,
+        "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices.plg": true
   },
   {
     "url": "https://github.com/JustinAiken/unraid-docker-templates",
