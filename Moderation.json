@@ -1,4 +1,8 @@
 {
+  "itsluminous/todochat:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
   "11notes/kms:latest-unraid": {
     "RemoveFromCA": true
   },
