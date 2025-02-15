@@ -812,7 +812,11 @@
     "profile": "https://forums.unraid.net/profile/6013-dlandon/",
     "hideFromCA": {
         "https://raw.githubusercontent.com/dlandon/unassigned.devices/master/unassigned.devices.plg": true,
-        "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices.plg": true
+        "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices.plg": true,
+        "https://raw.githubusercontent.com/dlandon/unassigned.devices/master/unassigned.devices.preclear.plg": true,
+        "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices.preclear.plg": true,
+        "https://raw.githubusercontent.com/dlandon/unassigned.devices/master/unassigned.devices-plus.plg": true,
+        "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices-plus.plg": true
     }
   },
   {
