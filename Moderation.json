@@ -1,4 +1,7 @@
 {
+  "https://raw.githubusercontent.com/alturismo/unraid-simple-mover/master/simple-mover.plg": {
+    "CAComment": "Note that when you enable the operation of this plugin that the operation of Unraid's mover is disabled."
+  },
   "https://raw.githubusercontent.com/masterwishx/ca.mover.tuning/master/plugins/ca.mover.tuning.plg": {
     "CAComment": "This plugin modifies stock system files and may cause issues with your system"
   },
