@@ -1,4 +1,12 @@
 {
+  "https://raw.githubusercontent.com/R3yn4ld/ca.mover.tuning/master/plugins/ca.mover.tuning.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "Recommended to install the version from masterwishx"
+  },
+  "https://raw.githubusercontent.com/hugenbd/ca.mover.tuning/master/plugins/ca.mover.tuning.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "Recommended to install the version from masterwishx"
+  },    
   "itsluminous/todochat:latest": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled from dockerHub"
