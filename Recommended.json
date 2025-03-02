@@ -1,4 +1,11 @@
 {
+  "https://raw.githubusercontent.com/Squidly271/user.scripts/master/plugins/user.scripts.plg": {
+    "Date": "3/1/2025",
+    "Who": "SpaceInvader One",
+    "Reason": {
+      "en_US": "Allows you to run quick scripts to performance maintenance or automation tasks on your server"
+    }
+  },
   "https://raw.githubusercontent.com/IkerSaint/ZFS-Master-Unraid/main/zfs.master.plg": {
     "Date": "2/1/2025",
     "Who": "SpaceInvader One",
