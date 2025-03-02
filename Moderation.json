@@ -1,4 +1,7 @@
 {
+  "https://raw.githubusercontent.com/masterwishx/ca.mover.tuning/master/plugins/ca.mover.tuning.plg": {
+    "CAComment": "This plugin modifies stock system files and may cause issues with your system"
+  },
   "https://raw.githubusercontent.com/R3yn4ld/ca.mover.tuning/master/plugins/ca.mover.tuning.plg": {
     "Deprecated": true,
     "ModeratorComment": "Recommended to install the version from masterwishx"
