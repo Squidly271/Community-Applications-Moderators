@@ -1,4 +1,8 @@
 {
+  "deasmi/unraid-tailscale:latest": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated as per the maintainer.  It is recommended to switch to the TailScale plugin instead."
+  },
   "https://raw.githubusercontent.com/alturismo/unraid-simple-mover/master/simple-mover.plg": {
     "CAComment": "Note that when you enable the operation of this plugin that the operation of Unraid's mover is disabled."
   },
