@@ -876,7 +876,13 @@
         "https://raw.githubusercontent.com/dlandon/unassigned.devices/master/unassigned.devices.preclear.plg": true,
         "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices.preclear.plg": true,
         "https://raw.githubusercontent.com/dlandon/unassigned.devices/master/unassigned.devices-plus.plg": true,
-        "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices-plus.plg": true
+        "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices-plus.plg": true,
+        "https://raw.githubusercontent.com/dlandon/tips.and.tweaks/master/tips.and.tweaks.plg": true,
+        "https://raw.githubusercontent.com/unraid/tips.and.tweaks/master/tips.and.tweaks.plg": true,
+        "https://raw.githubusercontent.com/dlandon/cache_dirs/master/dlandon.cache.dirs.plg": true,
+        "https://raw.githubusercontent.com/unraid/cache_dirs/master/dlandon.cache.dirs.plg": true,
+        "https://raw.githubusercontent.com/dlandon/recycle.bin/master/recycle.bin.plg": true,
+        "https://raw.githubusercontent.com/unraid/recycle.bin/master/recycle.bin.plg": true
     }
   },
   {
