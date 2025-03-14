@@ -1,5 +1,15 @@
 [
     {
+        "url": "https://github.com/mash2k3/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/265722-mash2k3/",
+        "name": "mash2k3's Repository"
+    },
+    {
+        "url": "https://github.com/ctrlaltd1337ed/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/84709-ctrlaltd1337/",
+        "name": "ctrlaltd1337's Repository"
+    },
+    {
         "url": "https://github.com/vwdewaal/unraid-templates",
         "profile": "https://forums.unraid.net/profile/145081-vannie78/",
         "name": "vannie78's Repository"
