@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://github.com/timespacedecay/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/121604-lostinspace/",
+        "name": "lostinspace's Repository"
+    },
+    {
         "url": "https://github.com/mcreekmore/unraid-templates",
         "profile": "https://forums.unraid.net/profile/216090-mcreekmore/",
         "name": "mcreekmore's Repository"
