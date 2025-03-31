@@ -1,4 +1,7 @@
 {
+  "https://raw.githubusercontent.com/SimonFair/tasmotapm-unraid/main/tasmotapm.plg": {
+    "Icon": "https://raw.githubusercontent.com/Squidly271/misc-stuff/master.Untitled%20design%20(38).png"
+  },
   "deasmi/unraid-tailscale:latest": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated as per the maintainer.  It is recommended to switch to the TailScale plugin instead."
