@@ -1,4 +1,8 @@
 {
+  "https://raw.githubusercontent.com/SimonFair/tasmotapm-unraid/main/tasmotapm.plg": {
+    "Date": "4/1/2025",
+    "Who": "SpaceInvader One"
+  },
   "https://raw.githubusercontent.com/Squidly271/user.scripts/master/plugins/user.scripts.plg": {
     "Date": "3/1/2025",
     "Who": "SpaceInvader One",
