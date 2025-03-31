@@ -1,6 +1,7 @@
 {
   "https://raw.githubusercontent.com/SimonFair/tasmotapm-unraid/main/tasmotapm.plg": {
-    "Icon": "https://raw.githubusercontent.com/Squidly271/misc-stuff/master/Untitled%20design%20(38).png"
+    "Icon": "https://raw.githubusercontent.com/Squidly271/misc-stuff/master/Untitled%20design%20(38).png",
+    "Video": "https://www.youtube.com/watch?v=3md3CsfLKUQ"
   },
   "deasmi/unraid-tailscale:latest": {
     "Deprecated": true,
