@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://github.com/Eksistenze/unraidtemplates",
+        "profile": "https://forums.unraid.net/profile/153955-eksistenze/",
+        "name": "Eksistenze's Repository"
+    },
+    {
+        "url": "https://github.com/xshatterx/Seraphys",
+        "profile": "https://forums.unraid.net/profile/275245-seraphys/",
+        "name": "Seraphys' Repository"
+    }.
+    {
+        "url": "https://github.com/stefan-matic/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/269247-fallen94/",
+        "name": "Fallen94's Repository"
+    },
+    {
+        "url": "http://github.com/RiDDiX/uraid-templates",
+        "profile": "https://forums.unraid.net/profile/123957-riddix/",
+        "name": "RiDDiX's Repository"
+    },
+    {
+        "url": "https://github.com/NicolasHaas/unraid-xml-templates",
+        "profile": "https://forums.unraid.net/profile/110262-twixii/",
+        "name": "Twixii's Repository"
+    },
+    {
+        "url": "https://github.com/guniv/unraid-ca-apps",
+        "profile": https://forums.unraid.net/profile/178712-guniv/",
+        "name": "guniv's Repository"
+    },
+    {
+        "url": "https://github.com/RafaelCenzano/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/171730-cenzar/",
+        "name": "cenzar's Repository"
+    },
+    {
         "url": "https://github.com/timespacedecay/unraid-templates",
         "profile": "https://forums.unraid.net/profile/121604-lostinspace/",
         "name": "lostinspace's Repository"
