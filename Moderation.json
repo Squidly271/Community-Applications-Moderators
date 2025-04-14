@@ -1,4 +1,7 @@
 {
+  "https://raw.githubusercontent.com/VladoPortos/folder.view/main/folder.view.plg": {
+    "RemoveFromCA": true
+  },
   "https://raw.githubusercontent.com/scolcipitato/folder.view/main/folder.view.plg": {
     "RemoveFromCA": true
   },
