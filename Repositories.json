@@ -1,5 +1,60 @@
 [
     {
+        "url": "https://github.com/nebb00/unraid-template",
+        "profile": "https://forums.unraid.net/profile/261341-nebb00/",
+        "name": "nebb00's Repository"
+    },
+    {
+        "url": "https://github.com/plexguide/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/121384-admin9705/",
+        "name": "Admin9705's Repository"
+    },
+    {
+        "url": "https://github.com/theweebcoders/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/146571-tim000x3/",
+        "name": "tim000x3's Repository"
+    },
+    {
+        "url": "https://github.com/glls/Docker-Templates-Unraid",
+        "profile": "https://forums.unraid.net/profile/272335-glls/",
+        "name": "glls' Repository"
+    },
+    {
+        "url": "https://github.com/damongolding/immich-kiosk-unraid",
+        "profile": "https://forums.unraid.net/profile/285555-damongolding/",
+        "name": "DamonGolding's Repository"
+    },
+    {
+        "url": "https://github.com/eibex/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/268287-eibe/",
+        "name": "Eibe's Repository"
+    },
+    {
+        "url": "https://github.com/JZomDev/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/159615-zguilt/",
+        "name": "zguilt's Repository"
+    },
+    {
+        "url": "https://github.com/MasterPhooey/unraid_templates",
+        "profile": "https://forums.unraid.net/profile/263176-master-phooey/",
+        "name": "Master Phooey's Repository"
+    },
+    {
+        "url": "https://github.com/justjoseorg/Unraid-Intel_Ollama",
+        "profile": "https://forums.unraid.net/profile/261082-possessive-small6053/",
+        "name": "progressive-small6053's Repository"
+    },
+    {
+        "url": "https://github.com/SCUR0/Unraid_Docker_Locust",
+        "profile": "https://forums.unraid.net/profile/274107-scuro/",
+        "name": "Scuro's Repository"
+    },
+    {
+        "url": "https://github.com/robotfishe/robotfishe-unraid-apps",
+        "profile": "https://forums.unraid.net/profile/204504-robotfishe/",
+        "name": "robotfishe's Repository"
+    },
+    {
         "url": "https://github.com/Eksistenze/unraidtemplates",
         "profile": "https://forums.unraid.net/profile/153955-eksistenze/",
         "name": "Eksistenze's Repository"
