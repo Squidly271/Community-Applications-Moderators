@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://github.com/VladoPortos/vladoportos-unraid-xml",
+        "profile": "https://forums.unraid.net/profile/103082-vladoportos/",
+        "name": "VladoPortos' Repository"
+    },
+    {
         "url": "https://github.com/MorgothRB/Unraid-Templates",
         "profile": "https://forums.unraid.net/profile/280956-morgoth/",
         "name": "Morgoth's Repository"
