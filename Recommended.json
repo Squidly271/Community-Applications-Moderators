@@ -1,4 +1,11 @@
 {
+  "jellyfin/jellyfin:latest": {
+    "Date": "5/1/2025",
+    "Who": "SpaceInvaderOne",
+    "Reason": {
+      "en_US": "Incredible feature packed (and free) media server for all of your needs!"
+    }
+  },
   "https://raw.githubusercontent.com/SimonFair/tasmotapm-unraid/main/tasmotapm.plg": {
     "Date": "4/1/2025",
     "Who": "Spencer",
