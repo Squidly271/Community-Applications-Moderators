@@ -1,5 +1,20 @@
 [
     {
+        "url": "https://github.com/jamcalli/pulsarr-unraid-templates",
+        "profile": "https://forums.unraid.net/profile/286940-sp00ks/",
+        "name": "sp00ks' Repository"
+    },
+    {
+        "url": "https://github.com/itsnotashley/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/287054-itsnotashley/",
+        "name": "itsnotashley's Repository"
+    },
+    {
+        "url": "https://github.com/andrejwithj/Unraid-Templates",
+        "profile": "https://forums.unraid.net/profile/168139-fancyshmancy/",
+        "name": "fancyshmancy's Repository"
+    },
+    {
         "url": "https://github.com/VladoPortos/vladoportos-unraid-xml",
         "profile": "https://forums.unraid.net/profile/103082-vladoportos/",
         "name": "VladoPortos' Repository"
