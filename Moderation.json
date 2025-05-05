@@ -1,4 +1,59 @@
 {
+  "author/container:latest": {
+    "Blacklist": true
+  },
+  "quanghuy2307/valhalla-app:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "ghcr.io/itsluminous/todochat:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "mixwave/api:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "mixwave/artisan:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "mixwave/dashboard:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "mixwave/stitcher:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "ghcr.io/computer-geek64/emboxd:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "rohan/ascii-telnet-server:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "gravityfargo/bluesky-pds:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "chongzhijie/alltubedownload-yt-dlp:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "flaminel/cleanuperr:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "seafileltd/seafile": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
+  "ghcr.io/rickdb/plexanisync:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
   "gsariev/overr-syncerr:latest": {
     "RemoveFromCA": true
   },
