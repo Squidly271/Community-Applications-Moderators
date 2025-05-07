@@ -58,9 +58,6 @@
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled from dockerHub"
   },
-  "gsariev/overr-syncerr:latest": {
-    "RemoveFromCA": true
-  },
   "https://raw.githubusercontent.com/VladoPortos/folder.view/main/folder.view.plg": {
     "RemoveFromCA": true
   },
