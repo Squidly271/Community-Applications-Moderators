@@ -1,4 +1,8 @@
 {
+  "ghcr.io/wg-easy": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer able to be downloaded"
+  },
   "https://raw.githubusercontent.com/Skitals/unraid-theme-engine/master/plugins/theme.engine.plg": {
     "MaxVer": "7.0.9",
     "VerMessage": "This plugin appears to have been abandoned.  Due to changes in the Unraid WebUI in 7.1.0+, this plugin will no longer work properly on those versions.  A fork of this plugin is available in Community Applications which will fix these issues"
