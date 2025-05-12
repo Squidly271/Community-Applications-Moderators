@@ -1,4 +1,8 @@
 {
+  "nheinemans/storman": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from GitHub"
+  },
   "ghcr.io/wg-easy": {
     "Blacklist": true,
     "ModeratorComment": "No longer able to be downloaded"
