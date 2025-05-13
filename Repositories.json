@@ -1,5 +1,15 @@
 [
     {
+        "url": "https://github.com/TorBox-App/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/247536-wamy/",
+        "name": "Wamy's Repository"
+    },
+    {
+        "url": "https://github.com/dkeners/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/287661-dkeners/",
+        "name": "dkeners' Repository"
+    },
+    {
         "url": "https://github.com/jamcalli/pulsarr-unraid-templates",
         "profile": "https://forums.unraid.net/profile/286940-sp00ks/",
         "name": "sp00ks' Repository"
