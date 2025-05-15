@@ -1,4 +1,12 @@
 {
+  "https://raw.githubusercontent.com/dlandon/file.activity/master/file.activity.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "This plugin is no longer available.  It is highly advised to uninstall this and reinstall the replacement file.activity plugin available within Apps"
+  },
+  "https://raw.githubusercontent.com/dlandon/open.files/master/open.files.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "This plugin is no longer available.  It is highly advised to uninstall this and reinstall the replacement file.activity plugin available within Apps"
+  },
   "https://raw.githubusercontent.com/dlandon/libvirt.hotplug.usb/master/libvirt.hotplug.usb.plg": {
     "Deprecated": true,
     "HideFromCA": true,
