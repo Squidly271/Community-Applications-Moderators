@@ -1,4 +1,8 @@
 {
+  "animai/bitcoind": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
   "https://raw.githubusercontent.com/dlandon/file.activity/master/file.activity.plg": {
     "Deprecated": true,
     "ModeratorComment": "This plugin is no longer available.  It is highly advised to uninstall this and reinstall the replacement file.activity plugin available within Apps"
