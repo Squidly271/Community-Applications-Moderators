@@ -13,7 +13,7 @@
   },
   "https://raw.githubusercontent.com/dlandon/libvirt.hotplug.usb/master/libvirt.hotplug.usb.plg": {
     "Deprecated": true,
-    "HideFromCA": true,
+    "hideFromCA": true,
     "MaxVer": "7.1.9",
     "ModeratorComment": "The plugin is no longer available within Apps, and it is recommended to switch over to utilizing USB Managaer from SimonF to accomplish USB hotplug functions within a VM"
   },
@@ -239,10 +239,10 @@
     "LTOfficial": true
   },
   "https://raw.githubusercontent.com/dkaser/unraid-tailscale/main/plugin/tailscale.plg": {
-    "HideFromCA": true
+    "hideFromCA": true
   },
   "https://raw.githubusercontent.com/dkaser/unraid-tailscale/preview/plugin/tailscale-preview.plg": {
-    "HideFromCA": true
+    "hideFromCA": true
   },
   "passivelemon/zoraxy-docker:latest": {
     "Blacklist": true,
