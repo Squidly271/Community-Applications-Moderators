@@ -1,4 +1,11 @@
 {
+  "lscr.io/linuxserver/duplicati": {
+    "Date": "6/1/2025",
+    "Who": "SpaceInvaderOne",
+    "Reason": {
+      "en_US": "Securely back up everything with Duplicati. Stay tuned for a full video walkthrough deep dive!"
+    }
+  },
   "jellyfin/jellyfin:latest": {
     "Date": "5/1/2025",
     "Who": "SpaceInvaderOne",
