@@ -1,4 +1,8 @@
 {
+  "golift/notifiarr": {
+    "RemoveFromCA": true
+    "CAComments": "Security issue -> extra command being parsed in extra parameters"
+  },
   "animai/bitcoind": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled from dockerHub"
