@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://github.com/Michuelnik/docker-mediathekview-web",
+        "profile": "https://forums.unraid.net/profile/153213-revan335/",
+        "name": "Reven335's Repository"
+    },
+    {
+        "url": "https://github.com/Bovive/unraid-docker-templates",
+        "profile":"https://forums.unraid.net/profile/259292-bovive/",
+        "name": "Bovive's Repository"
+    },
+    {
+        "url": "https://github.com/AnimaI/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/126104-d0ooo/",
+        "name": "D0ooo's Repository"
+    },
+    {
+        "url": "https://github.com/mackid1993/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/74622-mackid1993/",
+        "name": "Mackid1993's Repository"
+    },
+    {
+        "url": "https://github.com/celsian/unraid_templates",
+        "profile": "https://forums.unraid.net/profile/120837-celsian/",
+        "name": "Celsian's Repository"
+    },
+    {
+        "url": "https://github.com/EddCase/unRAID_Templates",
+        "profile": "https://forums.unraid.net/profile/10833-eddcase/",
+        "name": "EddCase's Repository"
+    },
+    {
+        "url": "https://github.com/googleg/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/282598-googleg/",
+        "name": "googleg's Repository"
+    },
+    {
         "url": "https://github.com/AnimaI/unraid-templates",
         "profile": "https://forums.unraid.net/profile/126104-d0ooo/",
         "name": "d0ooo's Repository"
