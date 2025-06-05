@@ -1,4 +1,8 @@
 {
+  "webhooksite/webhook.site:latest": {
+    "RemoveFromCA": true,
+    "CAComments": "Syntax error in post args result in command errors"
+  },
   "golift/notifiarr": {
     "RemoveFromCA": true,
     "CAComments": "Security issue -> extra command being parsed in extra parameters"
