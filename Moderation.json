@@ -1,6 +1,6 @@
 {
   "golift/notifiarr": {
-    "RemoveFromCA": true
+    "RemoveFromCA": true,
     "CAComments": "Security issue -> extra command being parsed in extra parameters"
   },
   "animai/bitcoind": {
