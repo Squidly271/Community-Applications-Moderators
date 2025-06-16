@@ -1,7 +1,7 @@
 {
   "filebrowser/filebrowser": {
-    "Blacklist": true,
-    "ModeratorComment": "A major security issue with this container has been identified which will potentially allow full access to your server from the internet regardless of the settings / configuration of the template.  Highly advised to uninstall the container.  See <a href='https://github.com/filebrowser/filebrowser/issues/3864' target='_blank'>here</a>"
+    "RemoveFromCA": true
+    "HideModeratorComment": "A major security issue with this container has been identified which will potentially allow full access to your server from the internet regardless of the settings / configuration of the template.  Highly advised to uninstall the container.  See <a href='https://github.com/filebrowser/filebrowser/issues/3864' target='_blank'>here</a>"
   },
   "lscr.io/linuxserver/duplicati": {
     "Video": "https://www.youtube.com/watch?v=ihpbZFPwWXw"
