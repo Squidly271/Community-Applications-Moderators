@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/silkyclouds/PMDA_unraid_xml",
+        "profile": "https://forums.unraid.net/profile/170800-meaning/",
+        "name": "PMDA's Repository",
+        "communication": "discord"
+    },
+    {
         "url": "https://github.com/mediux-team/unraid-templates",
         "profile": "https://forums.unraid.net/profile/125333-mmoosem/",
         "name": "Mediux-Team's Repository",
