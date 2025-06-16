@@ -41,6 +41,7 @@
     "ModeratorComment": "No longer able to be downloaded"
   },
   "https://raw.githubusercontent.com/Skitals/unraid-theme-engine/master/plugins/theme.engine.plg": {
+    "hideFromCA": true,
     "MaxVer": "7.0.9",
     "ModeratorComment": "A replacement fork of this plugin which is compatible is now available within Apps.  Uninstall this version and install the replacement",
     "VerMessage": "This plugin appears to have been abandoned.  Due to changes in the Unraid WebUI in 7.1.0+, this plugin will no longer work properly on those versions.  A fork of this plugin is available in Community Applications which will fix these issues"
