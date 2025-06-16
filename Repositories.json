@@ -1,5 +1,17 @@
 [
     {
+        "url": "https://github.com/mediux-team/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/125333-mmoosem/",
+        "name": "Mediux-Team's Repository",
+        "communication": "forum"
+    },
+    {
+        "url": "https://github.com/misterjtc/docker-templates",
+        "profile": "https://forums.unraid.net/profile/68425-misterjtc/",
+        "name": "Misterjtc's Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/alexycodes/unraid-docker-templates",
         "profile": "https://forums.unraid.net/profile/288438-alexycodes/",
         "name": "Alexy's Repository",
