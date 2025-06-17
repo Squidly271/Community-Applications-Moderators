@@ -2786,7 +2786,8 @@
         "networkstatic/iperf3:latest": true,
         "ghcr.io/eliasbenb/plexanibridge:latest": true,
         "ghcr.io/maybe-finance/maybe:stable": true,
-        "ghcr.io/mediux-team/aura:latest": true
+        "ghcr.io/mediux-team/aura:latest": true,
+        "cirx08/wedding_share:latest": true
     }
   },
   {
