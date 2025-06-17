@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/yannisalexiou/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/283014-yannisalexiou/",
+        "name": "Docked by Yannis' Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/silkyclouds/PMDA_unraid_xml",
         "profile": "https://forums.unraid.net/profile/170800-meaning/",
         "name": "PMDA's Repository",
