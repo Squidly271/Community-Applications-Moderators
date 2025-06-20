@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/Kurotaku-sama/Unraid-Plugins-Repository",
+        "profile": "https://forums.unraid.net/profile/277881-kurotaku/",
+        "name": "Kurotaku's Repository",
+        "communication": "discord"
+    },
+    {
         "url": "https://github.com/Cirx08/Unraid",
         "profile": "https://forums.unraid.net/profile/288718-cirx08/",
         "name": "Cirx08's Repository",
