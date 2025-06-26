@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/NickBorgers/unraid-apps",
+        "profile": "https://forums.unraid.net/profile/69750-nickborgers/",
+        "name": "Nick Borgers' Repository",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/Kurotaku-sama/Unraid-Plugins-Repository",
         "profile": "https://forums.unraid.net/profile/277881-kurotaku/",
         "name": "Kurotaku's Repository",
