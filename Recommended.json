@@ -1,4 +1,11 @@
 {
+  "https://raw.githubusercontent.com/Kurotaku-sama/unraid.user.scripts.enhanced/main/user.scripts.enhanced.plg": {
+    "Date": "7/1/2025",
+    "Who": "SpaceInvaderOne and Squid",
+    "Reason": {
+      "en_US": "Takes the user scripts plugin to the next level for ease of use and even more control and power!"
+    }
+  },
   "lscr.io/linuxserver/duplicati": {
     "Date": "6/1/2025",
     "Who": "SpaceInvaderOne",
@@ -18,13 +25,6 @@
     "Who": "Spencer",
     "Reason": {
       "en_US": "Make every watt count on your Unraid server"
-    }
-  },
-  "https://raw.githubusercontent.com/Squidly271/user.scripts/master/plugins/user.scripts.plg": {
-    "Date": "3/1/2025",
-    "Who": "SpaceInvader One",
-    "Reason": {
-      "en_US": "Allows you to run quick scripts to performance maintenance or automation tasks on your server"
     }
   },
   "https://raw.githubusercontent.com/IkerSaint/ZFS-Master-Unraid/main/zfs.master.plg": {
