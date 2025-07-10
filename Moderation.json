@@ -1,4 +1,7 @@
 {
+  "xhofe/alist:latest"" {
+    "CAComment": "Multiple reports that this application may be leaking private information to their servers.  Suggested to utilizr OList instead"
+  },
   "https://raw.githubusercontent.com/Kurotaku-sama/unraid.user.scripts.enhanced/main/user.scripts.enhanced.plg": {
     "Video": "https://www.youtube.com/watch?v=nLq4odOlxcc"
   },
