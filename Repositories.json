@@ -1882,15 +1882,6 @@
     "profile": "https://forums.unraid.net/profile/120824-jmztaylor/"
   },
   {
-    "url": "https://github.com/hussainalhaddad/docker-templates",
-    "name": "hussainalhaddad's Repository",
-    "profile": "https://forums.unraid.net/profile/120871-hussainalhaddad/",
-    "duplicated": {
-      "afian/filerun": true,
-        "nocodb/nocodb:latest": true
-    }
-  },
-  {
     "url": "https://github.com/tenasi/unraid-templates",
     "profile": "https://forums.unraid.net/profile/121030-johnnyp/",
     "name": "JohnnyP's Repository"
