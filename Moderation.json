@@ -19,12 +19,6 @@
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled from dockerHub"
   },
-  "https://raw.githubusercontent.com/dlandon/file.activity/master/file.activity.plg": {
-    "ModeratorComment": "This plugin is unknown to Community Applications.  It is highly advised to uninstall this and reinstall the replacement file.activity plugin available within Apps"
-  },
-  "https://raw.githubusercontent.com/dlandon/open.files/master/open.files.plg": {
-    "ModeratorComment": "This plugin is unknown to Community Applications.  It is highly advised to uninstall this and reinstall the replacement open files plugin available within Apps"
-  },
   "https://raw.githubusercontent.com/dlandon/libvirt.hotplug.usb/master/libvirt.hotplug.usb.plg": {
     "MaxVer": "7.1.9"
   },
