@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/jcofer555/unraid-plugins",
+        "profile": "https://forums.unraid.net/profile/135547-jcofer555/",
+        "name": "jcofer555's Repository",
+        "communication": "discord"
+    },
+    {
         "url": "https://github.com/ck9393/fanctrlplus",
         "profile": "https://forums.unraid.net/profile/242702-ckchong/",
         "name": "ck9393's Repository",
