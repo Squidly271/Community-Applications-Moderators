@@ -1,4 +1,11 @@
+
 [
+    {
+        "url": "https://github.com/acidrs03/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/125556-acidrs/",
+        "name": "Acidrs' Repository",
+        "communication": "forum"
+    },
     {
         "url": "https://github.com/ajb3932/unraid-ca-templates",
         "profile": "https://forums.unraid.net/profile/276974-ajb3932/",
