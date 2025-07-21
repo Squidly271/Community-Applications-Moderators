@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/strike84/DiskSpaceManagement-template",
+        "profile": "https://forums.unraid.net/profile/63311-strike/",
+        "name": "strike's Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/jcofer555/unraid-plugins",
         "profile": "https://forums.unraid.net/profile/135547-jcofer555/",
         "name": "jcofer555's Repository",
