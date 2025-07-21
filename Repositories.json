@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/RobertCajun/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/285092-robertcajun/",
+        "name": "RobertCajun's Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/alyssaholland99/unraid-immich-tiktok-remover",
         "profile": "https://forums.unraid.net/profile/289132-alyssaholland/",
         "name": "AlyssaHolland's Repository",
