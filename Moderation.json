@@ -1619,7 +1619,7 @@
   "https://github.com/dlandon/unassigned.devices/raw/master/unassigned.devices.preclear.plg": {
     "ExtraPriority": true
   },
-  "https://unraid-dl.sfo2.cdn.digitaloceanspaces.com/unraid-api/dynamix.unraid.net.plg": {
+  "https://stable.dl.unraid.net/unraid-api/dynamix.unraid.net.plg": {
     "ExtraPriority": true
   },
   "benbusby/whoogle-search": {
