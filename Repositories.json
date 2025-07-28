@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/jjermany/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/288757-jermcee/",
+        "name": "jermcee's Repository",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/tophat17/jelly-request",
         "profile": "https://forums.unraid.net/profile/172432-tophat17/",
         "name": "TopHat17's Repository",
