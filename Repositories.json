@@ -859,7 +859,7 @@
   },
   {
     "name": "pducharme's Repository",
-    "url": "https://github.com/pducharme/docker-containers/tree/templates",
+    "url": "https://github.com/pducharme/docker-containers",
     "forum": "http://forums.unraid.net/index.php?topic=37058",
     "profile": "https://forums.unraid.net/profile/62479-pducharme/"
   },
@@ -3041,7 +3041,7 @@
     "name": "Findthelorax's Repository"
   },
   {
-    "url": "https://github.com/j1philli/unraid-templates/tree/main",
+    "url": "https://github.com/j1philli/unraid-templates",
     "profile": "https://forums.unraid.net/profile/84279-j1philli/",
     "name": "j1philli's Repository"
   },
@@ -3111,7 +3111,7 @@
     "name": "htunlogic's Repository"
   },
   {
-    "url": "https://github.com/edgar971/open-chat/tree/main/unraid-template",
+    "url": "https://github.com/edgar971/open-chat",
     "profile": "https://forums.unraid.net/profile/238357-el_pino/",
     "name": "el_pino's Repository"
   },
@@ -3176,7 +3176,7 @@
     "name": "Eideard's Repository"
   },
   {
-    "url": "https://github.com/asparon/unraid-templates/tree/main",
+    "url": "https://github.com/asparon/unraid-templates",
     "profile": "https://forums.unraid.net/profile/96069-asparon/",
     "name": "Asparon's Repository"
   },
