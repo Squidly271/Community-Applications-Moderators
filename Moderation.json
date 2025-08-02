@@ -1,4 +1,7 @@
 {
+  "spaceinvaderone/jellemplex-dedupe:latest": {
+    "Video": "https://www.youtube.com/watch?v=yG8UGG2Nx5A"
+  },
   "hhttps://raw.githubusercontent.com/dkaser/unraid-storcli/main/plugin/storcli.plg": {
     "RemoveFromCA": true
   },
