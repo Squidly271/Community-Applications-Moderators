@@ -1,9 +1,9 @@
 {
-  "spaceinvaderone/jellemplex-dedupe:latest": {
+  "spaceinvaderone/vm_custom_icons": {
     "Date": "8/1/2025",
     "Who": "Andrew",
     "Reason": {
-      "en_US": "Because we all wind up with duplicate media that just wastes space and is very hard to find"
+      "en_US": "A library of icons for your VMs in addition to the ones supplied with Unraid"
     }
   },
   "https://raw.githubusercontent.com/Kurotaku-sama/unraid.user.scripts.enhanced/main/user.scripts.enhanced.plg": {
