@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/OctoEverywhere/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/289064-quinninator/",
+        "name": "Quinninator's Repository",
+        "communication:": "discord"
+    },
+    {
         "url": "https://github.com/ObviousViking/unraid-templates",
         "profile": "https://forums.unraid.net/profile/114882-obviousviking/",
         "name": "ObviousViking's Repository",
