@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/tajniak81/unraid-docker-templates",
+        "profile": "https://forums.unraid.net/profile/98215-tajniak81/",
+        "name": "Tajniak81's Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/catapultcase/Unraid_CommunityApplications",
         "profile": "https://forums.unraid.net/profile/83669-rusty6285/",
         "name": "Rusty6285's Repository",
