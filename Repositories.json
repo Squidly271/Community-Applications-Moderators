@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/jo-sobo/scriptlogs-unraid-plugin",
+        "profile": "https://forums.unraid.net/profile/120452-magnum308/",
+        "name": "Magnum.308's Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/warwickschroeder/unraid-docker-templates",
         "profile": "https://forums.unraid.net/profile/103842-syknight/",
         "name": "Syknight's Repository",
