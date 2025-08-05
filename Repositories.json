@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/ObviousViking/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/114882-obviousviking/",
+        "name": "ObviousViking's Repository",
+        "communication": "discord"
+    },
+    {
         "url": "https://github.com/jo-sobo/scriptlogs-unraid-plugin",
         "profile": "https://forums.unraid.net/profile/120452-magnum308/",
         "name": "Magnum.308's Repository",
