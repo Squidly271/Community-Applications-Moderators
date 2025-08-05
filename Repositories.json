@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/catapultcase/Unraid_CommunityApplications",
+        "profile": "https://forums.unraid.net/profile/83669-rusty6285/",
+        "name": "Rusty6285's Repository",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/Cleanuparr/unraid/tree/main/templates",
         "profile": "https://forums.unraid.net/profile/282380-flamin/",
         "name": "Flamin's Repository",
