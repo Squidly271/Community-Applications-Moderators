@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/secretlycarl/onboarderr-unraid",
+        "profile": "https://forums.unraid.net/profile/289747-secretlycarl/",
+        "name": "SecretlyCarl's Repository",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/tajniak81/unraid-docker-templates",
         "profile": "https://forums.unraid.net/profile/98215-tajniak81/",
         "name": "Tajniak81's Repository",
