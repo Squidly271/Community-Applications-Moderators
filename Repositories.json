@@ -991,7 +991,10 @@
   {
     "name":  "Official Unraid Repository",
     "url":  "https://github.com/unraid/docker-templates",
-    "shortName": "Unraid"
+    "shortName": "Unraid",
+    "hideFromCA": {
+        "tailscale/tailscale:stable": true
+    }
   },
   {
     "name":  "linuxserver's Repository",
