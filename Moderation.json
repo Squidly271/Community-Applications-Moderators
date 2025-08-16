@@ -1,4 +1,7 @@
 {
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.date.time.plg": {
+    "MaxVer": "7.1.9"
+  },
   "spaceinvaderone/jellemplex-dedupe:latest": {
     "Video": "https://www.youtube.com/watch?v=yG8UGG2Nx5A"
   },
