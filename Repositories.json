@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/Zuerrex/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/234570-zuerrex/",
+        "name": "Zuerrex'a Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/secretlycarl/onboarderr-unraid",
         "profile": "https://forums.unraid.net/profile/289747-secretlycarl/",
         "name": "SecretlyCarl's Repository",
