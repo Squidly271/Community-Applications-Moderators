@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/T-Eberle/unraid-community-apps",
+        "profile": "https://forums.unraid.net/profile/289970-tommy_e/",
+        "name": "Tommy_E's Repository",
+        "communication": "discord"
+    },
+    {
         "url": "https://github.com/cameron581/unraid-templates",
         "profile": "https://forums.unraid.net/profile/253440-cameron581/",
         "name": "Cameron581's Repository",
