@@ -6,6 +6,12 @@
         "communication": "email"
     },
     {
+        "url": "https://github.com/Twingate-Community/unraid-template",
+        "profile": "https://forums.unraid.net/profile/289418-twingate-andrewb/",
+        "name": "Twingate Community's Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/rohit-purandare/ShelfBridge-unraid-templates",
         "profile": "https://forums.unraid.net/profile/283015-rpurandare/",
         "name": "rpurandare's Repository",
