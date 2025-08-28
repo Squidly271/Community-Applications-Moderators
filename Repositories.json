@@ -2683,7 +2683,8 @@
   {
     "url": "https://github.com/fiR3W4LL87/unraid-templates",
     "profile": "https://forums.unraid.net/profile/113873-fir3w4ll/",
-    "name": "fiR3W4LL's Repository"
+    "name": "fiR3W4LL's Repository",
+    "Deprecated": true
   },
   {
     "url": "https://github.com/CollinHeist/UnraidConfig",
