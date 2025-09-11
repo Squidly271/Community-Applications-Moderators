@@ -1,4 +1,8 @@
 {
+  "electricbrainuk/unraidapi": {
+    "Deprecated": true,
+    "ModeratorComment": "Unmaintained, and reports that it no longer is functional"
+  },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.date.time.plg": {
     "MaxVer": "7.1.9"
   },
