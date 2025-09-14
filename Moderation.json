@@ -1,4 +1,7 @@
 {
+  "olprog/unraid-docker-webui": {
+    "CAComment": "While still functional, there will no longer be any updates issued for this application"
+  },
   "electricbrainuk/unraidapi": {
     "Deprecated": true,
     "ModeratorComment": "Unmaintained, and reports that it no longer is functional"
