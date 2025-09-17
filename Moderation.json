@@ -1,6 +1,6 @@
 {
   "https://raw.githubusercontent.com/docgyver/unraid-v6-plugins/master/ssh.plg": {
-    "MaxVer": 6.12.15"
+    "MaxVer": "6.12.15"
   },
   "https://raw.github.com/docgyver/unraid-v6-plugins/master/denyhosts.plg": {
     "hideFromCA": true
