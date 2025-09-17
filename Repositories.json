@@ -1,4 +1,10 @@
-[
+[   
+    {
+        "url": "https://github.com/jjermany/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/288757-jermcee/",
+        "name": "jermcee's Repository",
+        "communication": "email"
+    },
     {
         "url": "https://github.com/mlapaglia/Unraid-Templates",
         "profile": "https://forums.unraid.net/profile/100043-mlapaglia/",
