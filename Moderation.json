@@ -1,6 +1,6 @@
 {
   "https://raw.github.com/docgyver/unraid-v6-plugins/master/denyhosts.plg": {
-    "PluginURL": "https://raw.githubusercontent.com/docgyver/unraid-v6-plugins/master/denyhosts.plg"
+    "hideFromCA": true
   },
   "olprog/unraid-docker-webui": {
     "CAComment": "While still functional, there will no longer be any updates issued for this application"
