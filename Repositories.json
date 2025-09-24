@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/Skylinar/unraid_templates",
+        "profile": "https://forums.unraid.net/profile/109199-skylinar/",
+        "name": "Skylinar's Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/undead-reaper/unraid-templates",
         "profile": "https://forums.unraid.net/profile/283186-dharam-soni/",
         "name": "Dharam Soni's Repository",
