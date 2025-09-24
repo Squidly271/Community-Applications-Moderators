@@ -1,4 +1,10 @@
-[   
+[
+    {
+        "url": "https://github.com/RoBro92/fanbridge-unraid-templates",
+        "profile": "https://forums.unraid.net/profile/290531-robro92/",
+        "name": "RoBro92's Repository",
+        "communication": "forum"
+    },
     {
         "url": "https://github.com/jjermany/unraid-templates",
         "profile": "https://forums.unraid.net/profile/288757-jermcee/",
