@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/framedr0p/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/290788-framedr0p/",
+        "name": "framdr0p's Repository",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/Skylinar/unraid_templates",
         "profile": "https://forums.unraid.net/profile/109199-skylinar/",
         "name": "Skylinar's Repository",
