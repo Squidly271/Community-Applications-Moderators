@@ -1,4 +1,11 @@
 {
+  "https://raw.githubusercontent.com/SimonFair/gpustat-unraid/master/gpustat.plg": {
+    "Date": "9/1/2025",
+    "Who": "Space Invader One",
+    "Reason": {
+      "en_US": "Must have for keep track of the usage and power draw of your GPU"
+    }
+  },
   "spaceinvaderone/vm_custom_icons": {
     "Date": "8/1/2025",
     "Who": "Andrew",
