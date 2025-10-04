@@ -1,7 +1,14 @@
 {
+  "vaultwarden/server": {
+    "Date": "10/1/2025",
+    "Who": "SpaceInvader One",
+    "Reason": {
+      "en_US": "designed for users who want to run their own private, secure password vault rather than rely on a third-party service"
+    }
+  },
   "https://raw.githubusercontent.com/SimonFair/gpustat-unraid/master/gpustat.plg": {
     "Date": "9/1/2025",
-    "Who": "Space Invader One",
+    "Who": "SpaceInvader One",
     "Reason": {
       "en_US": "Must have for keep track of the usage and power draw of your GPU"
     }
