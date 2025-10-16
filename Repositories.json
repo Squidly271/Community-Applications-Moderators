@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/bigsing/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/7676-bigsing/",
+        "name": "bigsing's Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/xxBeanSproutxx/unraid-docling-ca",
         "profile": "https://forums.unraid.net/profile/288925-bean_sprout/",
         "name": "xxBeanSproutxx's Repository",
