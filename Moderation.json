@@ -1,4 +1,7 @@
 {
+  "vaultwarden/server": {
+    "Video": "https://www.youtube.com/watch?v=2Go3gmgWxQI"
+  },
   "https://raw.githubusercontent.com/docgyver/unraid-v6-plugins/master/ssh.plg": {
     "MaxVer": "6.12.15"
   },
