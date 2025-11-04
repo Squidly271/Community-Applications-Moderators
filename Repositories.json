@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/cajuncoding/Unraid-Templates",
+        "profile": "https://forums.unraid.net/profile/134398-cajuncoding/",
+        "name": "CajunCoding's Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/buxxdev/unraid-templates",
         "profile": "https://forums.unraid.net/profile/291279-mbxy/",
         "name": "buxxdev's Repository",
