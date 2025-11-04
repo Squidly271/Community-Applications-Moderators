@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/buxxdev/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/291279-mbxy/",
+        "name": "buxxdev's Repository",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/netpersona/popcorn-unraid",
         "profile": "https://forums.unraid.net/profile/234637-smackmybones/",
         "name": "Netpersona's Repository",
