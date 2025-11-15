@@ -1243,7 +1243,32 @@
     "name": "Dynamix Repository",
     "url":  "https://github.com/bergware/dynamix-plugins",
     "forum":  "http://lime-technology.com/forum/index.php?topic=36543.0",
-    "profile": "https://forums.unraid.net/profile/2736-bonienl/"
+    "profile": "https://forums.unraid.net/profile/2736-bonienl/",
+    "hideFromCA": {
+        "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.encryption.key.plg": true,
+        "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.factory.reset.plg": true,
+        "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.safe.mode.plg": true,
+        "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.share.floor.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.active.streams.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.cache.dirs.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.date.time.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.day.night.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.file.integrity.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.file.manager.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.local.master.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.password.validator.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.s3.sleep.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.schedules.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.scsi.devices.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.ssd.trim.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.stop.shell.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.system.autofan.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.system.buttons.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.system.info.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.system.stats.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.system.temp.plg": true,
+        "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg": true
+    }
   },
   {
     "name": "coppit's Repository",
