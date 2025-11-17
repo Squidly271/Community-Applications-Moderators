@@ -3688,14 +3688,6 @@
     }
   },
   {
-    "url": "https://github.com/TeddyTux/unraidtemplates",
-    "profile": "https://forums.unraid.net/profile/107932-teddytux/",
-    "name": "TeddyTux's Repository",
-    "hideFromCA": {
-        "phasecorex/red-discordbot": true
-    }
-  },
-  {
     "url": "https://github.com/0neTX/UnRAID_Template",
     "profile": "https://forums.unraid.net/profile/161660-onetx/",
     "name": "onetx's Repository"
