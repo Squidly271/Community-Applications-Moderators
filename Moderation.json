@@ -18,7 +18,7 @@
     "Deprecated": true,
     "ModeratorComment": "Unmaintained, and reports that it no longer is functional"
   },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.date.time.plg": {
+  "https://raw.github.com/unraid/dynamix/master/unRAIDv6/dynamix.date.time.plg": {
     "MaxVer": "7.1.9"
   },
   "spaceinvaderone/jellemplex-dedupe:latest": {
@@ -358,7 +358,7 @@
     "RemoveFromCA": true,
     "ModeratorComment": "Implied :latest (default tag) does not exist.  Removed from CA"
   },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.cache.dirs.plg": {
+  "https://raw.github.com/unraid/dynamix/master/unRAIDv6/dynamix.cache.dirs.plg": {
     "MaxVer": "6.11.999",
     "VerMessage": "When running Unraid 6.12.x+, it is highly recommended to uninstall Cache Dirs / Folder Caching published by Bonienl, and reinstall the fork published by dlandon which operates far better under 6.12.x and is currently being maintained."
   },
@@ -382,7 +382,7 @@
     "CAComment": "Expert Only: Not recommended for the casual user.  You must ensure that an upgrade is available for this plugin if you upgrade the Unraid OS",
     "MinVer": "6.1.4"
     },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.integrity.plg": {
+  "https://raw.github.com/unraid/dynamix/master/unRAIDv6/dynamix.file.integrity.plg": {
     "CAComment": "USING THIS PLUGIN ON DISKS FORMATTED IN REISERFS MAY LEAD TO SYSTEM INSTABILITY. IT IS ADVISED TO USE XFS"
     },
   "https://raw.githubusercontent.com/Squidly271/checksum/master/plugins/checksum.plg": {
@@ -649,7 +649,7 @@
     "Deprecated": true,
     "ModeratorComment": "While fully functional, development has ceased on this plugin and been replaced by v2.  See <a href=https://forums.lime-technology.com/topic/61211-plugin-ca-appdata-backup-restore-v2/ target=_blank>HERE</a>"
   },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.ssd.trim.plg": {
+  "https://raw.github.com/unraid/dynamix/master/unRAIDv6/dynamix.ssd.trim.plg": {
     "MinVer": "6.1.9",
     "MaxVer": "6.11.0-rc3"
   },
@@ -764,7 +764,7 @@
     "Deprecated": true,
     "DeprecatedMaxVer": "6.7.0"    
   },
-  "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.system.stats.plg": {
+  "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.system.stats.plg": {
     "UpdateMinVer": "6.7.0-rc1"
   },
   "yujiod/minecraft-mineos": {
@@ -918,10 +918,10 @@
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of one of the other Plex containers (linuxserver, binhex, or the official Plex container).  This does not mean that you have to switch to another version of Plex.  Only new installations of this version are blocked."
   },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.system.temp.plg": {
+  "https://raw.github.com/unraid/dynamix/master/unRAIDv6/dynamix.system.temp.plg": {
     "CAComment": "Note that this plugin will not detect all (or any) temperatures or fan speeds on all combinations of hardware.  This is outside of the author's control"
   },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.system.autofan.plg": {
+  "https://raw.github.com/unraid/dynamix/master/unRAIDv6/dynamix.system.autofan.plg": {
     "CAComment": "Note that this plugin will not detect all (or any) temperatures or fan speeds on all combinations of hardware.  This is outside of the author's control"
   },
   "aptalca/home-automation-bridge": {
@@ -1738,7 +1738,7 @@
     "MaxVer": "6.10.3",
     "RemoveFromCA": true
   },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.encryption.key.plg": {
+  "https://raw.github.com/unraid/dynamix/master/unRAIDv6/dynamix.encryption.key.plg": {
     "RemoveFromCA": true,
     "CAComment": "It's more important to delete the .xml, not the .plg @bergware"
   },
@@ -1974,7 +1974,7 @@
     "Blacklist": true,
     "ModeratorComment": "No longer exists on dockerHub"
   },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.manager.plg": {
+  "https://raw.github.com/unraid/dynamix/master/unRAIDv6/dynamix.file.manager.plg": {
     "MaxVer": "6.12.99"
   },
   "ghcr.io/hotio/cloudflareddns": {
