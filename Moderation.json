@@ -1738,7 +1738,7 @@
     "MaxVer": "6.10.3",
     "RemoveFromCA": true
   },
-  "https://raw.github.com/unraid/dynamix/master/unRAIDv6/dynamix.encryption.key.plg": {
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.encryption.key.plg": {
     "RemoveFromCA": true,
     "CAComment": "It's more important to delete the .xml, not the .plg @bergware"
   },
