@@ -5,7 +5,56 @@
         "name": "untraceablez's Repository",
         "communication": "discord"
     },
-   {
+   
+    {
+        "url": "https://github.com/kroeberd/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/291694-sarcasm/",
+        "name": "sarcasm's Repository",
+        "communication": "discord"
+    },
+    {
+        "url": "https://github.com/BabaBooey84/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/7743-uderzo/",
+        "name": "Uderzo's Repository",
+        "communication": "email"
+    },
+    {
+        "url": "https://github.com/mbirnbach/unraid-docker-templates",
+        "profile": "https://forums.unraid.net/profile/291521-mbirnbach/",
+        "name": "mbirnbach's Repository",
+        "communication": "email"
+    },
+    {
+        "url": "https://github.com/N85UK/UNRAID_APP",
+        "profile": "https://forums.unraid.net/profile/109185-paulmccannn85uk/",
+        "name": "N85UK's Repository",
+        "communication": "email"
+    },
+    {
+        "url": "https://github.com/cajuncoding/Unraid-Templates",
+        "profile": "https://forums.unraid.net/profile/134398-cajuncoding/",
+        "name": "CajunCoding's Repository",
+        "communication": "forum"
+    },
+    {
+        "url": "https://github.com/buxxdev/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/291279-mbxy/",
+        "name": "buxxdev's Repository",
+        "communication": "email"
+    },
+    {
+        "url": "https://github.com/netpersona/popcorn-unraid",
+        "profile": "https://forums.unraid.net/profile/234637-smackmybones/",
+        "name": "Netpersona's Repository",
+        "communication": "email"
+    },
+    {
+        "url": "https://github.com/dopeytree/Unraid-templates",
+        "profile": "https://forums.unraid.net/profile/183052-dopeytree/",
+        "name": "dopeytree's Repository",
+        "communication": "forum"
+    },
+    {
     "name": "Dynamix Plugin Repository",
     "url":  "https://github.com/unraid/dynamix-plugins-xml",
     "forum":  "http://lime-technology.com/forum/index.php?topic=36543.0",
@@ -65,54 +114,6 @@
         "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg": true
  
       }
-    },
-    {
-        "url": "https://github.com/kroeberd/unraid-templates",
-        "profile": "https://forums.unraid.net/profile/291694-sarcasm/",
-        "name": "sarcasm's Repository",
-        "communication": "discord"
-    },
-    {
-        "url": "https://github.com/BabaBooey84/unraid-templates",
-        "profile": "https://forums.unraid.net/profile/7743-uderzo/",
-        "name": "Uderzo's Repository",
-        "communication": "email"
-    },
-    {
-        "url": "https://github.com/mbirnbach/unraid-docker-templates",
-        "profile": "https://forums.unraid.net/profile/291521-mbirnbach/",
-        "name": "mbirnbach's Repository",
-        "communication": "email"
-    },
-    {
-        "url": "https://github.com/N85UK/UNRAID_APP",
-        "profile": "https://forums.unraid.net/profile/109185-paulmccannn85uk/",
-        "name": "N85UK's Repository",
-        "communication": "email"
-    },
-    {
-        "url": "https://github.com/cajuncoding/Unraid-Templates",
-        "profile": "https://forums.unraid.net/profile/134398-cajuncoding/",
-        "name": "CajunCoding's Repository",
-        "communication": "forum"
-    },
-    {
-        "url": "https://github.com/buxxdev/unraid-templates",
-        "profile": "https://forums.unraid.net/profile/291279-mbxy/",
-        "name": "buxxdev's Repository",
-        "communication": "email"
-    },
-    {
-        "url": "https://github.com/netpersona/popcorn-unraid",
-        "profile": "https://forums.unraid.net/profile/234637-smackmybones/",
-        "name": "Netpersona's Repository",
-        "communication": "email"
-    },
-    {
-        "url": "https://github.com/dopeytree/Unraid-templates",
-        "profile": "https://forums.unraid.net/profile/183052-dopeytree/",
-        "name": "dopeytree's Repository",
-        "communication": "forum"
     },
     {
         "url": "https://github.com/rschuiling/unraid-templates",
