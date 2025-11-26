@@ -1,7 +1,4 @@
 {
-  "https://raw.githubusercontent.com/Waseh/rclone-unraid/master/plugin/rclone.plg": {
-    "DeprecatedMaxVer": "7.1.9"
-  },
   "vaultwarden/server": {
     "Video": "https://www.youtube.com/watch?v=2Go3gmgWxQI"
   },
