@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/theodorecharles/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/103598-paloooz/",
+        "name": "paloooz's Repository",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/sparkison/m3u-editor",
         "profile": "https://forums.unraid.net/profile/292018-shparkison/",
         "name": "shparikson's Repository",
