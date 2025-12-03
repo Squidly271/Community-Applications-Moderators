@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/murtaza-nasir/speakr",
+        "name": "learnedmachine's Repository",
+        "profile": "https://forums.unraid.net/profile/292136-learnedmachine/",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/sftpmalin/Media-Remote-Convert",
         "name": "SftpMalin FFmpeg's Repository",
         "communication": "discord"
