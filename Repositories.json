@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/DevlinDelFuego/unraid-templates",
+        "name": "DevlinDelFuego's Repository",
+        "profile": "https://forums.unraid.net/profile/287879-devlindelfuego/",
+        "communication": "discord"
+    },
+    {
         "url": "https://github.com/ruaan-deysel/unraid-management-agent",
         "name": "PanicMechanic00's Repository",
         "profile": "https://forums.unraid.net/profile/98076-panicmechanic007/",
