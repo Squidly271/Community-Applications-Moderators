@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/ruaan-deysel/unraid-management-agent",
+        "name": "PanicMechanic00's Repository",
+        "profile": "https://forums.unraid.net/profile/98076-panicmechanic007/",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/theodorecharles/unraid-templates",
         "profile": "https://forums.unraid.net/profile/103598-paloooz/",
         "name": "paloooz's Repository",
