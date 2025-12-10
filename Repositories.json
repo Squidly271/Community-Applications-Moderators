@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/connorgallopo/tracearr-unraid-template",
+        "name": "Gallapagos' Repository",
+        "profile": "https://forums.unraid.net/profile/281348-gallapagos/",
+        "communication": "discord"
+    },
+    {
         "url":"https://github.com/Indemnity83/always-bring-a-gift",
         "name": "Indemnity83's Repository",
         "profile": "https://forums.unraid.net/profile/83781-indemnity83/",
