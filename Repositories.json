@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/orangecoding/fredy-unraid-template",
+        "name"": "Orangecoding's Repository",
+        "profile": "https://forums.unraid.net/profile/292517-orangecoding/",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/jandrop/file_core_api_unraid",
         "name": "jandrop's Repository",
         "profile": "https://forums.unraid.net/profile/111434-jandrop/",
