@@ -1,4 +1,11 @@
 {
+  "lscr.io/linuxserver/swag": {
+    "Date": "12/1/2025",
+    "Who": "SpaceInvader One",
+    "Reason": {
+      "en_US": " "
+    }
+  },
   "vaultwarden/server": {
     "Date": "10/1/2025",
     "Who": "SpaceInvader One",
