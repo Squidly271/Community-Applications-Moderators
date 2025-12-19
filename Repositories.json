@@ -1,5 +1,11 @@
 [
     {
+        "name": "snoopy86's Repository",
+        "url":  "https://github.com/devdems/unraid/tree/master/docker-repo",
+        "forum":  "http://lime-technology.com/forum/index.php?topic=43610.0",
+        "profile": "https://forums.unraid.net/profile/26537-snoopy86/"
+    },
+    {
         "url": "https://github.com/orangecoding/fredy-unraid-template",
         "name": "Orangecoding's Repository",
         "profile": "https://forums.unraid.net/profile/292517-orangecoding/",
