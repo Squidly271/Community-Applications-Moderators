@@ -1,4 +1,10 @@
 {
+  "https://raw.githubusercontent.com/olehj/disklocation/master/disklocation-master.plg": {
+    "Video": "https://www.youtube.com/watch?v=uN14kowWgvg"
+  },
+  "lscr.io/linuxserver/swag": {
+    "Video": "https://www.youtube.com/watch?v=3uW97tXYWVI"
+  },
   "vaultwarden/server": {
     "Video": "https://www.youtube.com/watch?v=2Go3gmgWxQI"
   },
