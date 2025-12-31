@@ -1,6 +1,13 @@
 {
-  "lscr.io/linuxserver/swag": {
+  "https://raw.githubusercontent.com/olehj/disklocation/master/disklocation-master.plg": {
     "Date": "12/1/2025",
+    "Who": "SpaceInvader One",
+    "Reason": {
+      "en_US": ""
+    }
+  },
+  "lscr.io/linuxserver/swag": {
+    "Date": "11/1/2025",
     "Who": "SpaceInvader One",
     "Reason": {
       "en_US": " "
