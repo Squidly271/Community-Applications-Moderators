@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/Yusseiin/unraid-templates",
+        "name": "Yusseiin's Repository",
+        "profile": "https://forums.unraid.net/profile/279816-yusseiin/",
+        "communication": "discord"
+    },
+    {
         "url": "https://github.com/cabi24/notenregal",
         "name": "cabi24's Repository",
         "communication": "email"
