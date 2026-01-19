@@ -1,4 +1,10 @@
 [
+  {
+    "url": "https://github.com/MattyStacks/docker-templates",
+    "name": "MattyStacks's Repository",
+    "profile": "https://forums.unraid.net/profile/9036-mattystacks/",
+    "communication": "discord"
+  },
     {
         "url": "https://github.com/Yusseiin/unraid-templates",
         "name": "Yusseiin's Repository",
