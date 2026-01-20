@@ -1,4 +1,8 @@
 {
+  "https://raw.githubusercontent.com/dorgan/Unraid-plexstreams/master/plexstreams.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "Multiple reports that this plugin no longer is functional, and is no longer receiving any updates / fixes"
+  },
   "https://raw.githubusercontent.com/gthrift/activestreams-unraid/main/activestreams.plg": {
     "Blacklist": true,
     "ModeratorComment": "HIGHLY suggested to uninstall this plugin.   All access to your server via SMB will likely be lost.   A reboot of your server will be required"
