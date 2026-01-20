@@ -1,4 +1,8 @@
 {
+  "https://raw.githubusercontent.com/gthrift/activestreams-unraid/main/activestreams.plg": {
+    "Blacklist": "https://raw.githubusercontent.com/gthrift/activestreams-unraid/main/activestreams.plg",
+    "ModeratorComment": "HIGHLY suggested to uninstall this plugin.   All access to your server via SMB will likely be lost.   A reboot of your server will be required"
+  },
   "https://raw.githubusercontent.com/olehj/disklocation/master/disklocation-master.plg": {
     "Video": "https://www.youtube.com/watch?v=uN14kowWgvg"
   },
