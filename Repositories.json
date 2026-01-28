@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://github.com/fccview/jotty",
+    "name": "fccview's Repository",
+    "communication": "email"
+  },
+  {
     "url": "https://github.com/jessielw/unraid-templates",
     "name":"Jessielw's Repository",
     "profile": "https://forums.unraid.net/profile/201686-jessielw/",
