@@ -1,5 +1,11 @@
 [
   {
+    "url": "https://github.com/jessielw/unraid-templates",
+    "name":"Jessielw's Repository",
+    "profile": "https://forums.unraid.net/profile/201686-jessielw/",
+    "communication": "forum"
+  },
+  {
     "url": "https://github.com/nebula-codes/hytale_server_manager", 
     "name": "Nebula's Repository",
     "profile": "https://forums.unraid.net/profile/293434-nebulacodes/",
