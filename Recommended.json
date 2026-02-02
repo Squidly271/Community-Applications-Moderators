@@ -3,7 +3,7 @@
     "Date": "1/1/2026",
     "Who": "SpaceInvader One",
     "Reason": {
-      "en_US": ""
+      "en_US": "Paperless NGX Is an open source document management system that transforms physical documents into fully searchable digital documents.  It takes each document and runs it through an OCR which reads the text from the image and embeds it into a file.It then uses machine learning to automatically add tags, dates, and correspondence based on the document's content. You can also manually tag things and categorize it as well.It's good because the OCR process allows us to easily search the entire archive, not just by file name but by the content of the documents. It's really useful for users and is pretty straightforward to set up in Unraid."
     }
   },
   "https://raw.githubusercontent.com/olehj/disklocation/master/disklocation-master.plg": {
