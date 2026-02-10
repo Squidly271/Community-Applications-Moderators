@@ -1,5 +1,11 @@
 [
   {
+    "url": "https://github.com/davemachado/docker-stats",
+    "name": "drm's Repository",
+    "profile": "https://forums.unraid.net/profile/291782-drm8/",
+    "communication": "forum"
+  },
+  {
     "url": "https://github.com/softerfish/seekandwatch",
     "name": "tenletter's Repository",
     "profile": "https://forums.unraid.net/profile/283725-tenletters/",
