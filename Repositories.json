@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://github.com/liorbass/tandarr-unraid-templates",
+    "name": "LioirBass' Repository",
+    "communication": "email"
+  },
+  {
     "url": "https://github.com/dervish666/unraid-templates",
     "name": "dervish's Repository",
     "profile": "https://forums.unraid.net/profile/179627-dervish/",
