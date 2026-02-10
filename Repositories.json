@@ -1,5 +1,11 @@
 [
   {
+    "url": "https://github.com/AradD7/lightarr-template-files",
+    "profile": "https://forums.unraid.net/profile/293896-arad",
+    "name": "Arad's Repository",
+    "communication": "email"
+  },
+  {
     "url": "https://github.com/liorbass/tandarr-unraid-templates",
     "name": "LioirBass' Repository",
     "communication": "email"
