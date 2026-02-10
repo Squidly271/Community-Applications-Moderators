@@ -1,8 +1,14 @@
 [
   {
+    "url": "https://github.com/Watso4183/Unraid",
+    "name": "AcmePluto's Repository",
+    "profile": "https://forums.unraid.net/profile/293586-acmepluto/",
+    "communication": "email"
+  },
+  {
     "url": "https://github.com/AradD7/lightarr-template-files",
-    "profile": "https://forums.unraid.net/profile/293896-arad",
     "name": "Arad's Repository",
+    "profile": "https://forums.unraid.net/profile/293896-arad",
     "communication": "email"
   },
   {
