@@ -1,4 +1,8 @@
 {
+  "ghcr.io/ipnet-mesh/meshcore-mqtt:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
   "mrtbot/mesh-api:latest": {
     "Blacklist": true,
     "ModeratorComment": "unable to be pulled from dockerHub"
