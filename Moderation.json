@@ -1,4 +1,8 @@
 {
+  "ghcr.io/l5yth/potato-mesh-web-linux-arm64:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Arm64 not compatible"
+  },
   "ghcr.io/ipnet-mesh/meshcore-mqtt:latest": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled from dockerHub"
