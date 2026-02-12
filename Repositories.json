@@ -1,5 +1,11 @@
 [
   {
+    "url": "https://github.com/TorBox-App/unraid-templates",
+    "name": "Wamy's Repository",
+    "profile": "https://forums.unraid.net/profile/247536-wamy/",
+    "communication": "discord"
+  },
+  {
     "url": "https://github.com/Saetron/unRAID-CA-templates",
     "name": "saetron's Repository",
     "profile": "https://forums.unraid.net/profile/290584-saetron/",
