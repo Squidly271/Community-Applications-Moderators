@@ -1,4 +1,8 @@
 {
+  "ghcr.io/m3sserstudi0s/swiparr::latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Invalid tag"
+  },
   "ghcr.io/l5yth/potato-mesh-web-linux-armv7:latest": {
     "Blacklist": true,
     "ModeratorComment": "Arm not compatible"
