@@ -1,4 +1,8 @@
 {
+  "biagiomaf/smart-comfyui-gallery": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled from dockerHub"
+  },
   "ghcr.io/m3sserstudi0s/swiparr::latest": {
     "Blacklist": true,
     "ModeratorComment": "Invalid tag"
