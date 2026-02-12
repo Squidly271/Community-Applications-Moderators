@@ -1,4 +1,8 @@
 {
+  "ghcr.io/l5yth/potato-mesh-ingestor-linux-armv7:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Arm64 not compatible"
+  },
   "ghcr.io/l5yth/potato-mesh-web-linux-arm64:latest": {
     "Blacklist": true,
     "ModeratorComment": "Arm64 not compatible"
