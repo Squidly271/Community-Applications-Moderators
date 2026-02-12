@@ -1,7 +1,9 @@
 {
+  "johnpwhite/unraid-plugin-zram": {
+    "RemoveFromCA": true
+  },
   "192.168.1.38:5050/johner/unraid-dkr-openclaw:latest": {
-    "Blacklist": true,
-    "ModeratorComment": "Unable to be pulled from dockerHub"
+    "RemoveFromCA": true
   },
   "biagiomaf/smart-comfyui-gallery": {
     "Blacklist": true,
