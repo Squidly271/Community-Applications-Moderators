@@ -1,4 +1,12 @@
 {
+  "ghcr.io/engels74/tgraph-bot:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled"
+  },
+  "ghcr.io/ggerganov/llama.cpp:server": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled"
+  },
   "ghcr.io/binhex/arch-overseerr": {
     "Deprecated": true,
     "ModeratorComment": "Overseerr has been deprecated.   Advised to migrate over to seerr"
