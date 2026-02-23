@@ -1,4 +1,16 @@
 {
+  "ghcr.io/binhex/arch-overseerr": {
+    "Deprecated": true,
+    "ModeratorComment": "Overseerr has been deprecated.   Advised to migrate over to seerr"
+  },
+  "sctx/overseerr": {
+    "Deprecated": true,
+    "ModeratorComment": "Overseerr has been deprecated.   Advised to migrate over to seerr"
+  },
+  "fallenbagel/jellyseerr:latest": {
+    "Deprecated": true,
+    "ModeratorComment": "Overseerr/Jellseerr has been deprecated.   Advised to migrate over to seerr"
+  },
   "johnpwhite/unraid-plugin-zram": {
     "RemoveFromCA": true
   },
