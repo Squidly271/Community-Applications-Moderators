@@ -1,5 +1,11 @@
 [
   {
+    "url": "https://github.com/Starosdev/unraid-templates",
+    "name": "Starosdev's Repository",
+    "profile": "https://forums.unraid.net/profile/294271-starosdev/",
+    "communication": "email"
+  },
+  {
     "url": "https://github.com/gibz104/SpoolmanSync",
     "name": "gibz104's Repository",
     "profile": "https://forums.unraid.net/profile/293978-gibz104/",
