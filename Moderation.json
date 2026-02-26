@@ -1,4 +1,7 @@
 {
+  "grafana/grafana": {
+    "ExtraParams": "--user 0"
+  },
   "ghcr.io/engels74/tgraph-bot:latest": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled"
