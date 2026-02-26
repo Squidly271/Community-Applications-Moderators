@@ -1,5 +1,35 @@
 [
   {
+    "url": "https://github.com/snuffomega/SoulSync_unraid",
+    "name": "snuffomega's Repository",
+    "profile": "https://forums.unraid.net/profile/258583-snuffomega/",
+    "communication": "discord"
+  },
+  {
+    "url": "https://github.com/laurensguijt/unraid-templates",
+    "name": "Laurensguijt's Repository",
+    "profile": "https://forums.unraid.net/profile/254983-laurensguijt/",
+    "communication": "forum"
+  },
+  {
+    "url": "https://github.com/neur0map/deskmon-unraid-templates",
+    "name": "Neur0map's Repository",
+    "profile": "https://forums.unraid.net/profile/294130-neur0map/",
+    "communication": "email"
+  },
+  {
+    "url": "https://github.com/mayo-248/unraid-templates",
+    "name": "Mayo_248's Repository",
+    "profile": "https://forums.unraid.net/profile/175387-mayo_248/",
+    "communication": "forum"
+  },
+  {
+    "url": "https://github.com/davidjkling/unraid-templates",
+    "name": "Kling's Repository",
+    "profile": "https://forums.unraid.net/profile/293102-kling/",
+    "communication": "email"
+  },
+  {
     "url": "https://github.com/gibz104/SpoolmanSync",
     "name": "gibz104's Repository",
     "profile": "https://forums.unraid.net/profile/293978-gibz104/",
