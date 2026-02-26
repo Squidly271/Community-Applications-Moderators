@@ -1,4 +1,7 @@
 {
+  "ghcr.io/lms-community/lyrionmusicserver:rc": {
+    "Official": true
+  },
   "grafana/grafana": {
     "ExtraParams": "--user 0"
   },
