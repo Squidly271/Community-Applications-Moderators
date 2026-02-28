@@ -1,4 +1,7 @@
 {
+  "stirlingtools/stirling-pdf": {
+    "Video": "https://www.youtube.com/watch?v=puRggPpn_Ys"
+  },
   "ghcr.io/lms-community/lyrionmusicserver:rc": {
     "Official": true
   },
