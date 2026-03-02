@@ -1,5 +1,9 @@
 [
   {
+    "url": "https://github.com/chodeus/unraid-plugins",
+    "name": "chodeus's Repository"
+  },
+  {
     "url": "https://github.com/snuffomega/docker_unraid_templates",
     "name": "snuffomega's Repository",
     "profile": "https://forums.unraid.net/profile/258583-snuffomega/",
