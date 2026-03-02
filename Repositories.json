@@ -1533,12 +1533,6 @@
     }
   },
   {
-    "name": "SlrG's Repository",
-    "url": "https://github.com/SlrG/docker-templates",
-    "forum": "http://forums.unraid.net/index.php?topic=39050.0",
-    "profile": "https://forums.unraid.net/profile/16166-slrg/"
-  },
-  {
     "name": "coppit's Repository",
     "url": "https://github.com/coppit/docker-templates",
     "forum": "http://forums.unraid.net/index.php?topic=39561.0",
