@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/emaspa/emaspa-unraid-templates",
+        "name": "bubbl3's Repository",
+        "profile": "https://forums.unraid.net/profile/71014-bubbl3/",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/Uloga1/pre-seederr",
         "name": "pirlet's Repository",
         "profile": "https://forums.unraid.net/profile/264035-pirlet/",
