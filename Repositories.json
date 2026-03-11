@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/bert-mccutchen/unraid-templates",
+        "profile": "https://forums.unraid.net/profile/178618-bert-mccutchen/",
+        "name":"Bert McCutchen's Repository",
+        "communication": "forum"
+    },
+    {
         "url":"https://github.com/Lazaros-Chalkidis/unraid-logsviewer",
         "name": "Lazaros Chalkidis' Repository",
         "profile": "https://forums.unraid.net/profile/170958-lazaros-chalkidis/",
