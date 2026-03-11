@@ -1,5 +1,11 @@
 [
     {
+        "url":"https://github.com/hsiang-han/unraid_templates",
+        "name":"hsiang's Repository",
+        "profile": "https://forums.unraid.net/profile/213571-hsiang/",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/alexphillips-dev/FolderView-Plus",
         "profile": "https://forums.unraid.net/profile/122915-xcrownedclownsx/",
         "name": "XCrownedClownsX's Repository",
