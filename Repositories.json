@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/cslemieux/unraid-plugin-templates",
+        "name": "zapbranagann's Repository",
+        "profile": "https://forums.unraid.net/profile/98934-zapbranagann/",
+        "communication": "forum"
+    },
+    {
         "url":"https://github.com/hsiang-han/unraid_templates",
         "name":"hsiang's Repository",
         "profile": "https://forums.unraid.net/profile/213571-hsiang/",
