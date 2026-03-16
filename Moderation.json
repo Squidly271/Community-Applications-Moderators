@@ -1,4 +1,10 @@
 {
+  "https://raw.githubusercontent.com/doron1/unraid-newenckey/master/unraid-newenckey.plg": {
+    "DeprecatedMaxVer": "7.0"
+  },
+  "https://raw.githubusercontent.com/doron1/unraid-newenckey/master/plugin/unraid-newenckey.plg": {
+    "DeprecatedMaxVer": "7.0"
+  },
   "am385/APPNAME": {
     "RemoveFromCA": true
   },
