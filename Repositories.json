@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/got3nks/amutorrent",
+        "name": "got3nks' Repository",
+        "profile": "https://forums.unraid.net/profile/294555-got3nks/",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/bitcryptic-gw/unraid-pi-network-node",
         "name": "BitCryptic's Repository",
         "profile": "https://forums.unraid.net/profile/287583-bitcryptic/",
