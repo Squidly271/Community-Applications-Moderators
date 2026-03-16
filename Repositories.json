@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/bitcryptic-gw/unraid-pi-network-node",
+        "name": "BitCryptic's Repository",
+        "profile": "https://forums.unraid.net/profile/287583-bitcryptic/",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/cslemieux/unraid-plugin-templates",
         "name": "zapbranagann's Repository",
         "profile": "https://forums.unraid.net/profile/98934-zapbranagann/",
