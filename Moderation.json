@@ -1,4 +1,7 @@
 {
+  "https://raw.githubusercontent.com/alexphillips-dev/FolderView-Plus/beta/folderview.plus.plg": {
+    "RemoveFromCA": true
+  },
   "https://raw.githubusercontent.com/doron1/unraid-newenckey/main/unraid-newenckey.plg": {
     "DeprecatedMaxVer": "7.0"
   },
