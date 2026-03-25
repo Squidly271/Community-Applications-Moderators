@@ -1,4 +1,8 @@
 {
+  "https://raw.githubusercontent.com/VladoPortos/folder.view2/main/folder.view2.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "This plugin is no longer maintained.   Recommended to switch to Folder View 3 or Folder View Plus available within Apps"
+  },
   "https://raw.githubusercontent.com/alexphillips-dev/FolderView-Plus/beta/folderview.plus.plg": {
     "RemoveFromCA": true
   },
