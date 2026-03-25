@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/mstrhakr/plugin-repository",
+        "name": "mstrhakr's Repository",
+        "profile": "https://forums.unraid.net/profile/119750-mstrhakr",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/got3nks/amutorrent",
         "name": "got3nks' Repository",
         "profile": "https://forums.unraid.net/profile/294555-got3nks/",
