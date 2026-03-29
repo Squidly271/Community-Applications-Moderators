@@ -4213,5 +4213,10 @@
     "url": "https://github.com/gbendy/unraid-templates",
     "profile": "https://forums.unraid.net/profile/275025-bendy/",
     "name": "bendy's Repository"
-  }
+  },
+	{
+		"url": "https://github.com/ProphetSe7en/unraid-templates",
+		"name": "ProphetSe7en's Repository",
+		"profile": "https://forums.unraid.net/profile/89667-prophetse7en/"
+	}
 ]
