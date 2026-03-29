@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/av1155/houndarr-unraid-template",
+        "name": "av1155's Repository",
+        "profile": "https://forums.unraid.net/profile/294737-av1155/",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/maybegrim/unraid-templates",
         "name": "MaybeGrim's Repository",
         "profile": "https://forums.unraid.net/profile/294736-maybegrim/",
