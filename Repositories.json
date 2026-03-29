@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/Maximize1107/unRAID-Templates",
+        "name": "chrislb's Repository",
+        "profile": "https://forums.unraid.net/profile/136631-chrislb/",
+        "communication": "email"
+    },
+    {
         "url": "https://github.com/ruaan-deysel/unraid-apps",
         "name": "PanicMechanic007's Repository",
         "profile": "https://forums.unraid.net/profile/98076-panicmechanic007/",
