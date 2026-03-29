@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/S0CT/fsm",
+        "name": "Kognac's Repository",
+        "profile": "https://forums.unraid.net/profile/275440-kognac/",
+        "communication": "discord"
+    },
+    {
         "url": "https://github.com/jfmlima/unraid-templates",
         "name": "jfmlima's Repository",
         "profile": "https://forums.unraid.net/profile/294161-jfmlima/",
