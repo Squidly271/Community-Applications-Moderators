@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://github.com/johnngone/unraid-ca-templates",
+        "name": "Forder's Repository",
+        "profile": "https://forums.unraid.net/profile/258273-forder/",
+        "communication": "forum"
+    },
+    {
         "url": "https://github.com/FunkeCoder23/unraid-templates/",
         "name": "FunkeCoder23's Repository",
         "profile": "https://forums.unraid.net/profile/273394-funkecoder23/",
