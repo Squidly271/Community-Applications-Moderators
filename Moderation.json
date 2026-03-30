@@ -887,7 +887,8 @@
     "ModeratorComment": "Deprecated in favour of a new app from linuxserver"
   },
   "https://raw.githubusercontent.com/Squidly271/ca.cleanup.appdata/master/plugins/ca.cleanup.appdata.plg": {
-    "CAComment": "In case of a severely misconfigured docker application, this plugin has the ability to delete an entire share.  It is YOUR responsibility to confirm what folders the plugin offers to delete.  The author takes no responsibility if you inadvertently delete an entire share due to your own mistakes"
+    "Deprecated": true,
+    "ModeratorComment": "While still funcational, no further updates will happen to this plugin.  An updated replacement (Appdata Cleanup Plus) is available within Apps.   Advised to uninstall this plugin and install the replacement",
   },
   "dreamcat4/pipework:1.1.5": {
     "RemoveFromCA": true,
