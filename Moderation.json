@@ -416,7 +416,7 @@
   },
   "https://github.com/jbrodriguez/controlr/releases/latest/download/controlr.plg": {
     "Deprecated": true,
-    "ModeratorComment": "Deprecated in favour of ControlRD from same author"
+    "ModeratorComment": "As per <a href='https://jbrio.net/posts/sunset-controlr/' target='_blank'>THIS</a>, this plugin and the associated mobile app has been deprecated ad will no longer be available starting June 1, 2026.   Existing installations should however still operate"
   },
   "ghcr.io/plausible/community-edition:latest": {
     "RemoveFromCA": true,
