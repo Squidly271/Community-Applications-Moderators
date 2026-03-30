@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/aglovewithoutlove/unraid-templates",
+		"name": "logic_error's Repository",
+		"profile": "https://forums.unraid.net/profile/270452-logic_error/",
+		"communication": "email"
+	},
+	{
 		"url": "https://github.com/Kreuzbube88/heltemplates",
 		"name": "Kreuzbube88's Repository",
 		"profile": "https://forums.unraid.net/profile/288986-kreuzbube88/",
