@@ -1,4 +1,10 @@
 [
+	{
+		"url": "https://github.com/TheBlackBush/bambulab_metrics_exporter",
+		"name": "BlackBush's Repository",
+		"profile": "https://forums.unraid.net/profile/119627-blackbush/",
+		"communication": "forum"
+	},
     {
         "url": "https://github.com/dereckhall/unraid-plugin-templates",
         "name": "Dereck's Repository",
