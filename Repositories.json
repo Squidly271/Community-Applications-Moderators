@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/MMagTech/unraid-templates",
+		"name": "MMagTech's Repository",
+		"profile": "https://forums.unraid.net/profile/108975-mmagtech/",
+		"communication": "email"
+	},
+	{
 		"url": "https://github.com/TheBlackBush/bambulab_metrics_exporter",
 		"name": "BlackBush's Repository",
 		"profile": "https://forums.unraid.net/profile/119627-blackbush/",
