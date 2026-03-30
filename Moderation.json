@@ -888,7 +888,7 @@
   },
   "https://raw.githubusercontent.com/Squidly271/ca.cleanup.appdata/master/plugins/ca.cleanup.appdata.plg": {
     "Deprecated": true,
-    "ModeratorComment": "While still funcational, no further updates will happen to this plugin.  An updated replacement (Appdata Cleanup Plus) is available within Apps.   Advised to uninstall this plugin and install the replacement",
+    "ModeratorComment": "While still funcational, no further updates will happen to this plugin.  An updated replacement (Appdata Cleanup Plus) is available within Apps.   Advised to uninstall this plugin and install the replacement"
   },
   "dreamcat4/pipework:1.1.5": {
     "RemoveFromCA": true,
