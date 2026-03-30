@@ -1,7 +1,7 @@
 {
   "https://github.com/jbrodriguez/controlrd/releases/latest/download/controlrd.plg": {
     "Deprecated": true,
-    "ModeratorComment": "As per <a href=https://jbrio.net/posts/sunset-controlr/ target=_blank>THIS</a>, this plugin and the associated mobile app has been deprecated ad will no longer be available starting June 1, 2026.   Existing installations should however still operate"
+    "ModeratorComment": "As per <a href='https://jbrio.net/posts/sunset-controlr/' target='_blank'>THIS</a>, this plugin and the associated mobile app has been deprecated ad will no longer be available starting June 1, 2026.   Existing installations should however still operate"
   },
   "https://raw.githubusercontent.com/VladoPortos/folder.view2/main/folder.view2.plg": {
     "Deprecated": true,
