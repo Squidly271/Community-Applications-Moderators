@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/nulcraft/unraid-templates",
+		"name": "nulcraft's Repository",
+		"profile": "https://forums.unraid.net/profile/88507-nulcraft/",
+		"communication": "discord"
+	},
+	{
 		"url": "https://github.com/wandercone/unraid-plugins",
 		"name": "DiscoverIT's Repository",
 		"profile": "https://forums.unraid.net/profile/116223-discoverit/",
