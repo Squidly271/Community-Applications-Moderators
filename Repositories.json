@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/wandercone/unraid-plugins",
+		"name": "DiscoverIT's Repository",
+		"profile": "https://forums.unraid.net/profile/116223-discoverit/",
+		"communication": "forum"
+	},
+	{
 		"url": "https://github.com/MMagTech/unraid-templates",
 		"name": "MMagTech's Repository",
 		"profile": "https://forums.unraid.net/profile/108975-mmagtech/",
