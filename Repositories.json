@@ -1,7 +1,13 @@
 [
 	{
+		"url": "https://github.com/SuFxGIT/scoutarr",
+		"name": "Scoutarr's Repository",
+		"profile": "https://forums.unraid.net/profile/293114-sufxur/",
+		"communication": "email"
+	},
+	{
 		"url": "https://github.com/SuFxGIT/whatseerr",
-		"name": "SuFx's Repository",
+		"name": "Whatseerr's Repository",
 		"profile": "https://forums.unraid.net/profile/293114-sufxur/",
 		"communication": "email"
 	},
