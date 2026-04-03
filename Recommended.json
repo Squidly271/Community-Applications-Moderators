@@ -1,7 +1,15 @@
 {
+  "spaceinvaderone/a-eye<spaceinvaderone/a-eye": {
+    "Date": "3/1/2026",
+    "Who": "SpaceInvader One",
+    "Why": {
+      "en_US": "No cloud needed, everything runs on your own hardware. Features natural language photo search, quality detection for blurry or accidental shots, XMP sidecar writing compatible with Immich, Lightroom, and digiKam, and a temporary workspace for processing photos from other devices"
+    }
+  },
   "stirlingtools/stirling-pdf": {
     "Date": "2/1/2026",
-    "Who": {
+    "Who": "SpaceInvader One",
+    "Why": {
       "en_US": "The world's most secure PDF platform"
     }
   },
