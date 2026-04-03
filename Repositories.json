@@ -1726,7 +1726,7 @@
     "profile": "https://forums.unraid.net/profile/66302-macester/"
   },
   {
-    "name":  "Official Unraid Repository",
+    "name":  "Official Unraid Plugin Repository",
     "url":  "https://github.com/unraid/docker-templates",
     "shortName": "Unraid",
     "hideFromCA": {
@@ -2615,7 +2615,7 @@
   },
   {
     "url": "https://github.com/unraid/language-templates",
-    "name": "Official Unraid Repository",
+    "name": "Official Language Repository",
     "shortName": "Unraid"
   },
   {
