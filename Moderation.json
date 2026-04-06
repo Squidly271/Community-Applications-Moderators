@@ -1,4 +1,8 @@
 {
+  "registry.gitlab.com/fmd-foss/fmd-server:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled"
+  },
   "ghcr.io/nlevee/simple-google-solver:sha-a3cdb8b": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled"
