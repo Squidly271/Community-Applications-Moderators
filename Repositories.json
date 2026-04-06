@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/JudoChinX/unraid-templates",
+		"name": "JudoChinX's Repository",
+		"profile": "https://forums.unraid.net/profile/287737-judochinx/",
+		"communication": "forum"
+	},
+	{
 		"url": "https://github.com/Inch-high/plexgeo",
 		"name": "Inch's Repository",
 		"profile": "https://forums.unraid.net/profile/136949-inch/",
