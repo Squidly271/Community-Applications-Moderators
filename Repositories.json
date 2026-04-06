@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/b1tsized/unraid-templates",
+		"name": "johnwesturner's Repository",
+		"profile": "https://forums.unraid.net/profile/112763-johnwesturner/",
+		"communication": "forum"
+	},
+	{
 		"url": "https://github.com/pacnpal/unraid-templates/",
 		"name": "pacnpal's Repository",
 		"profile": "https://forums.unraid.net/profile/263235-pacnpal/",
