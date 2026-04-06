@@ -2887,7 +2887,11 @@
   {
     "url": "https://github.com/guydavis/machinaris-unraid",
     "profile": "https://forums.unraid.net/profile/126090-guydavis/",
-    "name": "guy.davis' Repository"
+    "name": "guy.davis' Repository",
+	  "deprecated": {
+		  "ghcr.io/guydavis/machinaris-apple": true,
+		  "ghcr.io/guydavis/machinaris-ballcoin": true
+	  }
   },
   {
     "url": "https://github.com/breadlysm/Breads-unraid-templates",
