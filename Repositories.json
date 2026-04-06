@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/suitux/tagr-unraid",
+		"name": "suitux's Repository",
+		"profile": "https://forums.unraid.net/profile/294950-suitux/",
+		"communication": "email"
+	},
+	{
 		"url": "https://github.com/nullata/unraid-images",
 		"name": "nullata's Repository",
 		"profile": "https://forums.unraid.net/profile/229913-nullata/",
