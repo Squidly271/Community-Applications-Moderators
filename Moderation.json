@@ -1,8 +1,4 @@
 {
-  "nvcr.io/nim/meta/llama-3.2-3b-instruct:latest": {
-    "Blacklist": true,
-    "ModeratorComment": "Unable to be pulled"
-  },
   "ghcr.io/geiserx/duplicacy-exporter:latest": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled"
