@@ -1,5 +1,10 @@
 [
 	{
+		"url": "https://github.com/ipdock/unraid-templates",
+		"name": "ipdock's Repository",
+		"communication": "discord"
+	},
+	{
 		"url": "https://github.com/GeiserX/docker-templates",
 		"name": "geiserx's Repository",
 		"profile": "https://forums.unraid.net/profile/276896-geiserx/",
