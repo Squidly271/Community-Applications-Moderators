@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/TheRealShadoh/babel",
+		"name": "shadoh's Repository",
+		"profile": "https://forums.unraid.net/profile/93754-shadoh/",
+		"communication": "discord"
+	},
+	{
 		"url": "https://github.com/ipdock/unraid-templates",
 		"name": "ipdock's Repository",
 		"communication": "discord"
