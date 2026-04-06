@@ -11,6 +11,10 @@
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled"
   },
+  "drumsergio/jellytelegram-sync:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled"
+  },
   "https://github.com/jbrodriguez/controlrd/releases/latest/download/controlrd.plg": {
     "Deprecated": true,
     "ModeratorComment": "As per <a href='https://jbrio.net/posts/sunset-controlr/' target='_blank'>THIS</a>, this plugin and the associated mobile app has been deprecated ad will no longer be available starting June 1, 2026.   Existing installations should however still operate"
