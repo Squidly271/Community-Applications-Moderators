@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/JSONbored/awesome-unraid",
+		"name": "JSONbored's Repository",
+		"profile": "https://forums.unraid.net/profile/261555-jsonbored/",
+		"communication": "discord"
+	},
+	{
 		"url": "https://github.com/CtznSniiips/UnraidTemplates",
 		"name": "CtznSnips' Repository",
 		"profile": "https://forums.unraid.net/profile/98131-ctznsnips/",
