@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/transmute-app/unraid-template",
+		"name": "Transmute's Repository",
+		"profile": "https://forums.unraid.net/profile/294904-chase-roohms/",
+		"communication": "email"
+	},
+	{
 		"url":"https://github.com/PikkonMG/unraid-docker-templates",
 		"name": "PikkonMG's Repository",
 		"profile": "https://forums.unraid.net/profile/75476-pikkonmg/",
