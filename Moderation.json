@@ -1,4 +1,8 @@
 {
+  "ghcr.io/nlevee/simple-google-solver:sha-a3cdb8b": {
+    "Blacklist": true,
+    "ModeratorComment": "Unable to be pulled"
+  },
   "pinkyswear/ckpool-solo:latest": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled"
