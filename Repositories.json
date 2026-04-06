@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/Goodhall-Solutions/unraid-templates",
+		"name": "Goodhall Solutions' Repository",
+		"profile": "https://forums.unraid.net/profile/294974-goodhall-solutions/",
+		"communication": "discord"
+	},
+	{
 		"url": "https://github.com/JudoChinX/unraid-templates",
 		"name": "JudoChinX's Repository",
 		"profile": "https://forums.unraid.net/profile/287737-judochinx/",
