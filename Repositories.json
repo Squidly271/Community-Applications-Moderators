@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/GeiserX/docker-templates",
+		"name": "geiserx's Repository",
+		"profile": "https://forums.unraid.net/profile/276896-geiserx/",
+		"communication": "email"
+	},
+	{
 		"url": "https://github.com/ripleyXLR8/unraid-templates",
 		"name": "ripleyxlr8's Repository",
 		"profile": "https://forums.unraid.net/profile/101434-ripleyxlr8/",
