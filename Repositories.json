@@ -2883,7 +2883,7 @@
     "profile": "https://forums.unraid.net/profile/126090-guydavis/",
     "name": "guy.davis' Repository",
 	  "deprecated": {
-		  "ghcr.io/guydavis/machinaris-mint": true
+		  "ghcr.io/guydavis/machinaris-mint": true,
 		  "ghcr.io/guydavis/machinaris-apple": true,
 		  "ghcr.io/guydavis/machinaris-ballcoin": true,
 		  "ghcr.io/guydavis/machinaris-bpx": true,
