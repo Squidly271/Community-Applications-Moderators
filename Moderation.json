@@ -1,4 +1,8 @@
 {
+  "maihai/nut-influxdb-exporter": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of Telegraf"
+  },
   "registry.gitlab.com/fmd-foss/fmd-server:latest": {
     "Blacklist": true,
     "ModeratorComment": "Unable to be pulled"
