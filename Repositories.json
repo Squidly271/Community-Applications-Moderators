@@ -1,5 +1,11 @@
 [
 	{
+		"url": "https://github.com/Billyboii/mcsmanager-unraid",
+		"name": "billyboi's Repository",
+		"profile": "https://forums.unraid.net/profile/293091-billyboi/",
+		"communication": "email"
+	},
+	{
 		"url": "https://github.com/anojht/invoiceninja",
 		"name": "anojht's Repository",
 		"profile": "https://forums.unraid.net/profile/87757-microservices/",
