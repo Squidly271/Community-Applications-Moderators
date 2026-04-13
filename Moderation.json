@@ -1,4 +1,8 @@
 {
+  "brycelarge/xteve-vpn": {
+    "Deprecated": true,
+    "ModeratorComment": "This template is no longer maintained. Please use tuliprox-vpn instead"
+  },
   "maihai/nut-influxdb-exporter": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of Telegraf"
