@@ -1,4 +1,7 @@
 {
+  "https://gitlab.johnpwhite.com/johner/unraid-zram-card/-/raw/master/unraid-zram-card.plg": {
+    "RemoveFromCA": true
+  },
   "spaceinvaderone/a-eye": {
     "Video": "https://www.youtube.com/watch?v=_82_Z-R5dFQ"
   },
