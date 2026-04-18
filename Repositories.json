@@ -1,5 +1,10 @@
 [
 	{
+		"url": "https://github.com/kaedinger/unraid-ca-xml-templates",
+		"name": "kaedinger's Repository",
+		"communication": "email"
+	},
+	{
 		"url": "https://github.com/mcdays94/docker-templates",
 		"name": "mcdays94's Repository",
 		"communication": "forum"
