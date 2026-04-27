@@ -1,5 +1,10 @@
 [
 	{
+		"url": "https://github.com/Abrechen2/docker-templates",
+		"name": "Abrechen2's Repository",
+		"communication": "email"
+	},
+	{
 		"url": "https://github.com/sydlexius/unraid-templates",
 		"name": "sydlexius' Repository",
 		"communication": "email"
