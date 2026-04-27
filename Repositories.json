@@ -1,5 +1,10 @@
 [
 	{
+		"url": "https://github.com/silkyclouds/unraid-disk-talkers",
+		"name": "meaning's Repository",
+		"communication": "discord"
+	},
+	{
 		"url": "https://github.com/Abrechen2/docker-templates",
 		"name": "Abrechen2's Repository",
 		"communication": "email"
