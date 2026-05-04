@@ -1,5 +1,110 @@
 [
 	{
+		"url": "https://github.com/jsatk/unraid-templates",
+		"name": "jsatk's unraid templates",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/schartrand77/makerworks-unraid-templates",
+		"name": "techpunk's repo",
+		"communication": "forum"
+	},
+	{
+		"url": "https://github.com/itsnotwebby/unraid-templates",
+		"name": "Webby's Repository",
+		"communication": "discord"
+	},
+	{
+		"url": "https://github.com/vonhex/unraid-templates",
+		"name": "Vonhex's Repository",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/fisherd80/Listarr",
+		"name": "fisherd91's Repository",
+		"communication": "forum"
+	},
+	{
+		"url": "https://github.com/vanshady/unraid-templates",
+		"name": "vanshady's Repository",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/lumbeecheraw75/unraid-templates",
+		"name": "lumbeecheraw75's Repository",
+		"communication": "forum"
+	},
+	{
+		"url": "https://github.com/Tylan/Unraid",
+		"name": "Tylan's Repository",
+		"communication": "forum"
+	},
+	{
+		"url": "https://github.com/JeremiahChurch/arc-relay-unraid",
+		"name": "Jeremiah's Repository",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/Revise0592/unraid-apps",
+		"name": "Larv's Repository",
+		"communication": "discord"
+	},
+	{
+		"url": "https://github.com/mmenanno/unraid-templates",
+		"name": "mmenanno's Repository",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/Lumen-Labs/brainapi2",
+		"name": "BrainAPI",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/kylejschultz/unraid-templates",
+		"name": "Gurthyy's Repository",
+		"communication": "discord"
+	},
+	{
+		"url": "https://github.com/Memtly/Memtly.Unraid",
+		"name": "Memtly",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/Oratorian/unraid-templates",
+		"name": "Mahesvara's Toolshed",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/allaboutduncan/clu-comics",
+		"name": "CLU Comics",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/Esteban4u/ReBalance",
+		"name": "Esteban4u's Repository",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/WhydahGally/docker-templates",
+		"name": "WhydahGally",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/Berrysekk/Script-Dashboard",
+		"name": "Script Dashboard",
+		"communication": "forum"
+	},
+	{
+		"url": "https://github.com/sworcery/mem-zero",
+		"name": "sworcery's 2nd Repository",
+		"communication": "forum"
+	},
+	{
+		"url": "https://github.com/bitcryptic-gw/unraid-templates",
+		"name": "BitCryptic's 2nd Repository",
+		"communication": "email"
+	},
+	{
 		"url": "https://github.com/silkyclouds/unraid-disk-talkers",
 		"name": "meaning's Repository",
 		"communication": "discord"
