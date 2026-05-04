@@ -55,18 +55,13 @@
 		"communication": "email"
 	},
 	{
-		"url": "https://github.com/Lumen-Labs/brainapi2",
-		"name": "BrainAPI",
-		"communication": "email"
-	},
-	{
 		"url": "https://github.com/kylejschultz/unraid-templates",
 		"name": "Gurthyy's Repository",
 		"communication": "discord"
 	},
 	{
 		"url": "https://github.com/Memtly/Memtly.Unraid",
-		"name": "Memtly",
+		"name": "Memtly's Repository",
 		"communication": "email"
 	},
 	{
@@ -76,7 +71,7 @@
 	},
 	{
 		"url": "https://github.com/allaboutduncan/clu-comics",
-		"name": "CLU Comics",
+		"name": "AllAboutDuncan's Repository",
 		"communication": "email"
 	},
 	{
@@ -86,7 +81,7 @@
 	},
 	{
 		"url": "https://github.com/WhydahGally/docker-templates",
-		"name": "WhydahGally",
+		"name": "WhydahGally's Repository",
 		"communication": "email"
 	},
 	{
