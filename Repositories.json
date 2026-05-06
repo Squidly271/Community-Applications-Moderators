@@ -4274,7 +4274,10 @@
   {
     "url": "https://github.com/chirmstream/unraid-templates",
     "profile": "https://forums.unraid.net/profile/103420-dglb99/",
-    "name": "dglb99's Repository"
+    "name": "dglb99's Repository",
+	  "duplicated": {
+		  "lscr.io/linuxserver/mariadb": true
+	  }
   },
   {
     "url": "https://github.com/Phalcode/unraid-templates",
