@@ -4431,7 +4431,8 @@
     "profile": "https://forums.unraid.net/profile/271480-emp83/",
     "name": "emp83's Repository",
     "duplicated": {
-      "jc21/nginx-proxy-manager": true
+      "jc21/nginx-proxy-manager": true,
+		"lscr.io/linuxserver/wireguard:latest": true
     }
   },
   {
