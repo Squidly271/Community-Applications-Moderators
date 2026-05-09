@@ -1,4 +1,7 @@
 {
+  "https://raw.githubusercontent.com/cslemieux/unraid-custom-smb-shares/main/custom.smb.shares.plg": {
+    "Video": "https://www.youtube.com/watch?v=7PoQ0STXN6c"
+  },
   "https://gitlab.johnpwhite.com/johner/unraid-zram-card/-/raw/master/unraid-zram-card.plg": {
     "RemoveFromCA": true
   },
