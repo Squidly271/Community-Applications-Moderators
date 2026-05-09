@@ -1,4 +1,11 @@
 {
+  "https://raw.githubusercontent.com/cslemieux/unraid-custom-smb-shares/main/custom.smb.shares.plg": {
+    "Date": "4/1/2026",
+    "Who": "SpaceInvader One",
+    "Reason": {
+      "en_US": "Allows subfolder sharing. Export a share with special characters, and much more!"
+    }
+  },
   "spaceinvaderone/a-eye": {
     "Date": "3/1/2026",
     "Who": "SpaceInvader One",
