@@ -1,5 +1,65 @@
 [
 	{
+		"url": "https://github.com/brq-ae/boltarr-templates",
+		"name": "Brq.ae Repository",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/Greite/unraid-templates",
+		"name": "GreiteTurtle",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/mecharmor/gog-free-claimer",
+		"name": "GOG Free Games Claimer",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/storkenlorken/birdview",
+		"name": "StorkenLorken's Repository",
+		"communication": "discord"
+	},
+	{
+		"url": "https://github.com/PerpetualSoftware/unraid-templates",
+		"name": "Perpetual Software's Repository",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/metronade/unraid-templates",
+		"name": "nade's Repository",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/nyxtron/unraid-templates",
+		"name": "Nyxtron's Repository",
+		"communication": "forum"
+	},
+	{
+		"url": "https://github.com/botmem/botmem",
+		"name": "botmem",
+		"communication": "forum"
+	},
+	{
+		"url": "https://github.com/jordibrouwer/nextdash",
+		"name": "Jordibrw",
+		"communication": "email"
+	},
+	{
+		"url": "https://github.com/VandaLpr/unRAID-CA-templates",
+		"name": "VandaL Repository",
+		"communication": "discord"
+	},
+	{
+		"url": "https://github.com/GoldnGroup/unraid-templates",
+		"name": "GoldnGroup's Repository",
+		"communication": "forum"
+	},
+	{
+		"url": "https://github.com/prolife86/unraid-templates",
+		"name": "Heisenbugger's Repository",
+		"communication": "email"
+	},
+	{
 		"url": "https://github.com/jsatk/unraid-templates",
 		"name": "jsatk's unraid templates",
 		"communication": "email"
